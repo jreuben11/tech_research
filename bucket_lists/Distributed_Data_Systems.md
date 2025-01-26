@@ -15,12 +15,12 @@
 -  Apache APISIX https://apisix.apache.org/docs/apisix/getting-started/README/ API Gateway
 -  
 -  SingleStore https://docs.singlestore.com/ 
--  
+
+## SQL enhancements  
 -  PartiQL https://partiql.org/dql/overview.html 
 -  PRQL https://prql-lang.org/  pipelined SQL
 -  
 -  
--  Centrifugo https://centrifugal.dev/ 
 -  Debezium (200 pages) https://debezium.io/documentation/reference/
 -  
 -  Apache Xtable https://xtable.apache.org/docs/ metadata interop for iceberg, hudi
@@ -30,13 +30,10 @@
 -  DAOS https://docs.daos.io/ NVMe accelerated S3
 -  SparQL revise
 -  Cloud-Init https://cloudinit.readthedocs.io/en/latest/ python 
--  PubNub https://www.pubnub.com/docs/java
 -  Avro (40 pages)
 -  Apache Cordova https://cordova.apache.org/ mobile web
 -  https://github.com/Netflix/ 
 -  Serf www.serfdom.io , ~Vagrant
--  http://hapijs.com/  Hapi node framework
--  http://loopback.io Loopback NodeJs
 
 ## Graph DBs
 -  Neo4j Cypher https://neo4j.com/docs/cypher-manual/current/introduction/ 
@@ -54,10 +51,6 @@
 -  .NET Aspire cloud native app stack https://learn.microsoft.com/en-us/dotnet/aspire/ 
 -  System design – algomaster blog https://blog.algomaster.io/archive?sort=new 
 
-## Push
--  Firebase (400 pages)
--  Kurento (230 pages) WebRTC
--  
 -  
 ## Postgres 
 - https://www.postgresql.org/docs/current/index.html 

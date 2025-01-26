@@ -5,8 +5,10 @@
 -  Microsoft TypeSpec https://typespec.io/ - typescript payload validation, emit OpenAPI
 -  Zod https://zod.dev/ TypeScript-first schema validation with static type inference
 -  TRPC https://trpc.io/ e2e typesafe APIs 
--  Web Testing Lib https://testing-library.com/docs/
+-  NativeScript http://docs.nativescript.org/  typescipt platform APIs ?
+-  Typescript-eslint (37 pages)
 -  Babel (TC39 polyfills) https://babeljs.io/docs/en/
+-  Revise Ramda
 
 ## Microfrontends
 -  - Module Federation 2.0 https://module-federation.io/guide/start/index.html
@@ -24,9 +26,6 @@
 -  Tanstack https://tanstack.com/ 
 -  PNPM https://pnpm.io/motivation 
 
-## server-side
--  Prisma https://www.prisma.io/docs/orm ORM
--  Node API https://nodejs.org/api/documentation.html 
 
 # React visual tools
 - Puck https://puckeditor.com/docs visual editor for react
@@ -37,7 +36,6 @@
 ## comprehensive feature catalogs
 
 -  https://developer.mozilla.org/en-US/docs/Web 
--  https://caniuse.com/ciu/index 
 -  MDN updates https://developer.mozilla.org/en-US/plus/updates – good resource !
 -  Webdev can-i-use https://caniuse.com/ciu/index  
 -  Kangax https://kangax.github.io/compat-table/es6/ 
@@ -46,16 +44,22 @@
 -  Tc39 proposals https://github.com/tc39/proposals 
 -  Kangax browser compat http://kangax.github.io/compat-table/
 -  MDN Guides https://developer.mozilla.org/en-US/docs/Web/Guide 
-- CSS DB https://cssdb.org/  
+-  CSS DB https://cssdb.org/  
+-  Chrome updates https://web.dev/tags/new-to-the-web/ 
 -  
-## WebPack
+## WebPack + alternatives
 -  ts-loader https://github.com/TypeStrong/ts-loader TypeScript loader for webpack
 -  Dynamic ES module loader https://github.com/systemjs/systemjs 
+-  Esbuild (65 pages)
+-  Turbopack https://turbo.build/pack/docs 
+-  Rome (not baked yet)
 
 ## non-react alternative
+-  SvelteFlow https://svelteflow.dev/
+-  Udemy: Sveltekit https://cognyte.udemy.com/course/svelte-and-sveltekit/
 -  React Native (60 pages)
--  Lit (70 pages)
--  Preact (60 pages) 
+-  Lit (70 pages) https://lit.dev/docs/ 
+-  FaceBook Preact, Mobx (70 pages)
 -  
 ## Styling
 -  React-bootstrap (135 pages)
@@ -68,13 +72,16 @@
 ## WASM
 -  MDN WebAssembly https://developer.mozilla.org/en-US/docs/WebAssembly 
 -  Enhance WASM https://enhance.dev/docs/  server side rendered web components
+-  AssemblyScript https://www.assemblyscript.org/ TypeScript WASM
+
 ## WebComponents
 -  MDN WebComponents https://developer.mozilla.org/en-US/docs/Web/Web_Components 
--  Chrome updates https://web.dev/tags/new-to-the-web/ 
--  Esbuild (65 pages)
--  Turbopack https://turbo.build/pack/docs 
 -  Vercel https://vercel.com/docs
 -  Hasura GraphQL https://hasura.io/docs/latest/index/
+
+## Data Visualization + dashboards
+-  Chartjs https://www.chartjs.org/docs/latest/ 
+-  Metabase https://www.metabase.com/docs/latest/
 
 ## 2D / 3D
 - discover threejs https://discoverthreejs.com/
@@ -84,9 +91,6 @@
 -  A-Frame (135 pages) -  Mozilla https://aframe.io/docs/0.6.0/introduction/ 
 -  Drei https://github.com/pmndrs/drei 
 
--  Rome (not baked yet)
--  Google lit https://lit.dev/docs/ 
--  ChromeOS dev https://chromeos.dev/en 
   
 ## HTMX
 -  AHA Stack https://ahastack.dev/aha/1-stack-overview/ 
@@ -95,32 +99,43 @@
 ## Browser extensions / chrome
 -  MDN Browser Extensions (140 pages) 
 -  Chrome DevTools https://developer.chrome.com/docs/devtools/ 
--  Typescript-eslint (37 pages)
+-  ChromeOS dev https://chromeos.dev/en 
+
+## state mgmt
+-  Flux Frameworks https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31 
+- Redux RTK
 -  Jotai
--  SvelteFlow https://svelteflow.dev/
--  Udemy: Sveltekit https://cognyte.udemy.com/course/svelte-and-sveltekit/
+
+## server-side
+-  Prisma https://www.prisma.io/docs/orm ORM
 -  Centrifugo WebSockets Push https://centrifugal.dev/docs 
--  
+-  WebRTC https://webrtc.github.io/samples/ ,  http://www.webrtc.org/web-apis
+-  http://hapijs.com/  Hapi node framework
+-  http://loopback.io Loopback NodeJs
 -  Refresher: NodeJs API https://nodejs.org/api/documentation.html
--  Chartjs https://www.chartjs.org/docs/latest/ 
+
+## WebRTC
 -  Jitsi WebRTC Server https://jitsi.github.io/handbook/docs 
 -  NGinX refresher (45 pages)
 -  NodeJs Koa (25 pages)
 -  google webdev fundamentals (450 pages) https://web.dev/learn 
+-  Facebook GraphQL https://facebook.github.io/graphql 
+
+## testing
+-  Web Testing Lib https://testing-library.com/docs/
 
 
+## Push
+-  Firebase (400 pages)
+-  Kurento (230 pages) WebRTC
+-  PubNub https://www.pubnub.com/docs/java
+-  Centrifugo https://centrifugal.dev/ 
 
-
-
--  AssemblyScript https://www.assemblyscript.org/ TypeScript WASM
--  Facebook GrapQL https://facebook.github.io/graphql 
+## utils + libs
 -  Cheerio https://cheerio.js.org/ HTML parser, jQuery replacement ?
 -  Jmespath http://jmespath.org/  json query language
--  Revise Ramda
--  https://www.youtube.com/tmpchem 
 -  Node N-API
 -  NextJs https://nextjs.org/docs 
--  FaceBook Preact, Mobx (70 pages)
 -  Prisma https://www.prisma.io/docs/ 
 -  Gatsby https://www.gatsbyjs.org/docs/ 
 -  ReasonML https://reasonml.github.io/reason-react/docs
@@ -145,13 +160,10 @@
 
 -  https://www.m/ , https://devforttps://www.rview?utm_campaign=lc_homepage 
 -  WebAssembly + Emscripten (170 pages)
--  WebRTC https://webrtc.github.io/samples/ ,  http://www.webrtc.org/web-apis
 -  MDN DOM + Jquery refresher (125 pages)
 -  W3C ServiceWorkers https://changelog.com/essential-reading-list-for-getting-started-with-service-workers/ 
 -  Twitter Bootstrap https://getbootstrap.com/ 
 -  ReactiveJs (100 pages) https://rxjs.dev/ 
--  NativeScript http://docs.nativescript.org/  typescipt platform APIs ?
--  Flux Frameworks https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31 
 -  Foundation responsive frontend framework https://get.foundation/ 
 -  Webdev tutorials https://www.kirupa.com/learn/index.htm
 -  http://www.thesitewizard.com/gettingstarted/index.shtml setting up a site

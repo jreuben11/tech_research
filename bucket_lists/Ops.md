@@ -14,7 +14,7 @@
 -  KCL https://kcl-lang.io/docs CNCF K8s config constraints
 -  CrossPlane https://docs.crossplane.io/ YAML coloud-native control planes
 -  KubeBlocks https://kubeblocks.io/  a universal K8s operator framework
--  CubeFS https://cubefs.io/docs/master/overview/introduction.html
+-  CubeFS https://cubefs.io/docs/master/overview/introduction.html cloud native file system
 -  CDKTF (180 pages) - Terraform
 -  Book: CI/CD Tekton (150 pages)
 -  Revise GKE (640 pages)
