@@ -1,0 +1,108 @@
+# Nvidia SDKs - 2026
+
+
+-  Nvidia on-demand (videos) https://www.nvidia.com/en-us/on-demand
+-  Nvidia Online Training courses https://www.nvidia.com/en-us/training/online/
+-  Nvidia NGC https://docs.nvidia.com/ngc/ 
+-  Nvidia FasterTransformer https://github.com/NVIDIA/FasterTransformer/tree/main/docs 
+-  GPU Glossary https://modal.com/gpu-glossary  - good resource !
+-  GPU for Deep Learning
+-  Nvidia cuTENSOR (70 pages) https://docs.nvidia.com/cuda/cutensor/latest/index.html 
+-  Nvidia CuPy (35 pages)  https://cupy.dev/ - 3rd party Numpy
+-  Nvidia Cuda-Python https://github.com/NVIDIA/cuda-python 
+-  Nvidia CuPyNumeric https://docs.nvidia.com/cupynumeric/latest/ - Nvidia’s version
+-  nvmath-python  https://docs.nvidia.com/cuda/nvmath-python/latest/index.html 
+-  CudSS https://docs.nvidia.com/cuda/cudss/index.html sparse solvers 
+-  CuSOLVERMp https://docs.nvidia.com/cuda/cusolvermp/ Distributed Dense Linear Algebra
+-  cuOpt https://docs.nvidia.com/cuopt/user-guide/introduction.html  combinatorial and linear optimization engine
+-  Nvidia Rapids CuGraph (37 pages) https://docs.rapids.ai/api/cugraph/stable/ 
+-  Nvidia AI Workbench (85 pages)  https://docs.nvidia.com/ai-workbench/user-guide/latest/index.html 
+-  Nvidia WARP https://nvidia.github.io/warp/ python robotics simulations
+-  Course: Nvidia Accelerated Computing (41 hours, $450) 
+-  Course: Nvidia Data Science (9 hours, $120)
+-  Course: Nvidia GenAI / LLMs (22 hours, $180)
+-  SLURM https://slurm.schedmd.com/
+-  NVidia TensorFlow User Guide (15 pages)
+-  NVidia Optimized Frameworks https://docs.nvidia.com/deeplearning/frameworks/index.html 
+-  NVidia CuDNN Guide (27 pages)
+-  Optimization Techniques for GPU Programming [pdf] https://dl.acm.org/doi/pdf/10.1145/3570638  80 pages 
+-  NVidia Shader Slang https://shader-slang.com/slang/user-guide/index.html 
+-  NVidia Warp https://nvidia.github.io/warp/_build/html/index.html 
+-  NVidia CUDA Toolkit (2300 pages)
+-  NVidia GPU Direct Storage (170 pages)
+-  Nvidia CuQuantum https://docs.nvidia.com/cuda/cuquantum/ 
+-  NVidia Online Learning Paths https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web
+-  Nvidia CuRobo https://curobo.org/
+-  CUDA Modern C++ paper (70 pages)
+-  CUDA-X Libraries https://developer.nvidia.com/gpu-accelerated-libraries 
+-  Nvidia FLARE https://nvflare.readthedocs.io/en/ - federated learning
+-  https://docs.nvidia.com/deploy/index.html 
+-  https://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf 
+-  NVidia MPS (multi-process server) (15 pages)
+-  Gunrock Programmable CUDA/C++ GPU Graph Analytics gunrock.github.io/gunrock/ 
+-  Nvidia Deploy (90 pages) https://docs.nvidia.com/deploy/ 
+-  NVIDIA CUDA Libraries Docs https://docs.nvidia.com/cuda-libraries/index.html
+-  - cuBLAS: implementation of BLAS (Basic Linear Algebra Subprograms) https://docs.nvidia.com/cuda/cublas/index.html 
+-  - cuSPARSE https://docs.nvidia.com/cuda/cusparse/index.html 
+-  - cuRAND https://docs.nvidia.com/cuda/curand/index.html 
+-  - NPP (2D image and signal processing) https://docs.nvidia.com/cuda/npp/index.html 
+-  - cuSPARSELt (structured matrix-dense matmul) https://docs.nvidia.com/cuda/cusparselt/index.html 
+-  - cuSOLVER (LAPACK-like features) https://docs.nvidia.com/cuda/cusolver/index.html
+-  - cuFFT https://docs.nvidia.com/cuda/cufft/index.html 
+-  - nvJPEG (JPEG encoding and decoding) https://docs.nvidia.com/cuda/nvjpeg/index.html 
+-  - cuTENSOR (tensor contraction, reduction and elementwise operations) https://docs.nvidia.com/cuda/cutensor/index.html 
+-  - nvJPEG2000 https://docs.nvidia.com/cuda/nvjpeg2000/index.html
+-  - cublasdx  https://docs.nvidia.com/cuda/cublasdx/
+-  - cudss https://docs.nvidia.com/cuda/cudss/index.html 
+-  NVidia cuBLAS (160 pages)
+-  Nvidia Nsight (300 pages)
+-  NVidia HPC SDK https://docs.nvidia.com/hpc-sdk/index.html  
+-  nvidia legate HPC https://github.com/nv-legate 
+-  CuEquivariance https://docs.nvidia.com/cuda/cuequivariance/ 
+-  NVidia Magnum Direct Storage (160 pages)
+-  Nvidia NCCL (50 pages) https://docs.nvidia.com/deeplearning/nccl/index.html
+-  NVidia Ray Tracing (700 pages)
+-  NVidia Isaac Sim (550 pages)
+-  NVidia FastTransformer (150 pages) - DEAD
+-  Nvidia FasterTransformer https://github.com/NVIDIA/FasterTransformer - DEAD
+-  NVidia Drive Sim
+-  NVidia Tao (transfer learning)
+-  NVIDIA Video Codec SDK https://docs.nvidia.com/video-technologies/index.html
+-  NVidia Omniverse
+-  Nvidia Holoscan https://docs.nvidia.com/holoscan/sdk-user-guide/index.html - streaming
+-  NVidia Modulus (370 pages) – Physics ML framework
+-  Nvidia vGPUs https://docs.nvidia.com/grid/17.0/index.html 
+-  Nvidia CUDA Quantum https://nvidia.github.io/cuda-quantum/latest/install.html 
+-  NVidia Digits (20 pages) https://docs.nvidia.com/deeplearning/digits/index.html – training framework
+-  NVidia DALI (GPU ETL) https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html 
+-  NVidia Nemo (LM Transfer Learning)https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/index.html  – E2E GenAI
+-  NVidia AI assisted annotation kit https://docs.nvidia.com/clara/clara-train-sdk/aiaa/index.html 
+-  Nvidia Maxine https://developer.nvidia.com/maxine NIM realtime inference
+-  Nvidia Spark Rapids accelerator https://docs.nvidia.com/ai-enterprise/deployment-guide-spark-rapids-accelerator/0.1.0/index.html
+-  NVidia Drive https://docs.nvidia.com/drive/ 
+-  https://docs.nvidia.com/drive/drive_os_5.1.6.1L/nvvib_docs/index.html 
+-  GPUDirect Storage https://docs.nvidia.com/gpudirect-storage/index.html 
+-  NVidia Riva (Speech) https://docs.nvidia.com/deeplearning/riva/user-guide/docs/index.html 
+-  Nvidia Clara Holoscan https://docs.nvidia.com/clara-holoscan/sdk-user-guide 
+-  NVidia Virtual GPU https://docs.nvidia.com/grid/17.0/index.html17.0/index.html# 
+-  Nvidia Network Operator https://docs.nvidia.com/networking/display/cokan10/network+operator 
+-  Nvidia GPU Operator https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html 
+-  Nvidia Base Command Manager https://docs.nvidia.com/base-command-manager/#product-manuals 
+-  NVidia NSIGHT, DLProf, Feature Map Explorer
+-  NVidia Merlin  https://developer.nvidia.com/merlin recommender system
+-  Nvidia Triton Management Service https://docs.nvidia.com/triton-management-service/deployment-guide/latest/index.html 
+-  Nvidia Drive https://docs.nvidia.com/drive/ 
+-  Nvidia DOCA https://docs.nvidia.com/doca/sdk/index.html 
+-  Nvidia CUDA Fast Fourier Transform libs:
+-  - cuFFT API Reference https://docs.nvidia.com/cuda/cufft/index.html 
+-  - cuFFTMp (cuFFT Multi-process) https://docs.nvidia.com/hpc-sdk/cufftmp/index.html 
+-  - cuFFTDx (cuFFT Device Extensions) https://docs.nvidia.com/cuda/cufftdx/index.html 
+-  NVIDIA GPUDIRECT-STORAGE https://docs.nvidia.com/gpudirect-storage/index.html 
+-  NVidia FLARE (federated learning) https://nvflare.readthedocs.io/en/main/index.html 
+-  NVidia CV-CUDA  https://cvcuda.github.io/   
+-  NVidia video processing framework https://github.com/NVIDIA/VideoProcessingFramework 
+-  NVidia Isaac ROS https://developer.nvidia.com/isaac-ros
+-  Slang https://shader-slang.com/docs/ 
+-  Nvidia-Ingest: Multi-modal data extraction https://github.com/NVIDIA/nv-ingest 
+-  Kvpress https://github.com/NVIDIA/kvpress for attention
+-  Nvidia Shader lib http://developer.download.nvidia.com/shaderlibrary/webpages/shader_library.html 

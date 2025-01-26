@@ -1,0 +1,16 @@
+# Productivity
+-  Anki notes
+-  PlantUML
+-  YAML (50 pages)
+-  Hurl https://hurl.dev/  HTTP CLI
+-  Diagrams as code https://diagrams.mingrammer.com/docs 
+-  MermaidJS markup builder for Python https://github.com/romaninozemtsev/python-mermaid-builder 
+-  MARP https://marp.app  markdown presentation ecosystem - Awesome Marp  https://github.com/marp-team/awesome-marp 
+-  BESSER https://besser.readthedocs.io/en/latest/   Python-based low-modeling low-code platform 
+-  VSCode (1500 pages)
+-  Vscode extensions (380 pages)
+-  https://neuracache.com/markdown-flashcards
+-  Web based modeling tools http://modeling-languages.com/web-based-modeling-tools/ 
+-  Latex https://en.wikibooks.org/wiki/LaTeX/Mathematics
+- Material for MkDocs https://squidfunk.github.io/mkdocs-material/ blog tool
+- marko-py https://marko-py.readthedocs.io/en/latest/

@@ -1,0 +1,61 @@
+# AWS
+-  Glue (170 pages) https://docs.aws.amazon.com/glue/latest/dg/ 
+-  Glue DataBrew https://docs.aws.amazon.com/databrew/latest/dg/ 
+-  Lake Formation https://docs.aws.amazon.com/lake-formation/ 
+-  Infrastructure Composer https://docs.aws.amazon.com/infrastructure-composer/latest/dg
+-  Managed Flink https://docs.aws.amazon.com/managed-flink 
+-  Managed Airflow https://docs.aws.amazon.com/mwaa/latest/userguide 
+-  Aurora DSQL https://docs.aws.amazon.com/aurora-dsql/latest/userguide/getting-started.html 
+-  Lambda (370 pages)
+-  AWS WhitePapers https://aws.amazon.com/whitepapers/ 
+-  SAM (serverless application model) https://docs.aws.amazon.com/serverless-application-model/ 
+-  AppRunner https://docs.aws.amazon.com/apprunner/latest/dg/what-is-apprunner.html 
+-  EKS https://docs.aws.amazon.com/eks/latest/userguide/ 
+-  ECS Fargate https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html 
+-  FireCracker https://firecracker-microvm.github.io/ 
+-  LightSail https://docs.aws.amazon.com/lightsail/latest/userguide 
+-  Application Autoscaling https://docs.aws.amazon.com/autoscaling/application/userguide/what-is-application-auto-scaling.html 
+-  SageMaker
+-  SageMaker Unified Studio https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide 
+-  Bedrock
+-  EMR
+-  Athena https://docs.aws.amazon.com/athena 
+-  Athena Query Federation SDK https://github.com/awslabs/aws-athena-query-federation  
+-  MSK (110 pages) (Kafka) https://docs.aws.amazon.com/msk/latest/developerguide/ 
+-  MWAA (airflow) https://docs.aws.amazon.com/mwaa/latest/userguide 
+-  Systems Manager https://docs.aws.amazon.com/systems-manager/latest/userguide/ 
+-  automation runbook reference https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html 
+-  AppConfig https://docs.aws.amazon.com/appconfig/latest/userguide/
+-  Incident Manager https://docs.aws.amazon.com/incident-manager/latest/userguide 
+-  X-Ray https://docs.aws.amazon.com/xray/latest/devguide 
+-  EC2 (270 pages) https://docs.aws.amazon.com/AWSEC2/latest/UserGuide 
+-  instance types https://docs.aws.amazon.com/ec2/latest/instancetypes/index.html
+-  Nitro enclaves https://docs.aws.amazon.com/enclaves/latest/user/index.html
+-  EC2 dev guide https://docs.aws.amazon.com/ec2/latest/devguide/index.html 
+-  
+-  S3 (320 pages) https://docs.aws.amazon.com/AmazonS3/latest/userguide 
+-  S3 tables https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-tables.html 
+-  Glacier dev guide https://docs.aws.amazon.com/amazonglacier/latest/dev/index.html
+-  S3 outposts https://docs.aws.amazon.com/AmazonS3/latest/s3-outposts/S3onOutposts.html 
+-  IAM (120 pages) https://docs.aws.amazon.com/IAM/latest/UserGuide 
+-  EBS https://docs.aws.amazon.com/ebs/latest/userguide 
+-  RDS https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide 
+-  Aurora https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide 
+-  ELB
+-  VPC (165 pages) https://docs.aws.amazon.com/vpc/latest/userguide/ 
+-  Route53
+-  CloudFront
+-  CloudWatch
+-  AWS CDK https://docs.aws.amazon.com/cdk/v2/guide/home.html
+-  https://docs.aws.amazon.com/solutions/latest/constructs/welcome.html 
+-  ParallelCluster https://docs.aws.amazon.com/parallelcluster/latest/ug/what-is-aws-parallelcluster.html 
+-  AWS Cloud9 IDE https://docs.c9.io/docs
+
+-  AWS DataPipeLine https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html - DEPRECATED
+-  AWS Elastic Transcoder https://aws.amazon.com/elastictranscoder/ - DEPRECATED
+-  AWS PDK https://aws.github.io/aws-pdk/overview/index.html building blocks for patterns
+-  Powertools for AWS Lambda https://docs.powertools.aws.dev/lambda/typescript/latest/  
+-  Boto https://boto.readthedocs.org/en/latest/
+-  https://aws.amazon.com/developer/tools/ 
+-  SageMaker Python SDK https://sagemaker.readthedocs.io/en/stable/overview.html 
+-  CloudMap https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html 

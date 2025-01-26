@@ -1,0 +1,78 @@
+## K8s
+-  K8s API ref single page https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.25/
+-  Kubernetes Spec Explorer https://kubespec.dev/ 
+-  Perses https://perses.dev/perses/docs/  cleaner than grafana
+-  CUELang https://cuelang.org/docs/ - datalog yaml replacement for k8s
+-  Karpenter https://karpenter.sh/docs/ JIT nodes
+-  Kubectl krew https://krew.sigs.k8s.io/docs/ kubectl plugin manager
+-  Knative https://knative.dev/docs/
+-  KubeBuilder (golang) https://book.kubebuilder.io/introduction 
+-  Ubuntu Microk8s https://microk8s.io/docs 
+-  Garden K8s - app testing https://docs.garden.io/ 
+-  K8s Kueue: job queueing (65 pages)
+-  KubeMQ https://docs.kubemq.io/ 
+-  KCL https://kcl-lang.io/docs CNCF K8s config constraints
+-  CrossPlane https://docs.crossplane.io/ YAML coloud-native control planes
+-  KubeBlocks https://kubeblocks.io/  a universal K8s operator framework
+-  CubeFS https://cubefs.io/docs/master/overview/introduction.html
+-  CDKTF (180 pages) - Terraform
+-  Book: CI/CD Tekton (150 pages)
+-  Revise GKE (640 pages)
+-  Ansible
+-  Book: GitOps on Kubernetes (185 pages)
+-  K8 Skaffold (25 pages) https://skaffold.dev/docs/
+-  K8 ArgosCD (100 pages)
+-  Kubernetes Cluster API eBook https://cluster-api.sigs.k8s.io/introduction.html 
+-  K8S Open Policy Agent https://github.com/open-policy-agent/
+-  K8 KPT https://kpt.dev/book/ 
+-  KEDA Kubernetes Event-driven Autoscaling https://keda.sh/docs 
+-  Loki (220 pages)
+-  Google Container Tools https://github.com/GoogleContainerTools
+-  K8 kustomize https://kustomize.io/ 
+-  SRE books (540 pages)
+-  FiloDB https://github.com/tuplejump/FiloDB Distributed Prometheus time series database
+-  Go cloud https://gocloud.dev/
+-  Kops https://github.com/kubernetes/kops – cluster infra
+-  K8 patterns book + NewStack book
+-  https://cloudinit.readthedocs.io/en/latest/ 
+-  K8s CSI https://kubernetes-csi.github.io/docs/ - container storage interface
+-  K8s Gateway API https://gateway-api.sigs.k8s.io/ 
+-  K8 Ambassador (85 pages)
+-  K8 Envoy (160 pages)
+-  K8 OPA GateKeeper  https://www.openpolicyagent.org/docs/latest/ Open Policy Agent 
+-  Keda https://keda.sh/
+-  https://microk8s.io/docs/
+-  https://kustomize.io/ 
+-  K8 Spinaker
+-  K8 SDN Callico
+-  CDK8s https://cdk8s.io/ 
+-  K8 K3s
+-  OCI Open Container Initiative https://github.com/opencontainers
+-  Kubevela https://kubevela.io/#/en/introduction hybrid cloud / multicloud CI/CD
+-  Teraform https://www.terraform.io/docs/index.html 
+-  Kubescape https://github.com/kubescape/kubescape security analysis
+-  OpenServiceBroker https://github.com/openservicebrokerapi/servicebroker/ dead ?
+-  Cloudinit https://cloudinit.readthedocs.org/en/latest/ custom instance images
+-  Apache libcloud https://libcloud.apache.org/ python API for custom cloud providers
+-  SaltStack http://docs.saltstack.com/en/latest/topics/index.html
+-  OpenStack http://docs.openstack.org 
+-  OpenShift (130 pages)
+-  OpenShift DevSpaces https://developers.redhat.com/products/openshift-dev-spaces/overview 
+-  BuildPack (80 pages) https://buildpacks.io/
+-  
+-  
+## Git
+-  Git revise
+-  Gitbook https://docs.gitbook.com/ 
+-  Github GraphQL API https://docs.github.com/en/graphql
+-  Github changes
+-  Github CLI https://cli.github.com/manual/
+-  Github Search (30 pages) 
+-  Github Pull Requests (80 pages)
+-  Github Account and Profile (140 pages)
+-  Github Enterprise (325 pages)
+-  Github Code Security (265 pages)
+-  Github Authentication https://docs.github.com/en/authentication 
+-  Github Packages https://docs.github.com/en/packages 
+-  Github Billing https://docs.github.com/en/billing 
+-  Github Developers https://docs.github.com/en/developers 

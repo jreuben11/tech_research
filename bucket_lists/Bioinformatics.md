@@ -1,0 +1,16 @@
+#  Bioinformatics
+-  Genetics Book: Genes
+-  Bioinformatics / Cheminformatics
+-  Structural Bioinfo and QSAR books
+-  http://rdkit.readthedocs.io/en/latest/  Python Cheminformatics
+-  http://openbabel.org/docs/current/ 
+-  Eyesopen https://docs.eyesopen.com/ computational molecular design
+-  http://www.pymol.org/ 
+-  GATK4 https://github.com/broadinstitute/gatk  genome analysis kit
+-  Chemkit http://doc.chemkit.org/guide/
+-  Revise Genetics (170 pages)
+-  Revise Bioinformatics (50 pages)
+-  Revise Bioactivity Analysis (60 pages)
+-  Revise Systems Biology
+-  Revise QSAR
+-  structural bioinfo book (450 pages)

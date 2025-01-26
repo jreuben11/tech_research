@@ -1,0 +1,266 @@
+
+
+
+
+  
+
+
+
+
+
+# Code Analysis 
+-  SonarQube https://docs.sonarqube.org/latest/
+-  Soufflé: A Datalog Synthesis Tool for Static Analysis https://souffle-lang.github.io/index.html
+-  ab https://httpd.apache.org/docs/2.4/programs/ab.html Apache Benchmark
+-  
+# MISC - old stuff
+- Google JigSaw opensource misc projects https://github.com/Jigsaw-Code 
+- Book: GameDev Design Patterns
+- Chuck http://chuck.cs.princeton.edu/doc/ music programming language
+
+
+ 
+
+
+
+- Jolie http://www.jolie-lang.org/ microservice DSL
+- 
+- HELM HASKELL GAME ENGINE http://helm-engine.org/ 
+- Haskell concurrrency http://chimera.labs.oreilly.com/books/1230000000929/index.html
+- Linux perf - http://www.brendangregg.com/linuxperf.html 
+- Emscripten, asm.js http://asmjs.org , https://github.com/kripken/emscripten/wiki 
+- ADF http://docs.oracle.com/cd/E21764_01/web.1111/b31973/toc.htm 
+- http://wiki.osdev.org/Main_Page 
+- Linux kernel crash dump analysis (75 pages)
+- Linux Ubuntu Server Guide (250 pages)
+- https://github.com/cjlin1/libsvm  libsvm
+- LightDM https://wiki.ubuntu.com/LightDM 
+- ImageNets ImageNets http://imagenets.wikia.com/wiki/ImageNets_Wiki 
+- https://code.google.com/p/alembic/ 
+- 
+- http://wiki.eclipse.org/EGit/User_Guide 
+- 
+- http://www.dumpanalysis.org 
+- Volatility RAM analysis https://code.google.com/p/volatility/ 
+- Nvidia Gameworks https://developer.nvidia.com/content/introducing-nvidia-gameworks 
+- Cobbler http://www.cobblerd.org/manuals linux installation server 
+- Haskell (370 pages)
+- Coq https://coq.inria.fr/documentation 
+- 
+- http://docs.emmet.io/ emmet
+- https://github.com/yahoo/kafka-manager ; reactive kafka
+- Breeze http://www.breezejs.com/?utm_source=ms-spa 
+- RaphaelJS (SVG)
+- Intro to Arduino & RasPI (250 pages)
+- Guile GNU programming language https://www.gnu.org/software/guile/ 
+- https://openconnectivity.org/ IoT 
+- AppJS https://github.com/appjs/appjs/wiki
+- Task.JS, Bacon.JS	reactor.js
+- SceneJS http://scenejs.org/
+- 
+- http://www.html5rocks.com/en/
+- OpenShift Origin  http://openshift.github.io/documentation/oo_user_guide.html
+- Valve Source SDK https://developer.valvesoftware.com/wiki/SDK_Docs
+- https://www.kernel.org/doc/ 
+- Webstorm plugins http://confluence.jetbrains.com/display/IDEADEV/PluginDevelopment 
+## Chromium
+- http://developer.chrome.com/beta/apps/about_apps.html chrome apps
+- Chrome Apps (110 pages)
+- http://developer.chrome.com/dev/apps/ 
+- https://developers.google.com/chrome/
+- https://developers.google.com/
+- https://developers.google.com/speed/articles/
+- Chrome Extensions 
+- https://developers.google.com/chrome-developer-tools/ chrome dev tools
+- Chromium / Blink http://www.chromium.org/system/app/pages/sitemap/hierarchy 
+- Chromium http://www.chromium.org/system/app/pages/sitemap/hierarchy 
+- Chromium OS http://www.chromium.org/chromium-os/developer-guide
+- 
+- http://www.webdesignermag.co.uk/tutorials/
+- http://www.html5labs.com/ , http://www.chromeexperiments.com/ , 
+- 
+- Sage http://www.sagemath.org/doc/tutorial/index.html 
+- Eclipse http://help.eclipse.org/juno/index.jsp 
+- http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.cdt.doc.user%2Fconcepts%2Fcdt_c_whatsnew.htm&cp=11_5 CDT
+- http://www.eclipse.org/linuxtools/ Eclipse Linux Tools
+- VES & VTK http://vtk.org/Wiki/VES ,  http://vtk.org/Wiki/VTK
+- Book: Lojban (100 pages)
+- LiquidFun google physics engine http://google.github.io/liquidfun/Programmers-Guide/html/index.html 
+- CERT Oracle Secure Coding Standard for Java https://www.securecoding.cert.org/confluence/display/java/The+CERT+Oracle+Secure+Coding+Standard+for+Java 
+- http://jsbooks.revolunet.com/  javascript books
+- Clang C API http://clang.llvm.org/doxygen/group__CINDEX.html 
+- VTK http://www.vtk.org ITK http://www.itk.org 
+- KDM handbook http://docs.kde.org/stable/en/kde-workspace/kdm/index.html 
+- Linux C SUS http://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html 
+- HIPI http://hipi.cs.virginia.edu/  Hadoop image processing
+- Equinox http://www.eclipse.org/equinox/ 
+- RCP http://www.eclipse.org/home/categories/rcp.php 
+- C++ HPX High Performance ParalleX 
+- http://stellar-group.github.io/hpx/docs/html/hpx.html
+- https://help.ubuntu.com/13.04/ubuntu-help/index.html
+- https://help.ubuntu.com/13.04/serverguide/index.html
+- EMF http://www.eclipse.org/modeling/emf/ 
+- Webtools http://www.eclipse.org/webtools/ 
+- MathCore - http://www.mathcore.com/resources/documents/mathcodec++_subset.pdf – 1 day
+- GDB http://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm 
+- https://developers.google.com/events/io/sessions 
+- Mlpack C++ machine learning lib http://www.mlpack.org/doxygen.php 
+- http://www.html5rocks.com/en/tutorials/ 
+- Google Analytics https://developers.google.com/analytics/ 
+- JuJu https://juju.ubuntu.com/ 
+- Gurobi solver (115 pages)
+- Unity3D
+- FPGA http://www.efytimes.com/e1/fullnews.asp?edid=132838 
+- FreeSwitch http://en.wikipedia.org/wiki/FreeSWITCH 
+- http://api.stackexchange.com/docs  
+- openNLP (70 pages)
+- AIMA Java https://code.google.com/p/aima-java/
+- 
+- AI book – extract the bleeding edge
+- LibLinear https://www.csie.ntu.edu.tw/~cjlin/liblinear/#document 
+- Gambit Game Theory API http://www.gambit-project.org/doc/index.html 
+- Z3 (100 pages)
+- Jade (40 pages) → Pug
+- Hiroku
+- & Autobahn http://autobahn.ws/
+- Revise AI notes (130 pages)  
+- Bladerunner & CaplinTrader
+- Book: building wealth in Israel (250 pages)
+- Wolfram Alpha API (60 pages)
+- http://architects.dzone.com/users/sashag 
+- Book: Causality
+- Clojure
+- Armadillo http://arma.sourceforge.net/ C++ Numerics lib
+- Book: Blender
+- http://jaunesarmiento.me/fries/ friesJS
+- OpenXC http://openxcplatform.com/  open source, data-focused API for your car.
+- 
+- Mathematica PDFs
+- NAG (numerical algo group) http://www.nag.com/support_documentation.asp
+- Wikipedia API 
+- StackExchange API https://api.stackexchange.com/docs
+- MIT OpenCourseware http://ocw.mit.edu/courses/mathematics/
+- http://ocw.mit.edu/courses/brain-and-cognitive-sciences/
+- http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+- Book: Morphometrics
+- Wolfram System Modeler (150 pages)
+- 
+- Book: Intro to Algorithms
+- Book: Maths - Read Schaums Topology
+- AI – summarize decisions under uncertainty + learning
+- Maths – revise Graph Theory
+- Book: introduction to mathematical thinking (300 pages)
+- Maths – revise Linear Algebra
+- AI sections search & planning  – modify notes
+- MathML https://developer.mozilla.org/kab/docs/Web/MathML 
+- http://sys-log.bencane.com 
+- Maths - Numerical analysis examples (450 pages)
+- Maths – revise Operations Research
+- Advanced Calculus Video (14 hours)
+- Lapack user guide http://www.netlib.org/lapack/lug/
+- Wolfram Finance
+- Wikipedia APIs – wikibasha (36 pages)
+- Cyc https://www.cyc.com/subl-information/documentation/ 
+- Bloomberg API (blpapi-developers-guide.pdf – 250 pages)
+- 
+- Book: Computational Complexity (500 pages)
+- Book: NKS (1200 pages)
+- NLP, Genetic Programming
+- Message Analyzer
+- multivariate data analysis
+- Maths – summarize basics
+- z/OS http://publib.boulder.ibm.com/infocenter/zos/basics/index.jsp?topic=/com.ibm.zos.zbasics/lcmain.html 
+- NinjaTrader (1000 pages)
+- https://ipfs.io/  the distributed web
+- UDK / UnrealScript (2500 pages)
+- Book: Choice Theory (160 pages)
+- Investopedia
+- http://fftw.org/fftw3_doc/  C++ FFT
+- GMP https://gmplib.org/   
+- 
+- CG (250 pages)
+- Lightstreamer https://lightstreamer.com/doc.htm , Pusher – realtime messaging
+- MontageJs
+- App42 Cloud API http://api.shephertz.com/cloudapidocs/guide/0.8.3/csharp/user_api.html
+- Fourier Analysis
+- Complex Analysis
+- Partial Differential Equations
+- Finite difference method
+- http://www.impulseaccelerated.com/Tutorials/ C to FPGA
+- Matrix Operations
+- Differential Equations
+- Lagrange Operations
+- BOINC https://boinc.berkeley.edu/ opensource grid computing
+- Google analytics
+- V8 https://developers.google.com/v8/intro
+- Foundation for CSS http://foundation.zurb.com/docs/ 
+- http://coding.smashingmagazine.com/tag/javascript/
+- Algorithmic Trading and DMA
+- ARDrone_Developer_Guide  (60 pages)
+- SVG revise
+- WijMo https://www.grapecity.com/en/wijmo js controls
+- d3 charting
+- http://javapapers.com/ 
+- QT Embedded  http://doc.qt.io/qt-5/embedded-linux.html 	
+- google apps script  http://www.google.com/script/start/ automate tasks	
+- http://www.linux.com/learn/tutorials/ 	
+- Kali Linux , nmap, John the Ripper, Aircrack-ng
+- http://tools.kali.org/tools-listing 	
+- Numbers.js, numericjs, tangle.js	
+- 	
+- Free Software Foundation books http://shop.fsf.org/category/books/	
+- http://www.makelinux.co.il/kernel_map/	
+- XILINX, Zynq http://www.xilinx.com/products/design-tools/software-zone.html 	
+- QxORM https://www.qxorm.com/qxorm_en/home.html Qt ORM	
+- OpenDaylight http://www.opendaylight.org SDN	
+- TDA (topological data analysis), Ayasdi	
+- http://brm.io/matter-js/ javascript physics engine	
+- OpenACC https://www.openacc.org/resources C++ HPC programming 	
+- Dwave https://www.dwavesys.com/quantum-computing	
+- RAML https://raml.org/ restful API modelling language	
+- STEAM https://steamcommunity.com/dev 	
+- ScaleMP http://www.scalemp.com/ 	
+- Jdb https://docs.oracle.com/javase/7/docs/technotes/tools/windows/jdb.html 	
+- Google web designer https://www.google.com/webdesigner/	
+- OSX Debugging https://developer.apple.com/library/mac/technotes/tn2124/_index.html	
+- Intel SGX software guard extensions https://software.intel.com/en-us/sgx 	
+- Oracle Jrockit fast JVM https://www.oracle.com/technetwork/middleware/jrockit/overview/index.html – dead ?	
+- Remedy TAOX11 C++11 CORBA http://taox11.remedy.nl/ 	
+- Floodlight OpenFlow http://www.projectfloodlight.org/floodlight/  SDN controller	
+- Homotopy Type Theory free ebook - http://homotopytypetheory.org/book/	
+- Undecidability for dummies … http://philosophyforprogrammers.blogspot.co.il/2011/08/undecidability-for-dummies.html	
+- libSBML http://sbml.org/Software/libSBML	
+- https://developers.google.com/v8/embed  - Google Dev Guide to embedding V8	
+- IBM DeveloperWorks http://www.ibm.com/developerworks/	
+- Unix and Linux Tutorial Center http://heather.cs.ucdavis.edu/~matloff/unix.html	
+- Linux Kernel Programming http://www.efytimes.com/e1/fullnews.asp?edid=116414	
+- The Philosophy of Computer Science http://plato.stanford.edu/entries/computer-science/	
+- Xen + libvirt http://qemu-buch.de/e/Content
+- KVM http://www.linux-kvm.org/page/Main_Page Kernel-based Virtual Machine 
+- QEMU http://qemu-buch.de/de/index.php?title=QEMU-KVM-Book 	
+- XAPI - the Xen cloud platform management API http://xenproject.org/developers/teams/xapi.html	
+- PhiloGL http://www.senchalabs.org/philogl/demos.html#lessons	
+- GNU make http://www.gnu.org/software/make/manual/make.html	
+- openZFS file system http://open-zfs.org/	
+- SDN	
+- Wordpress  https://wordpress.org/	
+- 	
+- 	
+- Algebraic Graph Theory  http://www.dreamincode.net/forums/topic/328653-algebraic-graph-theory-vertex-and-edge-spaces/	
+- JVM Specification http://docs.oracle.com/javase/specs/jvms/se7/html/index.html	
+- AMPS http://www.crankuptheamps.com/amps/	
+- RogueWave SourcePro http://www.roguewave.com/portals/0/products/sourcepro/docs/12.5/index.html	
+- libnuma library: http://linux.die.net/man/3/numa	
+- Cloud Foundry http://docs.cloudfoundry.com/	
+- 	
+- 	
+- patterns in node http://spion.github.io/posts/analysis-generators-and-other-async-patterns-node.html	
+- Wakanda http://wakanda.github.io/ 	
+- Jq https://stedolan.github.io/jq/ 	
+- http://famo.us/ famo.us	
+- https://en.wikipedia.org/wiki/Apache_CloudStack 	
+- Inkscape http://www.inkscape.org/en/ 	
+- OpenDaylight http://www.opendaylight.org/ 	
+- Google IOT: Brillo and Weave (no relation)	
+
+

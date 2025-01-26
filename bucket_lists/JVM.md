@@ -1,0 +1,98 @@
+# JVM
+-  Aeron https://aeron.io/docs/aeron/overview/ UDP / multicast, + IPC message transport
+-  https://github.com/real-logic/Aeron 
+-  Java tools https://docs.oracle.com/en/java/javase/16/index.html 
+-  JetBrains MPS (MetaProgramming System) https://www.jetbrains.com/mps/learn/
+-  Maven
+-  Tomcat https://tomcat.apache.org/tomcat-10.1-doc/index.html 
+-  Gradle
+-  Android dev https://developer.android.com/ml 
+-  Modern Android App Architecture Course https://developer.android.com/courses/pathways/android-architecture 
+-  LibGDX https://github.com/libgdx/libgdx Java OpenGL game engine
+-  Google Auto https://github.com/google/auto (java)
+-  Java Ecosystem (200 pages)
+-  Java guides https://www.javaguides.net/p/top-java-tutorials.html
+-  https://docs.oracle.com/javase/10/tools/
+-  JavaFX (400 pages)
+-  JOGL http://jogamp.org/jogl/www/ Java binding for OpenGL
+-  Jython http://www.jython.org/jythonbook/en/1.0/
+-  Java Reactive
+-  https://rsocket.io/ 
+-  https://projectreactor.io/docs/core/release/reference/ 
+-  https://resilience4j.readme.io/docs/getting-started 
+-  Java MapStruct  https://mapstruct.org/documentation/stable/reference/html/ 
+-  Opal http://www.opal-project.de/ Java static analysis
+-  ASM  https://asm.ow2.io/ Java bytecode manipulator 
+-  Sculptor http://sculptorgenerator.org/documentation/advanced-tutorial , http://bytebuddy.net/#/ 
+-  Jdb, jstack http://docs.oracle.com/javase/7/docs/technotes/tools/windows/jdb.html
+-  JDWP http://blog.takipi.com/2013/09/24/how-to-write-your-own-java-scala-debugger/ 
+-  Jswat https://code.google.com/p/jswat/ 
+-  ChrononDVR http://chrononsystems.com/ - record and playback java program
+-  Btrace https://kenai.com/projects/btrace 
+-  javacpp 
+-  https://github.com/bytedeco/javacpp-presets 
+-  https://github.com/bytedeco/javacpp 
+-  Java Instrumentation
+-  http://javabeat.net/introduction-to-java-agents/ 
+-  Java ANTLR (160 pages)
+-  https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html 
+-  Java Commercial Components https://docs.oracle.com/javacomponents/index.html 
+-  Byteman  http://downloads.jboss.org/byteman/3.0.0/ProgrammersGuide.html 
+-  Byte buddy
+-  http://asm.ow2.org/ 
+-  Proguard - Java android code shrinker http://proguard.sourceforge.net/ 
+-  Jtune https://github.com/linkedin/jtune 
+-  jrebel
+-  https://developer.qualcomm.com/download/software 
+-  OpenJDK Code Tools http://openjdk.java.net/projects/code-tools/ 
+-  https://commons.apache.org/proper/commons-bcel/manual.html 
+-  BCEL, SERP, Javassist, ASM 
+-  Osv (250 pages)
+-  Java GraphQL (45 pages)
+-  OSGi working group https://www.osgi.org/resources/where-to-start  and links:
+-  - Apache Karaf https://dlcdn.apache.org/karaf/documentation/4_x.html 
+-  - Apache Aries https://aries.apache.org/documentation/index.html 
+-  - Apache Felix https://felix.apache.org/documentation/documentation.html 
+-  - pf4j https://pf4j.org/ 
+-  - layrry https://github.com/moditect/layrry/ 
+-  Java Jackson https://github.com/FasterXML/jackson-docs?tab=readme-ov-file 
+-  Java Lambok https://projectlombok.org/features/ 
+-  Java ASM bytecode lib (100 pages)
+-  JVM internals http://blog.jamesdbloom.com/JVMInternals.html 
+-  Java Perf Tuning quick Guide http://java-performance.info/java-server-application-troubleshooting-using-jdk-tools/ 
+-  https://square.github.io/dagger/  android dependency injection
+-  https://jakewharton.github.io/butterknife/  android
+-  AutoValue https://github.com/google/auto/tree/master/value Generated immutable value classes for Java
+-  JNR - https://github.com/jnr 
+-  Jolokia https://jolokia.org/ 
+-  YourKit https://www.yourkit.com/docs/java/help/ 
+-  Jenkov tutorials http://tutorials.jenkov.com/
+-  Java TornadoVM https://tornadovm.readthedocs.io/en/v1.0/ run on hetrogenous hardware
+-  Apache Ivy
+-  JMonkeyEngine http://jmonkeyengine.org/tour/sdk/ 
+-  JMonkeyVR https://github.com/phr00t/jMonkeyVR 
+-  Java Liquidbase CDC https://docs.liquibase.com/home.html
+-  Java Jooq https://www.jooq.org/learn/ 
+-  AspectJ
+-  JavaAssist (20 pages)
+-  Java JEPS and JSRs (80 pages)
+-  https://openjdk.java.net/jeps/0 
+-  JVM tool interface (250 pages)
+-  Java CLUs (500 pages)
+-  Jboss Tools (380 pages)
+-  Kotlin (380 pages)
+-  Android Jetpack Compose   https://developer.android.com/jetpack/compose/documentation 
+-  Android Game Dev Kit https://developer.android.com/games/guides 
+-  Jclarity censum 
+-  JavaAssist, cglib
+-  JS compat table http://kangax.github.io/compat-table/ 
+-  https://github.com/mrwilson/byte-monkey Bytecode-level fault injection for the JVM
+-  Java cookbooks (1750 pages)
+-  https://docs.oracle.com/javase/tutorial/index.html
+-  https://docs.oracle.com/javase/8/docs/technotes/tools/unix/toc.html 
+-  LWJGL https://www.lwjgl.org/ - lightweight Java game lib
+-  JOML https://github.com/JOML-CI/JOML Java math library for OpenGL
+-  MapReduce Patterns (300 pages)
+-  Netty http://netty.io/wiki/user-guide-for-5.x.html 
+-  Java Components https://docs.oracle.com/javacomponents/i
+-  Apache Velocity https://velocity.apache.org/engine/ JVM template engine

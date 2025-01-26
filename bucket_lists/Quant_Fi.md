@@ -1,0 +1,14 @@
+# Quant Fi
+-  Python Quant (200 pages)
+-  QuantStart (550)
+-  Python Quantopian (630 pages) 
+-  Finite Difference Computing with PDEs (600 pages)
+-  https://github.com/pydata trading repos
+-  Book: Stochastic Calculus
+-  Book: PDEs for  Scientists and Engineers
+-  Algo book
+-  Quant Fi Book Part 6 (75 pages) - **30%**
+-  Quant Fi Book Part 2-5 (300 pages)
+-  Book: Quant Fi – revise (500 pages)
+-  OnixS fix engine (50 pages)
+-  MQL http://docs.mql4.com  trading DSL

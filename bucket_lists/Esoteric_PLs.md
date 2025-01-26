@@ -1,0 +1,14 @@
+# Esoteric PLs
+-  Unison (77 pages)
+-  Darklang https://docs.darklang.com/introduction low-code DSL for web backends
+-  ANTLR https://github.com/antlr/antlr4/blob/master/doc/index.md
+-  Swift: https://docs.swift.org/swift-book 
+-  Swift metaprogramming Sourcery https://cdn.rawgit.com/krzysztofzablocki/Sourcery/master/docs/index.html 
+-  Winglang https://www.winglang.io/docs
+-  Bosque https://www.microsoft.com/en-us/research/project/bosque-programming-language/
+-  Dart + Flutter (470 pages)
+-  Julia (350 pages) - **50%**
+-  Julia – 2 books
+-  Book: Concurrent Haskell
+-  Book: Idris
+-  Phoenix https://github.com/phoenixframework/phoenix/blob/master/README.md  elixir framework

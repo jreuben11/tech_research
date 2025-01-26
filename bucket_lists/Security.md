@@ -1,0 +1,65 @@
+# Security
+-  Book: security – rootkits and bootkits (250 pages)
+-  Book: security – pentesting with shellcode (270 pages)
+-  Book: security - Mastering Metasploit (300 pages)
+-  Book: Mastering TLS (120 pages)
+-  Security – JWT and OpenID (65 pages)
+-  Ory security framework https://www.ory.sh/docs/
+-  Pomerium security framework https://www.pomerium.com/docs
+-  Sguil - a GUI for Snort https://bammv.github.io/sguil/screenshots.html 
+-  Security: Suricata IDS https://docs.suricata.io/en/latest/
+-  Metasploit (400 pages),
+-  https://docs.metasploit.com/ 
+-  https://www.offensive-security.com/metasploit-unleashed/ 
+-  https://community.rapid7.com/docs/DOC-2227 
+-  Python Blackhat
+-  FreeIPA identity management (IdM) server https://www.freeipa.org/page/Documentation
+-  Book: Mobile Forensics (180 pages)
+-  NMap
+-  Apache Metron http://hortonworks.com/apache/metron/  cybersecurity analysis
+-  Linux workstation security checklist https://github.com/lfit/itpol/blob/master/linux-workstation-security.md 
+-  Linux security guide http://linuxbox.co.uk/linux-network-security/ 
+-  https://www.owasp.org/index.php/Category:Cheatsheets OWASP cheatsheets
+-  IPSec
+-  Snort Cookbook (200 pages)
+-  http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/ secure programming for linux
+-  http://www.aircrack-ng.org/documentation.html 
+-  https://github.com/beefproject/beef/wiki/ beef (DEAD)
+-  http://docs.cuckoosandbox.org/en/latest/ 
+-  https://github.com/volatilityfoundation/volatility/wiki memory forensics
+-  Wireshark user guide https://www.wireshark.org/docs/wsug_html/ 
+-  http://www.wireshark.org/docs/wsdg_html_chunked/ wireshark dev guide
+-  http://wiki.xplico.org/doku.php  Network Forensic Analysis Tool (NFAT)
+
+# utils
+- file, strip, nm, ldd, xdd, hexedit, nm, strace, ltrace, strings
+- readelf binutil for parsing ELF binaries https://lnkd.in/dwjHiZd7
+- objdump binutil https://lnkd.in/dgk47A57 display information about compiled object files
+- LD_LIBRARY_PATH https://lnkd.in/d2taJeKH envar to set a path for shared libs
+- LD_PRELOAD https://lnkd.in/dqHcXb6C override symbols in loaded libs by creating a library with the same symbols 
+
+# libs + refs
+
+- https://lnkd.in/d2Jck_ar DWARF, ELF and ABI standards
+- elfinject https://lnkd.in/dhbjNzes A simple ELF code injector for x64. Uses segment padding
+- dd util https://lnkd.in/dP2iiNNj) modify file bytes
+- libbfd https://lnkd.in/daZnJsqC binary file descriptor lib
+- PyBFD https://lnkd.in/d3Ccq5SX A Python interface to the GNU Binary File Descriptor (BFD) library.
+- PEBIL https://lnkd.in/dxEqBAMG Fast static binary instrumentation for linux/x86
+- DyninstAPI: https://lnkd.in/d2FJUc2B Tools for binary instrumentation, analysis, and modification.
+- intel pin https://lnkd.in/dnH9RFha dynamic binary instrumentation framework
+- upx https://github.com/upx/upx binary packer
+- libfdt https://lnkd.in/dBHyz-HD device tree lib
+- Intel XED Encoder Decoder https://lnkd.in/dGyVkWbs
+- angr https://angr.io/ an open-source binary analysis platform for Python. It combines both static and dynamic symbolic ("concolic") analysis,
+- KLEE Symbolic Execution Engine https://klee-se.org/
+- S²E: A Platform for In-Vivo Analysis of Software Systems https://s2e.systems/
+- trailofbits https://lnkd.in/dE5QwmAd high-end security research 
+- bitlackeys https://bitlackeys.org/ security research (defunct) 
+- capstone engine https://lnkd.in/dgsDKxCp the ultimate dissasembler
+- pyvex https://lnkd.in/dKqYAnjX Python bindings for Valgrind's VEX IR.
+- X86 Opcode and Instruction Reference https://lnkd.in/dTBZM4EN
+- Searchable Linux Syscall Table https://lnkd.in/dP-HBqie
+- SAT/SMT by example https://lnkd.in/daEAszz7
+- libelf by example https://lnkd.in/dA_VUUCn
+- Triton https://lnkd.in/dJ8TSRmy dynamic binary analysis lib
