@@ -40,7 +40,6 @@
 -  K8 Ambassador (85 pages)
 -  K8 Envoy (160 pages)
 -  K8 OPA GateKeeper  https://www.openpolicyagent.org/docs/latest/ Open Policy Agent 
--  Keda https://keda.sh/
 -  https://microk8s.io/docs/
 -  https://kustomize.io/ 
 -  K8 Spinaker
@@ -59,7 +58,7 @@
 -  OpenShift (130 pages)
 -  OpenShift DevSpaces https://developers.redhat.com/products/openshift-dev-spaces/overview 
 -  BuildPack (80 pages) https://buildpacks.io/
--  
+-  Serf www.serfdom.io , ~Vagrant
 -  
 ## Git
 -  Git revise

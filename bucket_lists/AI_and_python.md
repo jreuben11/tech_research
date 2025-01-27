@@ -37,6 +37,7 @@
 
 ## SFT
 -  HuggingFace Docs
+-  HuggingFace BitsAndBytes https://huggingface.co/docs/bitsandbytes/ 
 -  Python Unsloth SFT https://docs.unsloth.ai/ 
 
 ## LLMs + Agents
@@ -83,6 +84,7 @@
 -  Learn prolog now https://lpn.swi-prolog.org/lpnpage.php?pageid=online
 -  problog https://problog.readthedocs.io/en/latest/ 
 -  GAPT:  http://www.logic.at/gapt/ General Architecture for Proof Theory
+-  Goetzl Probabilistic Logic Networks (1050 pages)
 
 ## OWL / RDF / Wikidata
 -  Python RDFLib https://rdflib.readthedocs.io/en/stable/#getting-started
@@ -117,38 +119,38 @@
 -  Lecunn deep learning course https://atcold.github.io/NYU-DLSP21/
 -  Stanford Deep learning http://ufldl.stanford.edu/tutorial/
 -  Machine Learning Course http://ciml.info/
--  Pex https://docs.pex-tool.org/ python executable archives
 
+-  Math Notes: Joh D Cook https://www.johndcook.com/blog/notes/ 
 -  Bloomberg ML Lectures https://bloomberg.github.io/foml/#lectures 
 -  Deep Learning Oxford Lectures https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu 
 -  Book: Computational Intelligence  (470 pages) - **10%**
 -  Book: PDEs
 -  Book: Differential Equations revision (180 pages)
 -  Youtube: Statistical Mechanics (Stanford Susskind) https://www.youtube.com/playlist?list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0
--  http://thunder-project.org/ python lib for image and time-series analysis
 -  Revise numerical analysis, calculus
+-  grad, div, curl book 
+-  Udemy Stochastic Calculus
+-  ML Interview book
+-  Karpathy videos https://www.youtube.com/@AndrejKarpathy/videos
 
 ## Shape Analysis
 -  Book: Python Geometric Deep Learning https://geometricdeeplearning.com/book/ 
 -  Book: 3D Deep Learning with Python (130 pages)
 
 
--  Google AI Edge Model Explorer https://github.com/google-ai-edge/model-explorer/wiki/2.-User-Guide 
+-  Pex https://docs.pex-tool.org/ python executable archives
+-  http://thunder-project.org/ python lib for image and time-series analysis
 -  Python PyScript https://docs.pyscript.net/  - python in the browser
 -  Pyodine python wasm (70 pages)                            https://pyodide.org/en/stable/
--  grad, div, curl book 
 -  Python Kitware Trame https://kitware.github.io/trame/guide/ 3D data visualization 
 -  Python Gradio UIs for easy running large models locally
 -  - textgen https://github.com/oobabooga/text-generation-webui 
 -  - stable diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui 
--  Udemy Stochastic Calculus
 -  https://lilianweng.github.io/ ai blog
 -  ComfyUI https://docs.comfy.org/essentials/custom_node_walkthrough   stable diffusion GUI and backend 
 -  https://comfyanonymous.github.io/ComfyUI_examples/ 
--  ML Interview book
 -  Python ML FAQ https://github.com/rasbt/python-machine-learning-book/blob/master/faq/README.md
 -  Python Bokeh http://bokeh.pydata.org/en/latest/
--  Karpathy videos https://www.youtube.com/@AndrejKarpathy/videos
 -  Sabastian Rachka blogs
 -  DeepMind RL 2021 https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&ab_channel=GoogleDeepMind 
 -  Deep Reinforcement Learning Playlist: CS 285 Fall 2020 https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc 
@@ -159,7 +161,6 @@
 -  Ritvik math videos https://www.youtube.com/@ritvikmath/playlists 
 -  Geometric deep learning https://geometricdeeplearning.com/blogs/ 
 -  Python Temporian https://temporian.readthedocs.io/en/stable/ preprocessing + feature engineering temporal data
--  HuggingFace BitsAndBytes https://huggingface.co/docs/bitsandbytes/ 
 -  LiteRT https://ai.google.dev/edge/litert 
 -  huggingface blogs
 -  python book (1200 pages)
@@ -168,18 +169,21 @@
 -  Graph Representational Learning blogs (730 pages)
 -  Book: Python Graph Algorithms 630 pages
 -  Book: Python debugging for AI (110 pages)
--  pythonic FP libs
+
+
+## pythonic FP libs
 -  - more-itertools https://more-itertools.readthedocs.io/en/stable/ 
 -  - PyFunctional https://pyfunctional.pedro.ai 
 -  - Pipe https://github.com/JulienPalard/Pipe 
--  - Returns https://returns.readthedocs.io/en/latest/ 
+-  - Returns https://returns.readthedocs.io/en/latest/
+
+
 -  Book: Python Causal Inference (160 pages)
 -  Llama 3.2 Interpretability with Sparse Autoencoders https://github.com/PaulPauls/llama3_interpretability_sae   
 -  https://medium.com/@alcarazanthony1 GraphRAG
 -  pluggy https://pluggy.readthedocs.io/en/stable/  The pytest plugin system
 -  Kubeflow Spark Operator  https://github.com/kubeflow/spark-operator/blob/master/docs/user-guide.md  
 
--  Book: Computational Chemistry (120 pages)
 -  High-Dimensional Probability and Applications in Data Science https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html 
 -  OpenAI spinning up DRL https://spinningup.openai.com/ 
 -  Book: Deep Reinforcement Learning 2nd Edition (270 pages)
@@ -211,7 +215,10 @@
 -  NVidia RAPIDS (160 pages) - **50%**
 -  Numpy Ref (1400 pages)
 -  OCW: GOFAI course https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/ 
+
+## Tensorflow / PyTorch
 -  Tensorflow-transformers https://legacyai.github.io/tf-transformers/build/html/introduction_docs/quicktour.html 
+-  Ptorch Xformers https://facebookresearch.github.io/xformers/ 
 -  
 ## Python libs
 -  Python lib – custom interpreters (3 pages)
@@ -226,17 +233,16 @@
 ## edge computing frameworks 
 -  LiteRT https://ai.google.dev/edge/litert 
 -  MediaPipe Framework https://ai.google.dev/edge/mediapipe/framework 
+-  Google AI Edge Model Explorer https://github.com/google-ai-edge/model-explorer/wiki/2.-User-Guide 
 -  
 -  
 -  GPT Index (Llama) (190 pages) https://gpt-index.readthedocs.io/en/latest/ 
--  Ptorch Xformers https://facebookresearch.github.io/xformers/ 
 -  Python PyGFX https://docs.pygfx.org/stable/index.html  wgpu 
 -  Python DVC (95 pages)     https://dvc.org/doc data version control for ML
 -  Python FeatureTools (85 pages)
 -  Python codon (33 pages)   https://docs.exaloop.io/codon/ compile to native binaries
 -  MyPy (85 pages)  https://mypy.readthedocs.io/en/stable/index.html 
 -  Python Pydantic https://docs.pydantic.dev/ 
--  Math Notes: Joh D Cook https://www.johndcook.com/blog/notes/ 
 -  
 -  Lucidbrains transformers phil wang https://github.com/lucidrains 
 -  Karpathy build GPT from scratch (2 hours) https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&pp=iAQB 
@@ -380,7 +386,6 @@
 -  Book: Div, Grad, Curl (150 pages)
 -  Book: Intro to Statistical Machine Learning (550 pages)
 -  OpenCV book (430 pages) - **35%**
--  Goetzl Probabilistic Logic Networks (1050 pages)
 -  Tensorflow Contrib and Beyond (370 pages) - **30%**
 -  Reinforcement Learning notes (950 pages)
 -  Book: TF Deep Learning 2nd Ed (350 pages)

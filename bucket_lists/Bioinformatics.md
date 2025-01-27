@@ -16,3 +16,4 @@
 -  structural bioinfo book (450 pages)
 -  RDKit
 -  cheminformatics https://www.youtube.com/tmpchem 
+-  Book: Computational Chemistry (120 pages)

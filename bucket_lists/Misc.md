@@ -63,18 +63,7 @@
 - Valve Source SDK https://developer.valvesoftware.com/wiki/SDK_Docs
 - https://www.kernel.org/doc/ 
 - Webstorm plugins http://confluence.jetbrains.com/display/IDEADEV/PluginDevelopment 
-## Chromium
-- http://developer.chrome.com/beta/apps/about_apps.html chrome apps
-- Chrome Apps (110 pages)
-- http://developer.chrome.com/dev/apps/ 
-- https://developers.google.com/chrome/
-- https://developers.google.com/
-- https://developers.google.com/speed/articles/
-- Chrome Extensions 
-- https://developers.google.com/chrome-developer-tools/ chrome dev tools
-- Chromium / Blink http://www.chromium.org/system/app/pages/sitemap/hierarchy 
-- Chromium http://www.chromium.org/system/app/pages/sitemap/hierarchy 
-- Chromium OS http://www.chromium.org/chromium-os/developer-guide
+
 - 
 - http://www.webdesignermag.co.uk/tutorials/
 - http://www.html5labs.com/ , http://www.chromeexperiments.com/ , 
@@ -234,7 +223,6 @@
 - IBM DeveloperWorks http://www.ibm.com/developerworks/	
 - Unix and Linux Tutorial Center http://heather.cs.ucdavis.edu/~matloff/unix.html	
 - Linux Kernel Programming http://www.efytimes.com/e1/fullnews.asp?edid=116414	
-- The Philosophy of Computer Science http://plato.stanford.edu/entries/computer-science/	
 - Xen + libvirt http://qemu-buch.de/e/Content
 - KVM http://www.linux-kvm.org/page/Main_Page Kernel-based Virtual Machine 
 - QEMU http://qemu-buch.de/de/index.php?title=QEMU-KVM-Book 	
