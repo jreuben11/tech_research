@@ -49,6 +49,7 @@
 -  elfo https://actoromicon.rs/ch01-00-introduction.html  
 -  Redox OS https://doc.redox-os.org/book/
 -  Ractor  https://slawlor.github.io/ractor/  A pure-Rust actor framework
+- Hydro https://hydro.run/docs/hydro/
 -  
 
 -  Rust anthology https://brson.github.io/rust-anthology/1/intro.html

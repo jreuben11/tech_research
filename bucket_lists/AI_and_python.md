@@ -243,6 +243,7 @@
 -  Python codon (33 pages)   https://docs.exaloop.io/codon/ compile to native binaries
 -  MyPy (85 pages)  https://mypy.readthedocs.io/en/stable/index.html 
 -  Python Pydantic https://docs.pydantic.dev/ 
+- Python ScrapeGraphAI https://scrapegraphai.com/ Transform Websites into Structured Data
 -  
 -  Lucidbrains transformers phil wang https://github.com/lucidrains 
 -  Karpathy build GPT from scratch (2 hours) https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&pp=iAQB 

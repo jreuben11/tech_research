@@ -13,4 +13,4 @@
 -  Book of Bad Arguments https://bookofbadarguments.com/?view=allpages
 -  How to Program a Mind: Statistics, Structure and Abstraction http://videolectures.net/aaai2012_tenenbaum_grow_mind/
 -  Intro to Algorithms  (65 hours) - finish video tutorials
--  
+-  The Tensor Cookbook https://tensorcookbook.com

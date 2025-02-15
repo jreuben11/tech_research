@@ -39,7 +39,7 @@
 -  S3 outposts https://docs.aws.amazon.com/AmazonS3/latest/s3-outposts/S3onOutposts.html 
 -  IAM (120 pages) https://docs.aws.amazon.com/IAM/latest/UserGuide 
 -  EBS https://docs.aws.amazon.com/ebs/latest/userguide 
--  RDS https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide 
+-  RDS (300 pages) https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide 
 -  Aurora https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide 
 -  ELB
 -  VPC (165 pages) https://docs.aws.amazon.com/vpc/latest/userguide/ 
