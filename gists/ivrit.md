@@ -1,0 +1,155 @@
+# hebrew words to remember
+
+- mediocre - CHOOKOO-MOOKOO !
+- disconnected מנותק
+- AI בינה מלאכותית
+- flat שטוח
+- failure כישלון
+- duty חובה
+- chemistry כימיה
+- sunrise זריחה
+- smile
+- stranger זר
+- I guess we will never know אני מניח שלעולם לא נדע
+- decision החלטה
+- journey מסע
+- infinite אינסופי
+- science fiction מדע בדיוני
+- author מחבר
+- edge קצה
+- skills מיומנויות
+- teenager מתבגר
+- trading סחר
+- rebellious מורדת
+- responsibility אחריות
+- research מחקר
+- consultant יועץ
+- neural networking רשת נוירונים
+- to fire לְפַטֵר
+- public ציבורי
+- mission משימה
+- suitcase מזוודה
+- to fall ליפול
+- long term טווח ארוך
+- level רמה
+- jokes בדיחות
+- to provide  לספק
+- the whole is greater than the sum of the parts השלם גדול מסכום החלקים
+- there is nothing new under the sun  אין חדש תחת השמש
+- the sun rises in the east and sets in the west השמש זורחת במזרח ושוקעת במערב
+- mental stimulation גירוי מנטלי
+- relationship / link קֶשֶׁר
+- embarresed נבוך
+- economy כלכלה
+- cage כלוב
+- who are you to vote for in the election - למי אתה תצביע בבחירות
+- to care לטפל
+- similar דומה
+- different שונה
+- tough קשוח
+- link קֶשֶׁר
+- jealous מקנא
+- arroused עורר
+
+- perfect מושלם
+- cheating רמאות
+- betrayal בגידה
+- to invest להשקיע
+- personality trait תכונת אישיות
+- heritage מורשת
+- soulmate נפש תאומה
+- shocked המום
+- database מאגר מידע
+- machine learning למידת מכונה
+- technical skills כישורים טכניים
+- isolated מבודד
+- to encourage לְעוֹדֵד
+- confidant מקורב
+- attitide גישה
+- design עיצוב
+- system architect אדריכל מערכות
+- research חֲקִירָה
+- appreciate מעריך
+- grumpy מגושם
+- frustrated מתוסכל
+- promiscuous מוּפקָר
+- trust אמון
+- to trust לבטוח
+- perfect מושלם
+- perfection שלמות
+- appearance מראה חיצוני
+- appear להופיע
+- fascinating מרתק
+- truth, beauty, justice אמת, יופי, צדק
+- frustrating מתסכל
+- lighten up להאיר
+- to improve לשפר
+- take advantage of להאיר
+- self-improvement שיפור עצמי
+- core concept עיקרון יסוד
+- effort מאמץ
+- thinking machine מכונת חשיבה
+- pattern matching התאמת תבנית
+- function approximation קירוב פונקציה
+- social darwinism דרוויניזם חברתי
+- dissapointment אכזבה
+- sink or swim לטבוע או לשחות
+- surivial of the fittest הישרדותם של החזקים
+- property נכס
+- incompetant לא כשיר
+- to revise לשנות
+- wide רחב
+- complement השלמה
+- exciting מרגש
+- an excuse תירוץ
+- to relate להתייחס
+- solitude בדידות
+- expectations ציפיות
+- long term טווח ארוך
+- unique ייחודי
+- meaning of life משמעות החיים
+- opportunity הזדמנות
+- to connect להתחבר
+- training אימונים
+- the only one היחיד
+- no pain, no gain אין כאב אין רווח
+- greedy חַמדָן
+- to create ליצור
+- policy מדיניות
+- satisfied מרוצה
+- probability הסתברות
+- trapped מלכודת
+- mystery תעלומה
+- sense of humour  חוש הומור
+- aspects היבטים
+- embrace לחבק
+- doomed נידון
+- to fall ליפול
+- opportunity only knocks once ההזדמנות דופקת פעם אחת בלבד
+- only the strong survive
+- probably for the best כנראה לטובה
+- shallow רָדוּד
+- compatability תאימות
+- rumours שמועות
+- wish משאלה
+- quality איכות
+- commitment התחייבות
+- to hurt לפגוע
+- risk הסיכון
+- you make me want אתה גורם לי לרצות
+- to protect להגן
+- gratitiude הכרת תודה
+- physical peak שיא פיזי
+- to settle for second best להסתפק במקום השני הטוב ביותר
+- expectations ציפיות
+- investor משקיע
+- investment השקעה
+- to stretch להתמתח
+- Stubborn  - עקשנות
+- thorough  - יסודית
+- to grow old - לְהִזדַקֵן
+- reasoning הנמקה
+- veins and arteries ורידים ועורקים
+- there is a certain feeling ישנה תחושה מסוימת
+- glass זְכוּכִית
+- to quit לפרוש
