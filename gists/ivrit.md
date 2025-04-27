@@ -1,5 +1,8 @@
 # hebrew words to remember
-
+- balance איזון
+- stability יַצִיבוּת
+- cloves ציפורן
+- leader מנהיג
 - mediocre - CHOOKOO-MOOKOO !
 - disconnected מנותק
 - AI בינה מלאכותית
