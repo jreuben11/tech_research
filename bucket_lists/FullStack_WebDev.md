@@ -11,7 +11,6 @@
 -  Revise Ramda
 
 ## Microfrontends
--  - Module Federation 2.0 https://module-federation.io/guide/start/index.html
 -  - iframe-resizer https://iframe-resizer.com/
 -  - Single-spa https://single-spa.js.org/docs/
 -  - picard.js https://picard.js.org/guide/ 
@@ -24,7 +23,6 @@
 -  Create T3 App https://create.t3.gg/en/introduction 
 -  https://medium.com/@polite_feldgrau_woodchuck_70/why-is-everyone-using-prisma-zod-and-trpc-in-next-js-bfac913efcc8 
 -  Tanstack https://tanstack.com/ 
--  PNPM https://pnpm.io/motivation 
 - Yeoman
 
 
@@ -35,6 +33,7 @@
 -  React Spectrum Components https://react-spectrum.adobe.com/react-aria/components.html 
 
 ## comprehensive feature catalogs
+- https://webstatus.dev/ 
 -  https://developer.mozilla.org/en-US/docs/Web 
 -  MDN updates https://developer.mozilla.org/en-US/plus/updates – good resource !
 -  Webdev can-i-use https://caniuse.com/ciu/index  
