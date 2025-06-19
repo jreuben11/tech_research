@@ -1,4 +1,51 @@
 
+
+# 12/06/2025 twitter links
+- Amazon Bedrock Custom Model Import now supports Qwen models https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models
+- Amazon S3 Tables now provide storage cost visibility for individual tables https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-storage-cost-visibility-individual-tables/
+- Lakebase Is Databricks’ Fully-Managed Postgres Database for the AI Era https://thenewstack.io/lakebase-is-databricks-fully-managed-postgres-database-for-the-ai-era/
+- Computer History Book: The Seymour Cray Era of Supercomputers https://ztoz.blog/posts/cray-era-supercomputers/
+- SaaS-y graphic design service Canva now requires candidates for developer jobs to use AI coding assistants during the interview process https://go.theregister.com/feed/www.theregister.com/2025/06/11/canva_coding_assistant_job_interviews/
+- Institutional Books: A 242B token dataset from Harvard Library's collections https://arxiv.org/abs/2506.08300
+- Altman fluffs superintelligence to save humanity as OpenAI slashes prices https://go.theregister.com/feed/www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/
+- EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot https://aim.security/lp/aim-labs-echoleak-blogpost
+- Munal OS: experimental operating system fully written in Rust as an EFI binary https://osnews.com/story/142549/munal-os-experimental-operating-system-fully-written-in-rust-as-an-efi-binary/
+- Spark (the other,other one), An advanced 3D Gaussian Splatting renderer for Three.js https://sparkjs.dev
+- Markdown Ninja: markdown-first CMS for bloggers, minimalists and startups https://github.com/bloom42/markdown-ninja
+- The Future of High Performance Networking: Ultra Ethernet Explained https://wwt.com/blog/the-future-of-high-performance-networking-ultra-ethernet-explained
+- Meta Introducing the V-JEPA 2 world model and new benchmarks for physical reasoning https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/
+- S5cmd: Parallel S3 and local filesystem execution tool https://github.com/peak/s5cmd
+- An Experimental New Dating Site Matches Singles Based on Their Browser Histories https://tech.slashdot.org/story/25/06/12/0043259/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- SmartAttack: Air-Gap Attack via Smartwatches https://arxiv.org/abs/2506.08866v1 007 ?
+- OpenAI now has an RL API which is broadly accessible https://lesswrong.com/posts/HevgiEWLMfzAAC6CD/openai-now-has-an-rl-api-which-is-broadly-accessible
+- Step-by-Step Guide to Deploying Machine Learning Models with FastAPI and Docker https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/ - bare bones compared to TensorRT-LLM
+- Neo4j Desktop 2.0 Reimagines the Local Developer Experience https://neo4j.com/blog/news/desktop-2/
+- Amazon Nova Lite enables Bito to offer a free tier option for its AI-powered code reviews https://aws.amazon.com/blogs/machine-learning/amazon-nova-lite-enables-bito-to-offer-a-free-tier-option-for-its-ai-powered-code-reviews/
+- Neural-MMO https://youtu.be/wwTOFYgtAWg?si=Zy9ojl8w_n3f_1Mm
+- NVIDIA DGX Cloud Lepton: Connecting Developers to Global Accelerated Compute https://youtube.com/watch?v=ZnZumsCZ4pE
+- DataBricks MLflow 3.0: Unified AI Experimentation, Observability, and Governance https://databricks.com/blog/mlflow-30-unified-ai-experimentation-observability-and-governance
+- From JIT to Native: GraalVM Path to Efficient Java Containers https://medium.com/graalvm/from-jit-to-native-path-to-efficient-java-containers-d81221418c39?source=rss----7122626bf34b---4
+- Accelerated Molecular Modeling with NVIDIA cuEquivariance and NVIDIA NIM microservices https://developer.nvidia.com/blog/accelerated-molecular-modeling-with-nvidia-cuequivariance-and-nvidia-nim-microservices/
+- Advancing Literature Review & Target Discovery With NVIDIA Biomedical AI-Q Research Agent Blueprint https://developer.nvidia.com/blog/advancing-literature-review-amp-target-discovery-with-nvidia-biomedical-ai-q-research-agent-blueprint/
+- Fedora 41’s Immutable Future: The Rise of Fedora Atomic Desktops https://linuxjournal.com/content/fedora-41s-immutable-future-rise-fedora-atomic-desktops
+- PCI Express 7.0 Final Specification Published Along With PCIe Optical Interconnect https://phoronix.com/news/PCI-Express-7.0-PCIe-7.0
+- Progressive JSON - streaming data payloads with RSC https://overreacted.io/progressive-json/
+- Build, test, and scale detections as code with Datadog Cloud SIEM https://datadoghq.com/blog/detection-as-code-cloud-siem/
+- Web Dev in Qwen generates full front-end code from just a prompt https://the-decoder.com/web-dev-in-qwen-generates-full-front-end-code-from-just-a-prompt/
+- BindCraft - Step-by-step guidance for AI-powered protein design including PDB prep, hotspot selection, filter settings, GPU choice, and more. https://ariax.bio/resources/bindcraft-getting-started #Bioinformatics
+- AOSP project is coming to an end https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/
+- Case-Based Reasoning with LLMs for Classification of Logical Fallacies https://arxiv.org/abs/2301.11879 a hybrid AI approach that integrates symbolic and connectionist approaches
+- Sam Altman-backed Coco Robotics raises $80M, rides Israeli tech into global delivery market https://calcalistech.com/ctechnews/article/wee40ji8v
+- 2025 State of AI code quality https://qodo.ai/reports/state-of-ai-code-quality/
+- /tauricresearch/ TradingAgents: Multi-Agents LLM Financial Trading Framework https://paperswithcode.com/paper/tradingagents-multi-agents-llm-financial
+- Why Fine-Tuning is the Secret Sauce for ML Engineers in 2025 https://pub.towardsai.net/why-fine-tuning-is-the-secret-sauce-for-ml-engineers-in-2025-98b752439a83?source=rss----98111c9905da---4
+- GitHub Unveils Prototype AI Agent for Autonomous Bug Fixing https://infoq.com/news/2025/06/github-ai-agent-bugfixing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Next.js 15.1 is unusable outside of Vercel https://omarabid.com/nextjs-vercel
+- :red_circle: VS Code Live - Design-informed Codegen with Figma’s Dev Mode MCP server https://youtube.com/watch?v=spsK6A2ttHg
+- Driving Toward Billion-Cell Analysis and Biological Breakthroughs with RAPIDS-singlecell https://developer.nvidia.com/blog/driving-toward-billion-cell-analysis-and-biological-breakthroughs-with-rapids-singlecell/ #Bioinformatics
+- Text-to-LoRA: Fine-tuning effective models is hard and expensive - What if an AI model could help you adapt LLMs on the fly? Meet Text-to-LoRA, a hypernetwork trained to construct LoRAs in one forward pass through natural language. https://x.com/omarsar0/status/1933166911359221943
+
+
 # 11/06/2025 twitter links
 - Developer preview: Enhanced Android desktop experiences with connected displays http://android-developers.googleblog.com/2025/06/developer-preview-enhanced-android-desktop-experiences-connected-displays.html
 - Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library https://microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/
