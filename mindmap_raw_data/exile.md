@@ -1,4 +1,56 @@
 
+# 11/06/2025 twitter links
+- Developer preview: Enhanced Android desktop experiences with connected displays http://android-developers.googleblog.com/2025/06/developer-preview-enhanced-android-desktop-experiences-connected-displays.html
+- Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library https://microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/
+- Unlocking the Power of Shape: How SlicerSALT Enables High-Dimensional Biomarker Discovery https://kitware.com/unlocking-the-power-of-shape-how-slicersalt-enables-high-dimensional-biomarker-discovery/
+- the Gentle Singularity - Sam Altman https://blog.samaltman.com/the-gentle-singularity
+- Version Control Cursor Rules and Custom Modes for Enhanced Development Workflow https://medium.com/wix-engineering/version-control-cursor-rules-and-custom-modes-for-enhanced-development-workflow-e9b788fd6d56?source=rss----e239c562f907---4
+- Powertools for AWS Lambda introduces Bedrock Agents Function utility https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/
+- IBM Says It’s Cracked Quantum Error Correction https://spectrum.ieee.org/ibm-quantum-error-correction-starling
+- Hypernative raises $40M Series B to build the security infrastructure Web3 lacks https://calcalistech.com/ctechnews/article/rjj500lu7eg
+- "Fine-Tuning LLMs is a Huge Waste of Time" - HuggingFace says otherwise https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste
+- Modern Minimal Perfect Hashing: A Survey https://arxiv.org/abs/2506.06536
+- Gnome infrastructure is now sponsored by AWS https://foundation.gnome.org/2025/06/10/gnome-has-a-new-infrastructure-partner-welcome-aws/
+- Chili3d – A open-source, browser-based 3D CAD application https://news.ycombinator.com/item?id=44238171
+- Reinforcement Pre-Training (RPT) - new scaling paradigm for LLMs: reframe next-token prediction as a reasoning task trained using RL, where it receives verifiable rewards for correctly predicting the next token for a given context https://arxiv.org/html/2506.08007v1
+- Magistral — the first reasoning model by Mistral AI https://mistral.ai/news/magistral
+- Apple Fails to Clear a Low Bar on AI https://wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5
+- A Primer on Molecular Dynamics https://owlposting.com/p/a-primer-on-molecular-dynamics
+- Bluesky's Decline Stems From Never Hearing From the Other Side https://tech.slashdot.org/story/25/06/10/2013239/blueskys-decline-stems-from-never-hearing-from-the-other-side?utm_source=feedly1.0mainlinkanon&utm_medium=feed progressive whackos locked themselves into a cognitive bunker
+- Forked-off Xlibre tells Wayland display protocol to DEI in a fire https://go.theregister.com/feed/www.theregister.com/2025/06/10/xlibre_new_xorg_fork/ LoL !
+- Benchmarking Multi-Agent Architectures https://blog.langchain.dev/benchmarking-multi-agent-architectures/
+- Effective cost optimization strategies for Amazon Bedrock https://aws.amazon.com/blogs/machine-learning/effective-cost-optimization-strategies-for-amazon-bedrock/
+- Shaders for Vulkan Samples Now Available in Slang https://saschawillems.de/blog/2025/06/03/shaders-for-vulkan-samples-now-also-available-in-slang/
+- OpenXR Spatial Entities Extensions  https://khronos.org/blog/openxr-spatial-entities-extensions-released-for-developer-feedback
+- Gnome Introducing stronger dependencies on systemd https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/
+- Docker Desktop 4.42 Ships with Native IPv6, MCP Toolkit Integration https://linuxiac.com/docker-desktop-4-42-ships-with-native-ipv6-mcp-toolkit-integration/
+- Not-So-Secure Boot: 2 Secure Boot Exploits Discovered https://linuxsecurity.com/features/features/2-secure-boot-exploits-discovered
+- Optimize and troubleshoot AI infrastructure with Datadog GPU Monitoring https://datadoghq.com/blog/datadog-gpu-monitoring/
+- Datadog MCP Server https://datadoghq.com/blog/datadog-remote-mcp-server/
+- Automate Cloud SIEM investigations with Bits AI Security Analyst https://datadoghq.com/blog/bits-ai-security-analyst/
+- DataDog Bits AI SRE, your AI on-call teammate https://datadoghq.com/blog/bits-ai-sre/
+- Debug live production issues with the Datadog Cursor extension https://datadoghq.com/blog/datadog-cursor-extension/
+- Monitor, troubleshoot, and improve agentic systems with Datadog https://datadoghq.com/blog/monitor-ai-agents/
+- Monitor your OpenAI agents with Datadog LLM Observability https://datadoghq.com/blog/openai-agents-llm-observability/
+- Cyera acquires Israeli startup Shape AI https://en.globes.co.il/en/article-1001512508#utm_source=RSS
+- Hybrid data storage company VAST Data, a growing partner of Nvidia in data storage and management between different clouds, is currently in the process of raising capital at a valuation of $25 billion https://en.globes.co.il/en/article-1001512548#utm_source=RSS
+- FDA To Use AI In Drug Approvals To 'Radically Increase Efficiency' https://science.slashdot.org/story/25/06/11/015216/fda-to-use-ai-in-drug-approvals-to-radically-increase-efficiency?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Sovereign AI Agents Think Local, Act Global With NVIDIA AI Factories https://blogs.nvidia.com/blog/sovereign-ai-agents-factories/
+- A great tool to estimate how much VRAM your LLMs actually need. Alter the hardware config, quantization, etc., and get to know about: Generation speed (tokens/sec),  Precise memory allocation, System throughput, etc.No more VRAM guessing!  https://apxml.com/tools/vram-calculator - great resource !
+- NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-super-49b-and-nano-8b-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/
+- Build Efficient AI Agents Through Model Distillation With NVIDIA’s Data Flywheel Blueprint https://developer.nvidia.com/blog/build-efficient-ai-agents-through-model-distillation-with-nvidias-data-flywheel-blueprint/
+- Evaluating Similariy Digests: A Study of TLSH, ssdeep, and sdhash Against Common File Modifications https://dzone.com/articles/similarity-digests-tlsh-ssdeep-sdhash-benchmark
+- AI and Vibe Coding Are Radically Impacting Senior Devs in Code Review https://thenewstack.io/ai-and-vibe-coding-are-radically-impacting-senior-devs-in-code-review/
+- Bubble: Bridging AI, No-Code https://thenewstack.io/bubble-launches-vibe-code-killer-bridging-ai-no-code/
+- Databricks Launches Agent Bricks, Its New No-Code AI Agent Builder https://thenewstack.io/databricks-launches-agent-bricks-its-new-no-code-ai-agent-builder/
+- The Bedroom at the End of the Universe - https://smithsonianmag.com/air-space-magazine/bedroom-end-universe-1-180968677/  @smithsonianmag
+- Meta releases V-JEPA 2, their new world model! https://x.com/omarsar0/status/1932888893113700720
+- Boltz-2 is available as an accelerated, downloadable NVIDIA NIM microservice build.nvidia.com/mit/boltz2
+- AI coding agents hit a wall when codebases get massive. Even with 2M token context windows, a 10M line codebase needs 100M tokens. The real bottleneck isn't just ingesting code - it's getting models to actually pay attention to all that context effectively. https://x.com/garrytan/status/1932827640131354947
+- Fine-tune 100+ LLMs in Google Colab. This GitHub repo with fine-tuning notebooks for popular LLMs like Llama, Qwen, Gemma, Phi and DeepSeek R1 in one place. github.com/unslothai/notebooks/
+- AI-Native Platforms: The Unstoppable Alliance of GenAI and Platform Engineering https://dzone.com/articles/ai-native-platforms-genai-platform-engineering
+
+
 # 10/06/2025 twitter links
 - Software Specs 2.0: Evolving Requirements for the AI Era (2025 Edition) https://dzone.com/articles/software-specs-ai-evolving-requirements
 - Online Developer Tools a Backdoor to Security Threat https://dzone.com/articles/online-developer-tools-security-risks
