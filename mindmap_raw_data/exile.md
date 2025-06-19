@@ -1,5 +1,57 @@
 
-
+# 10/06/2025 twitter links
+- Software Specs 2.0: Evolving Requirements for the AI Era (2025 Edition) https://dzone.com/articles/software-specs-ai-evolving-requirements
+- Online Developer Tools a Backdoor to Security Threat https://dzone.com/articles/online-developer-tools-security-risks
+- Defining Effective Microservice Boundaries - A Practical Approach To Avoiding The Most Common Mistakes https://dzone.com/articles/effective-microservice-boundaries-practical-tips
+- React Native Aria Packages Backdoored in Supply Chain Attack https://securityweek.com/react-native-aria-packages-backdoored-in-supply-chain-attack/
+- Integrating Apache Spark With Drools Rule Engine https://dzone.com/articles/integrating-apache-spark-drools-loan-approval-demo
+- Malicious NPM Packages Disguised as Express Utilities Allow Attackers to Wipe Systems https://securityweek.com/malicious-npm-packages-disguised-as-express-utilities-allow-attackers-to-wipe-systems/
+- AWS pgactive: active-active replication extension for PostgreSQL - open sourced https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql
+- Large Action Models https://thenewstack.io/what-are-large-action-models/ LAMs fine-tune an LLM to specifically be good at recommending actions to complete a goal
+- Ranked: The Smartest AI Models, by IQ https://visualcapitalist.com/ranked-the-smartest-ai-models-by-iq/ IQ test is a Turing Test for practical, narrow AI
+- US air traffic control still runs on Windows 95 and floppy disks ! https://arstechnica.com/information-technology/2025/06/faa-to-retire-floppy-disks-and-windows-95-amid-air-traffic-control-overhaul/
+- Protesters summon, burn Waymo robotaxis in Los Angeles after ICE raids https://arstechnica.com/cars/2025/06/robotaxis-burn-in-los-angeles-in-backlash-to-immigration-raids/ - this is how you get the Animatrix ! ;)
+- Unibeam secures $6 million in Seed to expand SIM-based authentication technology https://calcalistech.com/ctechnews/article/r1miv6mmgx
+- Hirundo raises $8M in Seed funding to help AI forget its mistakes https://calcalistech.com/ctechnews/article/s1ryvsnqxg
+- Guardz raises $56M to bring enterprise-level cybersecurity to small businesses https://calcalistech.com/ctechnews/article/me21lhfo7
+- Qualcomm buys British chipmaker Alphawave for $2.4 billion, gains Israeli engineering hub https://calcalistech.com/ctechnews/article/rk0fhev7eg
+- Lightweight Diagramming for Lightweight Formal Methods https://blog.brownplt.org/2025/06/09/copeanddrag.html
+- Containerization is a Swift package for running Linux containers on macOS https://github.com/apple/containerization
+- Somo – a human friendly alternative to netstat https://github.com/theopfr/somo
+- Munal OS: a graphical experimental OS with WASM sandboxing https://github.com/Askannz/munal-os
+- Potential and Limitation of High-Frequency Cores and Caches https://arch.cs.ucdavis.edu/simulation/2024/08/06/potentiallimitationhighfreqcorescaches.html
+- Chonkie (YC X25) – Open-Source Library for Advanced Chunking https://docs.chonkie.ai/python-sdk/getting-started/introduction
+- Glowstick – type level tensor shapes in stable rust https://github.com/nicksenger/glowstick
+- -=:[ WarGames Terminal Fonts ] https://mw.rat.bz/wgterm/
+- Algovivo an energy-based formulation for soft-bodied virtual creatures https://juniorrojas.com/algovivo/
+- So Long, Figma. Thanks for Everything https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c
+- The illusion of "The Illusion of Thinking" https://seangoedecke.com/illusion-of-thinking/
+- GitHub App Manager can now be granted to teams https://github.blog/changelog/2025-06-09-github-app-manager-can-now-be-granted-to-teams useful for Copilot Agent extensions
+- Apple unveils new Liquid Glass UX Theme https://images.app.goo.gl/V2vud4G59MihBR87A
+- Causation, Correlation, and Confounding: A Graphical Explainer https://lesswrong.com/posts/BLHEa9sqcGpmWuJGW/causation-correlation-and-confounding-a-graphical-explainer
+- LangGraph new features https://blog.langchain.dev/langgraph-release-week-recap/
+- Google Research built one of the most ambitious datasets in brain activity research https://blog.google/technology/research/zapbench-zebrafish-brain-mapping/
+- METR: Recent frontier models are reward hacking https://lesswrong.com/posts/Zu4ai9GFpwezyfB2K/metr-recent-frontier-models-are-reward-hacking
+- Building intelligent AI voice agents with Pipecat and Amazon Bedrock https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/ Alexa silenced ?
+- Khronos Announces Vulkan Video Decode VP9 Extension https://khronos.org/blog/khronos-announces-vulkan-video-decode-vp9-extension
+- "I got laid off, so I built this interactive 3D demo with React-Three-Fiber. Here's the write-up on my process" https://reddit.com/r/threejs/comments/1l74tg2/i_got_laid_off_so_i_built_this_interactive_3d/ - thats what I would do too, if I got laid off !
+- Next edit suggestions available in Visual Studio GitHub Copilot https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/
+- AI Agents & The Future of Coding: A Conversation with a Googler https://youtube.com/watch?v=bpqJFeWHMUE
+- Accelerate Machine Learning Model Serving With FastAPI and Redis Caching https://analyticsvidhya.com/blog/2025/06/ml-model-serving/
+- A quick list of reward hacking interventions https://lesswrong.com/posts/spZyuEGPzqPhnehyk/a-quick-list-of-reward-hacking-interventions
+- ModelPacks Join the CNCF Sandbox:A Milestone for Vendor-Neutral AI Infrastructure https://substack.com/home/post/p-165347346 ModelPacks: Model Format Spec https://github.com/CloudNativeAI/model-spec/blob/main/docs%2Fspec.md
+- Kubeflow on Volcano https://volcano.sh/en/docs/kubeflow_on_volcano/
+- building an LLM in Rust https://x.com/evisdrenova/status/1931937051668275338
+- AWS Launches EKS Dashboard to Tackle Multi-Cloud Kubernetes Complexity https://infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Meta Is Creating a New AI Lab To Pursue 'Superintelligence' https://tech.slashdot.org/story/25/06/10/0738216/meta-is-creating-a-new-ai-lab-to-pursue-superintelligence?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Maximizing GPU Utilization using NVIDIA Run:ai in Amazon EKS https://aws.amazon.com/blogs/containers/maximizing-gpu-utilization-using-nvidia-runai-in-amazon-eks/
+- Which Prompting Technique Should I Use? An Empirical Investigation of Prompting Techniques for Software Engineering Tasks https://arxiv.org/html/2506.05614v1
+- /evoagentx/ SEW: Self-Evolving Agentic Workflows for Automated Code Generation https://paperswithcode.com/paper/sew-self-evolving-agentic-workflows-for
+- How Pop!_OS 24.04 Revolutionizes Hybrid Graphics for Linux Users https://linuxjournal.com/content/breaking-barriers-how-popos-2404-revolutionizes-hybrid-graphics-linux-users
+- Vulnerabilities Exposed Phone Number of Any Google User https://securityweek.com/vulnerabilities-exposed-phone-number-of-any-google-user/
+- Why Tech Companies Are Moving Off React https://youtube.com/watch?v=HBpOzj-iBUg
+- Abel–Ruffini theorem https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem -  almost all polynomials of degree five or higher cannot be solved in radicals. Galois theory  allows deciding, for any given equation, whether it is solvable in radicals.
+- torch-molecule:fire::  molecular property prediction, generation & representation learning: > 30 deep learning methods + models, sklearn-style. https://github.com/liugangcode/torch-molecule #Bioinformatics
 
 
 # 09/06/2025 twitter links
