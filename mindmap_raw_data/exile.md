@@ -1,3 +1,33 @@
+
+
+
+
+# 09/06/2025 twitter links
+- Sway 1.11 Wayland Tiling Window Manager Released https://linuxiac.com/sway-1-11-wayland-tiling-window-manager-released/
+- Rolldown-Vite https://infoq.com/news/2025/06/rolldown-vite-10x-faster-builds/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global Rust-Based Drop-in Replacement for Vite Released, Early Adopters Report 10X Faster Builds
+- Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance https://aavetis.github.io/ai-pr-watcher/
+- /hkuds/ AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents https://paperswithcode.com/paper/autoagent-a-fully-automated-and-zero-code
+- /microsoft/ WINA: Weight Informed Neuron Activation for Accelerating LLM Inference https://paperswithcode.com/paper/wina-weight-informed-neuron-activation-for
+- /wenhaoli-xmu/ Training Long-Context LLMs Efficiently via Chunk-wise Optimization https://paperswithcode.com/paper/training-long-context-llms-efficiently-via
+- How Compiler Explorer Works in 2025 https://xania.org/202506/how-compiler-explorer-works
+- Average age of a woman’s first birth in Europe. https://x.com/DemoDoomer/status/1931964238458699862
+- Agentic LLMs in workflows often fail due to poor prompts. ProRefine improves these prompts dynamically during reasoning using LLM textual feedback. Paper - arxiv. org/abs/2506.05305
+    → Uses three LLMs: a task model, a feedback model, and an optimizer model.
+    → The task model generates output in small steps.
+    → The feedback model critiques the output step by step.
+    → The optimizer model modifies the prompt based on the feedback.
+    → This loop iterates at inference time, requiring no additional training data.
+    → Performance improves by 3 to 37 percentage points over Chain-of-Thought baseline.
+    → ProRefine outperforms TextGrad in 11 out of 15 cases across benchmarks.
+    → Smaller models achieve performance comparable to larger models using this method.
+    → A high-quality verifier significantly improves task performance.
+    :pushpin: Dynamic inference-time prompt adaptation boosts accuracy for complex reasoning tasks.
+    :pushpin: Multi-Large Language Model feedback loop improves performance without fine-tuning.
+    :pushpin: Smaller models bridge performance gaps with larger models using ProRefine guidance.
+- Machine learning to predict de novo protein–protein interactions https://cell.com/trends/biotechnology/fulltext/S0167-7799%2825%2900158-1 #Bioinformatics
+- Reasoning LLMs Guide https://www.promptingguide.ai/guides/reasoning-llms - good resource !
+- AIDO is a system of models for working with genomic, protein, single-cell, and tissue-scale data. https://huggingface.co/genbio-ai #Bioinformatics
+
 # 08/06/2025 twitter links
 - Using Reinforcement Learning to Train LLMs to Explain Human Decisions https://arxiv.org/html/2505.11614v1
 - A plan for SIMD in Rust https://linebender.org/blog/a-plan-for-simd/
