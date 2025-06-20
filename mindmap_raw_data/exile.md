@@ -1,4 +1,58 @@
 
+# 14/06/2025
+- Vitamin D May Help Slow Cellular Aging, Study Finds https://theepochtimes.com/health/vitamin-d-may-help-slow-cellular-aging-study-finds-but-experts-urge-caution-5865633?ea_src=frontpage&ea_cnt=a&ea_med=top-news-3-top-stories-0-title-0 a healthy tan
+- :dna:AlphaFold3 nails protein structure prediction ... except for 48% of the interactome :sweat_smile: PIONEER2.0 blends homology + DL to map interfaces for 352k human PPIs, beating AF3 where it falters. Integrating structural homology with deep learning to achieve highly accurate protein-protein interface prediction for the human interactome https://biorxiv.org/content/10.1101/2025.06.09.658393v1?ct= #Bioinformatics
+- Anthropic Releases Claude Code SDK to Power AI-Paired Programming https://docs.anthropic.com/en/docs/claude-code/sdk
+- A Man With ALS Can Speak and Sing Again Thanks to a Brain Implant and AI-Synthesized Voice https://singularityhub.com/2025/06/13/a-man-with-als-can-speak-and-sing-again-thanks-to-a-brain-implant-and-ai-synthesized-voice/
+- Salesforce Blocks AI Rivals From Using Slack Data https://slashdot.org/story/25/06/13/1443216/salesforce-blocks-ai-rivals-from-using-slack-data?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Japan Urged To Use Gloomier Population Forecasts After Plunge in Births https://news.slashdot.org/story/25/06/13/0137225/japan-urged-to-use-gloomier-population-forecasts-after-plunge-in-births?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Google Cloud goes down, takes Cloudflare and its customers with it https://go.theregister.com/feed/www.theregister.com/2025/06/12/google_cloudflare_outage/
+- Nvidia hits the gas on autonomous vehicle software https://go.theregister.com/feed/www.theregister.com/2025/06/12/nvidia_autonomous_vehicle_platform/
+- Implementing Logic Programming https://btmc.substack.com/p/implementing-logic-programming
+- Datalog logic programming in python https://sites.google.com/site/pydatalog/home
+- NeuroSymbolic Hybrid AI: high level reasoning in your agentic orchestrations, low level Seq2Seq inference in subsymbolic LLM calls - https://python.langchain.com/docs/integrations/tools/prolog_tool/
+```python
+#!pip install langchain-prolog
+
+from langchain_prolog import PrologConfig, PrologRunnable, PrologTool
+```
+- Prolog’s Role in the Agentic Era https://eugeneasahara.com/2024/08/04/does-prolog-have-a-place-in-the-llm-era/
+- How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022) https://discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years
+- Introducing Sulka, the Hardened Yocto Distro https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/
+- Self-Adapting LLMs (SEAL) https://arxiv.org/html/2506.10943v1  enables LLMs to self-adapt by generating their own finetuning data and update directives. Given a new input, model produces a self-edit generation that may restructure the information in different ways, specify optimization hyperparameters, or invoke tools for data augmentation & gradient-based updates. Through SFT, these self-edits result in persistent weight updates
+- The Shape of Compute — with Chris Lattner for Modular https://latent.space/p/modular-2025 Mojo replacing CUDA is not about simply swapping out a software stack - this requires a lockstep optimized set of GEMM kernels + PL + NVCC compiler + Profiler+ PTX assembly + Nvidia ISA
+- Deploy Qwen models with Amazon Bedrock Custom Model Import https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/
+- Mastering LLM Fine-Tuning: GRPO, PPO, and DPO Compared https://pub.towardsai.net/mastering-llm-fine-tuning-grpo-ppo-and-dpo-compared-e362257d4036?source=rss----98111c9905da---4
+- Corporations as Paperclip/Profit Maximizers https://lesswrong.com/posts/b8v6AxbNGQvH8nxGC/corporations-as-paperclip-profit-maximizers
+- Stable Diffusion 3.5 Models Optimized with TensorRT Deliver 2X Faster Performance and 40% Less Memory on NVIDIA RTX GPUs https://stability.ai/news/stable-diffusion-35-models-optimized-with-tensorrt-deliver-2x-faster-performance-and-40-less-memory-on-nvidia-rtx-gpus
+- Visual Guide to Bi-encoders, Cross-encoders and ColBERT https://blog.dailydoseofds.com/p/visual-guide-to-bi-encoders-cross
+- The rise of reasoning machines https://interconnects.ai/p/the-rise-of-reasoning-machines
+- Analysis of Automated Prompt Engineering for Forecasting https://lesswrong.com/posts/BStj6fgqxmrPqgPtw/analysis-of-automated-prompt-engineering-for-forecasting
+- The HuggingFace Kernel Hub https://huggingface.co/blog/hello-hf-kernels  load optimized compute kernels directly from the HuggingFace Hub. like the Model Hub, but for low-level, high-performance code snippets (kernels) that accelerate specific operations, often on GPUs.
+- Reinforcement Pre-Training: Teaching AI to Think Instead of Memorize https://pub.towardsai.net/reinforcement-pre-training-teaching-ai-to-think-instead-of-memorize-b464c4bbd873?source=rss----98111c9905da---4
+- Transformer vs. Mixture of Experts in LLMs, clearly explained (with visuals): https://x.com/_avichawla/status/1933773904071569681
+- Containerized versions of 450+ MCP servers in a single repo! No manual setup—just pull the image. Safe to run in isolated containers, unlike scripts. Auto-updated daily. Easiest and safest way to use MCP servers with Agents. https://github.com/metorial/mcp-containers
+- Multimodal LLMs: A Survey arxiv.org/abs/2506.10016
+- Unsupervised Elicitation of LLMs https://arxiv.org/html/2506.10139v1 a new unsupervised algorithm, Internal Coherence Maximization (ICM), to fine-tune pretrained LLMs on their own generated labels
+- Last fifty years of integer linear programming: Recent practical advances https://inria.hal.science/hal-04776866v1
+- Rethinking Losses for Diffusion Bridge Samplers https://arxiv.org/abs/2506.10982
+- 0.1x engineers https://youtube.com/shorts/GM-9RvTAlL0?si=qkhfd6UzkpkNpap7 LoL
+- Why Sleeping in Total Darkness Is a Big Deal - Science shows that even low levels of light at night can disrupt sleep and long-term health https://theepochtimes.com/health/why-sleeping-in-total-darkness-is-a-big-deal-5863657?utm_source=partner&utm_campaign=ZeroHedge&src_src=partner&src_cmp=ZeroHedge
+- Anthropic:  how to implement an effective multi-agent research system. https://x.com/omarsar0/status/1933941545675206936 Orchestrator-Worker Design
+-  MEMOIR :book:— a scalable framework for lifelong model editing that reliably rewrites thousands of facts sequentially using a residual memory module. :fire: inject new knowledge into LLMs without full retraining, forgetting, or breaking past edits https://x.com/qinym710/status/1933514852313563228
+
+
+
+# 13/06/2025 twitter links
+- Researchers identify how physical activity protects the brain – cell by cell – in Alzheimer’s disease https://rna-seqblog.com/researchers-identify-how-physical-activity-protects-the-brain-cell-by-cell-in-alzheimers-disease/
+- Kitware’s Planned Strategic Growth in AI and Cybersecurity https://kitware.com/driving-innovation-kitwares-planned-strategic-growth-in-ai-and-cybersecurity/
+- Memory Leaks in JavaScript Aren’t Obvious
+https://itnext.io/memory-leaks-in-javascript-arent-obvious-f331bb9211f9?source=rss----5b301f10ddcd---4
+- VLLM refresher https://thenewstack.io/introduction-to-vllm-a-high-performance-llm-serving-engine/
+- Amazon EKS Pod Identity simplifies the experience for cross-account access https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access
+- Ranked: The 50 Richest Countries by GDP Per Capita in 2025 https://visualcapitalist.com/ranked-the-50-richest-countries-by-gdp-per-capita-in-2025/
+- The Most Common Reasons Not to Have Children Are Financial https://statista.com/chart/34607/most-common-reason-for-not-having-children/ survival of the fittest !
+
 
 # 12/06/2025 twitter links
 - Amazon Bedrock Custom Model Import now supports Qwen models https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models
