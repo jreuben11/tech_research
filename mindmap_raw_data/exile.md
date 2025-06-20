@@ -1,4 +1,50 @@
 
+# 15/06/2025 twitter links
+- Rust at Work - conversation with Eli Shalom and Igal Tabachnik of Eureka Labs https://rustacean-station.org/episode/eli-shalom-and-igal-tabachnik/ @hmemcpy
+- A meta-analysis of three different notions of software complexity https://typesanitizer.com/blog/complexity-definitions.html
+- Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming https://contextgeneric.dev/blog/hypershell-release/
+- Datalog in Rust https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md
+- The NestJS Handbook – Learn to Use Nest with Code Examples https://freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/
+- Create POM ( Page Object Model) With LLM (GitHub Copilot) and Playwright MCP https://dzone.com/articles/create-pom-with-llm-github-copilot-playwright-mcp
+- Agentic Coding: How Google’s Jules Compares to Claude Code https://thenewstack.io/agentic-coding-how-googles-jules-compares-to-claude-code/
+- ECMAScript Committee Advances 3 Proposals to Stage 4 https://thenewstack.io/ecmascript-committee-advances-3-proposals-to-stage-4/
+  - Array.fromAsync
+  - Error.isError
+  - explicit resource management: Symbol.dispose / .asyncDispose
+- ChatGPT Just Got 'Absolutely Wrecked' at Chess, Losing to a 1970s-Era Atari 2600 https://games.slashdot.org/story/25/06/14/0421247/chatgpt-just-got-absolutely-wrecked-at-chess-losing-to-a-1970s-era-atari-2600?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Writing a Truth Oracle in Lisp https://lambda-cove.net/posts/truth-oracle-lisp/
+- Training Superior Sparse Autoencoders for Instruct Models https://lesswrong.com/posts/REEPhYzeiP2JyH35C/training-superior-sparse-autoencoders-for-instruct-models
+- /naver/ MUSt3R: Multi-view Network for Stereo 3D Reconstruction https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d
+- /hcplab-sysu/ Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for
+- /Zehong-Ma/ MagCache: Fast Video Generation with Magnitude-Aware Cache https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude
+- /zulunzhu/ Spiking Graph Convolutional Networks https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1
+- /alpha-innovator/ SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing https://paperswithcode.com/paper/surveyforge-on-the-outline-heuristics-memory
+- the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant https://ghuntley.com/atlassian-rovo-source-code/
+- Run High-Performance LLM Inference Kernels from NVIDIA Using FlashInfer​​ https://developer.nvidia.com/blog/run-high-performance-llm-inference-kernels-from-nvidia-using-flashinfer/
+- Accelerated Sequence Alignment for Protein Science with MMseqs2-GPU and NVIDIA NIM https://developer.nvidia.com/blog/accelerated-sequence-alignment-for-protein-design-with-mmseqs2-and-nvidia-nim/
+- Linux Kernel API Specification Framework Proposed To Help Stabilize User-Space Interfaces https://phoronix.com/news/Linux-API-Spec-Framework
+- VS Code 1.101 Released with Tool Set, Custom Chat Mode & MCP Auth https://ubuntuhandbook.org/index.php/2025/06/vs-code-1-101-released-tool-set-custom-chat/
+- SDL Merges Wayland Pointer Warp Support To Help Native Wayland Gaming https://phoronix.com/news/SDL-Lands-Wayland-Pointer-Warp
+- KDE Plasma 6.5 To Introduce Wayland Picture-In-Picture Support https://phoronix.com/news/KDE-Plasma-6.5-Wayland-PIP
+- Bcachefs Is Now Able To Auto-Fix A Few More Fsck Errors https://phoronix.com/news/Bcachefs-Auto-Fix-More-Fsck-616
+- Nitrux Linux Drops NX Desktop and Plasma, Embraces Hyprland https://linuxiac.com/nitrux-linux-drops-nx-desktop-and-plasma-embraces-hyprland/
+- Kapitano is a New GTK ClamAV Frontend for Linux https://omgubuntu.co.uk/2025/06/kapitano-linux-clamav-antivirus-scanner
+- Linux ELF Malware: The New Front in the Battle for Cloud Security https://linuxsecurity.com/features/features/linux-elf-malware-cloud-security
+- MCP Full Specification Support in VS Code https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support
+- Talos Linux: Redefining Security for Kubernetes Environments https://linuxsecurity.com/features/features/talos-linux-redefining-kubernetes-security
+- Building efficient MCP servers https://vercel.com/blog/building-efficient-mcp-servers
+- From REST to GraphQL in minutes with prebuilt Connectors https://apollographql.com/blog/from-rest-to-graphql-in-minutes-with-prebuilt-connectors
+- How ESLint language plugins enhance DSL usability https://eslint.org/blog/2025/06/language-plugins-dsl-benefits/
+- Remote GitHub MCP Server is now in public preview https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview
+- How the GitHub billing team uses the coding agent in GitHub Copilot to continuously burn down technical debt https://github.blog/ai-and-ml/github-copilot/how-the-github-billing-team-uses-the-coding-agent-in-github-copilot-to-continuously-burn-down-technical-debt/
+- Datadog + OpenAI: Codex CLI integration for AI‑assisted DevOps https://datadoghq.com/blog/openai-datadog-ai-devops-agent/
+- Virtual Bonding Enhanced Graph Self‐Supervised Learning for Molecular Property Prediction https://onlinelibrary.wiley.com/doi/10.1002/jcc.70147?af=R #Bioinformatics
+- Static gltf models in wgpu https://youtube.com/watch?v=XJ32cCinpbg
+- Executives from Meta, OpenAI, and Palantir Commissioned Into The US Army Reserve https://news.slashdot.org/story/25/06/15/0115241/executives-from-meta-openai-and-palantir-commissioned-into-the-us-army-reserve?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- RL Q-learning is not yet scalable https://seohong.me/blog/q-learning-is-not-yet-scalable/
+- new HTML <permission> element ! https://developer.chrome.com/blog/permission-element-origin-trial
+
+
 # 14/06/2025
 - Vitamin D May Help Slow Cellular Aging, Study Finds https://theepochtimes.com/health/vitamin-d-may-help-slow-cellular-aging-study-finds-but-experts-urge-caution-5865633?ea_src=frontpage&ea_cnt=a&ea_med=top-news-3-top-stories-0-title-0 a healthy tan
 - :dna:AlphaFold3 nails protein structure prediction ... except for 48% of the interactome :sweat_smile: PIONEER2.0 blends homology + DL to map interfaces for 352k human PPIs, beating AF3 where it falters. Integrating structural homology with deep learning to achieve highly accurate protein-protein interface prediction for the human interactome https://biorxiv.org/content/10.1101/2025.06.09.658393v1?ct= #Bioinformatics
