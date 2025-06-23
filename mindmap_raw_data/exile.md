@@ -1,4 +1,38 @@
 
+# 18/06/2025 twitter links
+- Example of Computing the Expectation and Variance of an Exponential Distribution https://youtube.com/watch?v=Fz9_yqdEt-I
+- Amazon ECR enhanced scanning now surfaces image use status https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/
+- AWS Shield introduces network security director (preview) https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview
+- Amazon GuardDuty Extended Threat Detection now supports Amazon EKS https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks
+- Falco is now available as an Amazon EKS add-on https://sysdig.com/blog/falco-amazon-eks-add-on/
+- Vibe Coding in a Post-IDE World: Why Agentic AI Is the Real Disruption https://thenewstack.io/vibe-coding-in-a-post-ide-world-why-agentic-ai-is-the-real-disruption/
+- AWS IAM now enforces MFA for root users across all account types https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/
+- IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/
+- AWS Certificate Manager introduces public certificates you can use anywhere https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/
+- Dangerous by default: Insecure GitHub Actions found in MITRE, Splunk, and other open source repositories https://sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories/
+- Visualized: How Many New Businesses Survive 10 Years? https://visualcapitalist.com/visualized-how-many-new-businesses-survive-10-years/
+- OpenAI weighs antitrust complaint against Microsoft https://arstechnica.com/ai/2025/06/openai-weighs-nuclear-option-of-antitrust-complaint-against-microsoft/ are their DevOps ready to get kicked off Azure ?
+- Coralogix raises $115 million Series E at over $1 billion valuation https://calcalistech.com/ctechnews/article/h1tsdarqge
+- Rulebook AI – rules and memory manager for AI coding IDEs https://github.com/botingw/rulebook-ai
+- Lstr – A modern, interactive tree command written in Rust https://github.com/bgreenwell/lstr
+- DSL Engineering in the era of LLMs https://kirancodes.me/posts/log-lang-design-llms.html interesting. Prompt the AI to generate DSLs and their pythonic parser code
+- Real-time action chunking with large models https://pi.website/research/real_time_chunking
+- Building Effective AI Agents https://anthropic.com/engineering/building-effective-agents
+- All the Fundamental Concepts for AGI are Here https://nextbigfuture.com/2025/06/all-the-fundamental-concepts-for-agi-are-here.html
+- Andrej Karpathy on Software 3.0: Software in the Age of AI https://latent.space/p/s3
+- Mastering Prompting with DSPy: A Beginner’s Guide to Smarter LLMs https://pub.towardsai.net/mastering-prompting-with-dspy-a-beginners-guide-to-smarter-llms-158890fe1d93?source=rss----98111c9905da---4
+- Vector Databases Performance Comparison: ChromaDB vs Pinecone vs FAISS — Real Benchmarks That Will Surprise You https://pub.towardsai.net/vector-databases-performance-comparison-chromadb-vs-pinecone-vs-faiss-real-benchmarks-that-will-3eb83027c584
+- Understanding and Coding the KV Cache in LLMs from Scratch https://sebastianraschka.com/blog/2025/coding-the-kv-cache-in-llms.html
+- NVIDIA NVLink Fusion: Building Semi-Custom AI Infrastructure https://youtube.com/watch?v=BLLf4e9BqXs
+- MS research: New methods boost reasoning in small and large language models https://microsoft.com/en-us/research/blog/new-methods-boost-reasoning-in-small-and-large-language-models/
+- AI State of the Art in June 15th - 2025 https://pub.towardsai.net/ai-state-of-the-art-in-june-15th-2025-c70f0a28ef0b?source=rss----98111c9905da---4
+- No Code Changes + CUML equals 50x Speedup for Sklearn https://youtube.com/watch?v=lWdazhubMrc
+- Fine-Tuning LLMOps for Rapid Model Evaluation and Ongoing Optimization https://developer.nvidia.com/blog/fine-tuning-llmops-for-rapid-model-evaluation-and-ongoing-optimization/
+- R²D²: Building AI-based 3D Robot Perception and Mapping with NVIDIA Research https://developer.nvidia.com/blog/r2d2-building-ai-based-3d-robot-perception-and-mapping-with-nvidia-research/
+- Open 3D Engine 25.05 Brings Vulkan Improvements, Simulation Enhancements https://phoronix.com/news/Open-3D-O3DE-25.05
+
+
+
 # 16-17/06/2025 twitter links
 - Meta's Llama 3.1 Can Recall 42% of the First Harry Potter Book https://slashdot.org/story/25/06/15/2230206/metas-llama-31-can-recall-42-of-the-first-harry-potter-book?utm_source=feedly1.0mainlinkanon&utm_medium=feed
 - gender differences in wokeness https://x.com/williameijer/status/1934286555109036173
