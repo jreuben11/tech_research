@@ -1,4 +1,47 @@
 
+# 16-17/06/2025 twitter links
+- Meta's Llama 3.1 Can Recall 42% of the First Harry Potter Book https://slashdot.org/story/25/06/15/2230206/metas-llama-31-can-recall-42-of-the-first-harry-potter-book?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- gender differences in wokeness https://x.com/williameijer/status/1934286555109036173
+- Agentic DevOps https://youtube.com/watch?v=QTDJrvQwIrs
+- AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/
+- Introducing the Certified Cloud Native Platform Engineering Associate (CNPA): Community-Driven Certification for Platform Engineers https://cncf.io/blog/2025/06/15/introducing-the-certified-cloud-native-platform-engineering-associate-cnpa-community-driven-certification-for-platform-engineers/
+- Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons https://arxiv.org/abs/2506.01963
+- Juris - a webdev react killer ? https://medium.com/@resti.guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-721a5a734732
+- ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development https://arxiv.org/abs/2506.11016
+- Socket-call – Call socket io events like normal JavaScript functions
+https://github.com/bperel/socket-call
+- The Illusion of Thinking: A Reality Check on AI Reasoning https://leotsem.com/blog/the-illusion-of-thinking/
+- Chemical knowledge and reasoning of large language models vs. chemist expertise https://nature.com/articles/s41557-025-01815-x #Bioinformatics
+- Intel Will Lay Off 15% To 20% of Its Factory Workers, Memo Says https://slashdot.org/story/25/06/16/2132227/intel-will-lay-off-15-to-20-of-its-factory-workers-memo-says?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- WhatsApp Introduces Ads in Its App https://tech.slashdot.org/story/25/06/16/146228/whatsapp-introduces-ads-in-its-app?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Best MARL frameworks:
+  - JaxMarl https://github.com/FLAIROx/JaxMARL
+  - Marllib https://marllib.readthedocs.io/en/latest/
+  - BenchMarl https://github.com/facebookresearch/BenchMARL
+  - torchrl https://github.com/pytorch/rl
+- Population Projections: The World's Top Countries By 2100 https://zerohedge.com/geopolitical/population-projections-worlds-top-countries-2100
+- Cloud Infrastructure: Canonical Kubernetes & NVIDIA DOCA Unleash DPU processing https://ubuntufree.com/revolutionize-cloud-infrastructure-canonical-kubernetes-nvidia-doca-unleash-dpu-power-on-ubuntu/
+- Cursor + Nx MCP = :heart: https://youtube.com/watch?v=gAZL0zt3_KY
+- Top 4 open-source LLM finetuning libs https://x.com/akshay_pachaar/status/1934672468276596873
+    - Unsloth: makes fine-tuning easy and fast, turning a mid-range GPU into a powerhouse with a simple Colab or Kaggle notebook.for hackers and small teams using 12–24 GB GPUs needing quick LoRA experiments without DeepSpeed configs or clusters
+    - Axolotl: keeps your entire pipeline in one YAML file—write once, reuse from data prep to serving. for teams that crave reproducibility and want to toggle advanced recipes by flipping a YAML switch.
+    - LlamaFactory: offers an easy web interface for fine-tuning models—guide through a wizard, watch training, and deploy with one command. No-code. for builders who prefer GUIs, need cutting-edge features, and want built-in dashboards.
+    - DeepSpeed: engine that turns clusters into supercomputers, unlocking super-fast LLM training and inference. for enterprises and researchers pushing models above ten billion parameters or serving at massive QPS.
+- "LLM users consistently underperformed at neural, linguistic, and behavioral levels" https://x.com/rohanpaul_ai/status/1934770112483217645  study finds LLM dependence weakens the writer’s own neural and linguistic fingerprints. :thinking_face::thinking_face: Relying only on EEG, text mining, and a cross-over session, the authors show that keeping some AI-free practice time protects memory circuits and encourages richer language even when a tool is later reintroduced.
+- The best Frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel. https://x.com/rohanpaul_ai/status/1934751145400111572/photo/1 LiveCodeBench Pro, a benchmark composed of problems from Codeforces, ICPC, and IOI (“International Olympiad in Informatics”) that are continuously updated to reduce the likelihood of data contamination.
+- Microbe With Bizarrely Tiny Genome May Be Evolving Into a Virus https://science.slashdot.org/story/25/06/17/0042221/microbe-with-bizarrely-tiny-genome-may-be-evolving-into-a-virus?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- /facebookresearch/ V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning https://paperswithcode.com/paper/v-jepa-2-self-supervised-video-models-enable
+- /inclusionai/ Ming-Omni: A Unified Multimodal Model for Perception and Generation https://paperswithcode.com/paper/ming-omni-a-unified-multimodal-model-for
+- /nvlabs/ Efficient Part-level 3D Object Generation via Dual Volume Packing https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via
+- /masworks/ MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems https://paperswithcode.com/paper/maslab-a-unified-and-comprehensive-codebase
+- /hkust-knowcomp/ AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora https://paperswithcode.com/paper/autoschemakg-autonomous-knowledge-graph
+- Recent Langflow Vulnerability Exploited by Flodrix Botnet https://securityweek.com/recent-langflow-vulnerability-exploited-by-flodrix-botnet/
+- How to Combine Scikit-learn, CatBoost, and SHAP for Explainable Tree Models https://machinelearningmastery.com/how-to-combine-scikit-learn-catboost-and-shap-for-explainable-tree-models/
+- Cell Mapping Toolkit: an end-to-end pipeline for mapping subcellular organization https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf205/8159056?rss=1
+- "Mathematics for Computer Science" from MIT. This complete textbook is now available FREE. https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+- 29 videos playlist on how to build DeepSeek from scratch. It covers theory and code, from the very foundations to advanced. Self attention, multi-head [latent] attention, GQA, how DeepSeek rewrote Quantization, etc. https://youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms
+- how to plan your career given AI/AGI  https://x.com/robertwiblin/status/1934964915967570391 How not to lose your job to AI - The skills AI will make more valuable (and how to learn them) https://80000hours.org/agi/guide/skills-ai-makes-valuable/ IMHO, for complex engineering domains (eg Cheminformatics), non-layman humans will be needed to parse valid inputs + validate & steer AI outputs
+
 # 15/06/2025 twitter links
 - Rust at Work - conversation with Eli Shalom and Igal Tabachnik of Eureka Labs https://rustacean-station.org/episode/eli-shalom-and-igal-tabachnik/ @hmemcpy
 - A meta-analysis of three different notions of software complexity https://typesanitizer.com/blog/complexity-definitions.html
