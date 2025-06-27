@@ -1,3 +1,69 @@
+# 22/06/2025 Twitter Links
+- Optimizing VJEPA-2: Tackling Latency & Context in Real-Time Video Classification Scriptshttps://learnopencv.com/optimizing-vjepa-2-in-real-time-video-classification/
+- C++26’s compile-time reflection https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/ Reflection voted into C++26: "Whole new language" -- Herb Sutter https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/
+- Web Performance in 2025 https://itnext.io/you-didnt-know-about-web-performance-in-2025-e45d3595d9bf
+- The Best AI Coding Tools You Can Use Right Now https://spectrum.ieee.org/best-ai-coding-tools
+- Stream data from Amazon MSK to Apache Iceberg tables in Amazon S3 and Amazon S3 Tables using Amazon Data Firehose https://aws.amazon.com/blogs/big-data/stream-data-from-amazon-msk-to-apache-iceberg-tables-in-amazon-s3-and-amazon-s3-tables-using-amazon-data-firehose/
+- New OLTP: Postgres With Separate Compute and Storage https://thenewstack.io/new-oltp-postgres-with-separate-compute-and-storage/
+- AWS Lambda announces native support for Avro and Protobuf formatted Kafka events https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-native-support-avro-protobuf-kafka-events/
+- Is Datadog Becoming a Platform Engineering Company? https://thenewstack.io/is-datadog-becoming-a-platform-engineering-company/
+- Vite’s Creator on a Unified JavaScript Toolchain and Vite+ https://thenewstack.io/vites-creator-on-a-unified-javascript-toolchain-and-vite/
+- New body size database for marine animals is a “library of life” https://arstechnica.com/science/2025/06/new-body-size-database-for-marine-animals-is-a-library-of-life/ #Bioinformatics
+- Microsoft lays out its path to useful quantum computing https://arstechnica.com/science/2025/06/microsoft-lays-out-its-path-to-useful-quantum-computing/
+- YouTube is hiding an excellent, official high-speed Pac-Man mod in plain sight https://arstechnica.com/gaming/2025/06/one-of-the-best-pac-man-games-in-years-is-playable-on-youtube-of-all-places/
+- The Chiplet Economy: Three Pillars for Semiconductor Success https://eetimes.com/the-chiplet-economy-three-pillars-for-semiconductor-success/
+- TPU (Tensor Processing Unit) Deep Dive https://henryhmko.github.io/posts/tpu/tpu.html
+- Cross-Compilation Toolchains for Linux https://toolchains.bootlin.com
+- Type Inference Zoo https://zoo.cuichen.cc
+- Hyprland Premium https://account.hypr.land/pricing
+- Unexpected security footguns in Golang's parsers https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+- Augmented Vertex Block Descent - a fast physics-based simulation method that is unconditionally stable, highly parallelizable, and capable of converging to the implicit Euler solution. extended using an augmented Lagrangian formulation https://graphics.cs.utah.edu/research/projects/avbd/
+- Chromium Switching from Ninja to Siso https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg
+- Mathematicians hunting prime numbers discover infinite new pattern https://scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/
+- Learn you Galois fields for great good https://xorvoid.com/galois_fields_for_great_good_00.html
+- No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf] https://xol.io/random/vcc-paper.pdf
+- AbsenceBench: Language models can't tell what's missing https://arxiv.org/abs/2506.11440
+- Harper – an open-source alternative to Grammarly https://writewithharper.com
+- In the 1930s, Kurt Gödel demonstrated that the mathematical universe is fundamentally unknowable. But set theorists still want to describe it as closely as possible. https://quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/ Two new notions of infinity
+- Microsoft is blocking Google Chrome through its family safety feature https://theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature
+- Amazon says it will reduce its workforce as AI replaces human employees https://cnn.com/2025/06/17/business/amazon-ai-human-employees-jobs
+- Emergence of Diffusion Models from Associative Memory https://arxiv.org/abs/2505.21777
+- YouTube's new anti-adblock measures   https://iter.ca/post/yt-adblock/
+- Cracovians: The Twisted Twins of Matrices https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/
+- Meta announces Oakley smart glasses https://theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date
+- SnapQL – Desktop app to query Postgres with AI https://github.com/NickTikhonov/snap-ql
+- New theory proposes time has three dimensions, with space as a secondary effect https://phys.org/news/2025-06-theory-dimensions-space-secondary-effect.html
+- English Wikipedia is eradicating free thought. Today, it decided to delete the Destruction of Israel in Iranian policy page, merging it into Iran-Israel relations! :scream::no_entry_sign:  The platform's bias is screaming out loud. We can no longer ignore it! :rage::fire: https://x.com/WikiBias2024/status/1936729974548943118
+- Makefile Style Guide https://clarkgrubb.com/makefile-style-guide
+- 18-30 Months from the Start of Worldchanging Superintelligence https://nextbigfuture.com/2025/06/18-30-months-from-the-start-of-worldchanging-superintelligence.html
+- One Shot To Stop HIV: MIT's Bold Vaccine Breakthrough https://science.slashdot.org/story/25/06/21/0451227/one-shot-to-stop-hiv-mits-bold-vaccine-breakthrough?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Anthropic Deploys Multiple Claude Agents for 'Research' Tool - Says Coding is Less Parallelizable https://developers.slashdot.org/story/25/06/21/0442227/anthropic-deploys-multiple-claude-agents-for-research-tool---says-coding-is-less-parallelizable?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Intel Will Outsource Marketing To Accenture and AI, Laying Off Its Own Workers https://slashdot.org/story/25/06/21/0251208/intel-will-outsource-marketing-to-accenture-and-ai-laying-off-its-own-workers?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- AlphaWrite: Improving AI Narratives Through Evolution https://infoq.com/news/2025/06/alphawrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- New GitHub Copilot limits push AI users to pricier tiers https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/
+- EDB enhances analytics in PostgreSQL with open source add-ons https://go.theregister.com/feed/www.theregister.com/2025/06/20/edb_enhances_analytics_in_postgresql/
+- Designing Collaborative Multi-Agent Systems with the A2A Protocol https://oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/
+- /lmcache/ Do Large Language Models Need a Content Delivery Network? https://paperswithcode.com/paper/do-large-language-models-need-a-content
+- /hcplab-sysu/ Visual Causal Scene Refinement for Video Question Answering https://paperswithcode.com/paper/visual-causal-scene-refinement-for-video
+- VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use https://paperswithcode.com/paper/vtool-r1-vlms-learn-to-think-with-images-via
+- /deepseek-ai/ A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications https://paperswithcode.com/paper/a-comprehensive-survey-of-mixture-of-experts
+- /codelion/ Protoformer: Embedding Prototypes for Transformers https://paperswithcode.com/paper/protoformer-embedding-prototypes-for-1
+- Introduction to Sampling for MCP Workflows https://blog.dailydoseofds.com/p/introduction-to-sampling-for-mcp
+- 606× Faster Than GPUs? How WaferLLM https://pub.towardsai.net/606-faster-than-gpus-how-waferllm-could-power-ais-next-century-3aed97a6e67a
+- GauRast: Enhancing GPU Triangle Rasterizers to Accelerate 3D Gaussian Splatting https://research.nvidia.com/publication/2025-06_gaurast-enhancing-gpu-triangle-rasterizers-accelerate-3d-gaussian-splatting
+- LocalGPT 2.0: Turbo-Charging Private RAG https://youtube.com/watch?v=06-SqKINgKE
+- 10 techniques for boosting LLM reasoning in 2025 https://huggingface.co/posts/Kseniase/930317125764918
+    :black_small_square: Retrieval-Augmented CoT Chaining (RAG+CoT)
+    :black_small_square: Tool-use by example injection
+    :black_small_square: Visual scratchpads, or multimodal reasoning support
+    :black_small_square: System 1 vs System 2 prompt switching
+    :black_small_square: Adversarial self-chat fine-tuning
+    :black_small_square: Constraint-based decoding
+    :black_small_square: Exploration prompts (explore-then-pick)
+    :black_small_square: Prompt perturbation sampling for inference
+    :black_small_square: Prompt ordering via embedding clustering
+    :black_small_square: Controlled prompting variations
+
 
 # 20/06/2025 twitter links
 - Can we get pure Rust running on GPUs? Mapping Rust to SPIR-V https://youtu.be/BWWQoVHSByQ?si=RvH33i5TnX_tY6uV
