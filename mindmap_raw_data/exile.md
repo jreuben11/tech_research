@@ -1,4 +1,81 @@
 
+# 20/06/2025 twitter links
+- Can we get pure Rust running on GPUs? Mapping Rust to SPIR-V https://youtu.be/BWWQoVHSByQ?si=RvH33i5TnX_tY6uV
+- omarchy https://omarchy.org Opinionated Arch/Hyprland Setup By DHH
+- Abel–Ruffini theorem https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem -  almost all polynomials of degree five or higher cannot be solved in radicals. Galois theory  allows deciding, for any given equation, whether it is solvable in radicals.
+- Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction https://youtube.com/watch?v=iHDauMATkr0&ab_channel=ValenceLabs #Bioinformatics
+-  reduce LLM latency is by fusing all computation and communication into a single GPU megakernel. writing megakernels by hand is extremely hard.  Mirage Persistent Kernel (MPK), a compiler that automatically transforms LLMs into optimized megakernel, reducing latency by 1.2-6.7x. https://github.com/mirage-project/mirage/tree/mpk :memo:Blog: https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17
+- Kmemdump - A smarter way to Capture Crash Data on Embedded Linux Devices https://linaro.org/blog/introduction-to-kmemdump/
+- The Healthspan Proteomic Score https://fightaging.org/archives/2025/06/the-healthspan-proteomic-score/
+- Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/
+- CppCon 2024 Guide to Linear Algebra With the Eigen C++ Library https://isocpp.org//blog/2025/06/cppcon-2024-guide-to-linear-algebra-with-the-eigen-cpp-library-daniel-hanso
+- Qt’s New Bridging Technology to enable QML to support multiple programming language backends, including Rust https://qt.io/blog/about-the-new-qt-bridging-technology
+- First they started calling databases knowledge bases. Now they're calling pattern matching reasoning. And as a result, AI can now reason over knowledge bases.
+- PostgreSQL and Ducks: The Perfect Analytical Pairing https://motherduck.com/blog/postgres-duckdb-options/
+- PGConfdev 2025 https://m.youtube.com/playlist?list=PLTw6f6dqzO1tCLr_OHjZ37kY2r35u2tCq
+- Rust Eats Python’s, Java’s Lunch in Data Engineering https://thenewstack.io/rust-eats-pythons-javas-lunch-in-data-engineering/ Singular's new Extract platform is delivering 17x performance improvements and up to 70% cost reductions compared to established ELT tools
+- KServe v0.15 Key GenAI Features: https://cncf.io/blog/2025/06/18/announcing-kserve-v0-15-advancing-generative-ai-model-serving/
+  - Envoy AI Gateway Integration
+  - Multi Node Inference
+  - LLM Autoscaler with KEDA
+  - Distributed KV Cache with LMCache
+- Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/
+- PCIe 7.0 Keeps Pace with AI Demands https://eetimes.com/pcie-7-0-keeps-pace-with-ai-demands/
+- Extracting memorized pieces of books from open-weight language models https://arxiv.org/abs/2505.12546
+- Compiling LLMs into a MegaKernel: A path to low-latency inference https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17
+- EnrichMCP – A Python ORM for Agents https://github.com/featureform/enrichmcp
+- Google is using YouTube videos to train its AI video generator https://cnbc.com/2025/06/19/google-youtube-ai-training-veo-3.html
+- What Would a Kubernetes 2.0 Look Like https://matduggan.com/what-would-a-kubernetes-2-0-look-like/
+  - ditch YAML for HCL
+  - IPv6 by default
+  - allow etcd swapout
+  - native package manager beyond Helm
+  - IMHO: standardize some of the CRDs of Istio, Keda, Karpenter; deeper Prometheus integration ?
+- MCP spec updated ! https://modelcontextprotocol.io/specification/2025-06-18/changelog?s=09
+- A Visual Guide to Genome Editors https://asimov.press/p/a-visual-guide-to-genome-editors #Bioinformatics
+- VS Code extension to share code snippets instantly https://snippetshare.dev
+- The Zed Debugger Is Here https://zed.dev/blog/debugger
+- Unregistry – “docker push” directly to servers without a registry https://github.com/psviderski/unregistry
+- Reasoning by Superposition: A Perspective on Chain of Continuous Thought https://arxiv.org/html/2505.12514v1
+- Is there a half-life for the success rates of AI agents? https://tobyord.com/writing/half-life
+- Benchmark: snapDOM vs html2canvas https://zumerlab.github.io/snapdom/
+- Elon Reveals the Exact xAI Data Center Compute and Predicts Superintelligence https://nextbigfuture.com/2025/06/elon-reveals-the-exact-xai-data-center-compute-and-predicts-superintelligence.html
+- Limb regeneration mechanism in axolotls: retinoic acid is arranged through the axolotl body in a gradient, signaling to regenerative cells how far down the limb has been severed https://sciencealert.com/axolotl-discovery-brings-us-closer-than-ever-to-regrowing-human-limbs
+- Ilya Sutskever rejected Meta’s bid for his $32B startup, so Zuckerberg is hiring his CEO instead https://calcalistech.com/ctechnews/article/81c8xgbrl
+- /oliverleexz/ OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems https://paperswithcode.com/paper/opt-bench-evaluating-llm-agent-on-large-scale
+- Deploy any ML model, RAG or Agent as an MCP server https://blog.dailydoseofds.com/p/deploy-any-ml-model-rag-or-agent
+- Copilot Spaces now support issues and pull requests [Public Preview] https://github.blog/changelog/2025-06-19-copilot-spaces-now-support-issues-and-pull-requests-public-preview
+- Godfather Android Trojan Creates Sandbox on Infected Devices https://securityweek.com/godfather-android-trojan-creates-sandbox-on-infected-devices/
+- Brian Greene: Is computation the fundamental framework of reality? I'm open to the idea but not yet sold...Stephen Wolfram will make the case in our conversation. https://youtube.com/watch?v=yAJTctpzp5w
+- Approximating LLM Training Data from Weights https://x.com/jxmnop/status/1936044666371146076 http://arxiv.org/abs/2506.15553
+- The Geometric Deep Learning textbook https://geometricdeeplearning.com/book/ - lecture 1 slides https://geometricdeeplearning.com/slides/Oxford_1_2_Introduction.pdf - good resource !
+- This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches. https://github.com/NirDiamant/agents-towards-production
+- fourier transform https://x.com/eylemboss0306/status/1936186227671142539
+- Upgraded from Llama 3 to Qwen3 as my go-to model for research experiments, so I implemented qwen3 from scratch: https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/11_qwen3 Trade-off: Qwen3 0.6B is deeper (28x vs 16x layers) & slower than the wider Llama 3 1B but more memory efficient due to fewer params
+- Singularity: World in 2030 https://x.com/Dr_Singularity/status/1936115537609658863
+- Graph-Code https://github.com/vitali87/code-graph-rag graph-driven RAG over code solution that actually works (open-source). Naive chunking used in RAG isn't suited for code, because codebases have long-range dependencies, cross-file references, etc., that independent text chunks just can't capture. analyzes a Python codebase and builds knowledge graphs to enable natural language querying.Key features:
+  - Deep code parsing to extract classes, functions, and relationships.
+  - Uses Memgraph to store the codebase as a graph.
+  - Parses pyproject to understand external dependencies.
+  - Retrieves actual source code snippets for found functions.
+- Claude 4.0 System Prompt Strategies (Cheat Sheet) https://x.com/IntuitMachine/status/1936418825240444970
+1. Boundary Signaling
+2. Error Ritual
+3. Context Reassertion
+4. Intent Echoing
+5. Expectation Management
+6. Human-Intervention Logic
+7. Tool-Risk Awareness
+8. Planning–Reflection Sandwich
+9. Answer-Only Output Constraint
+10. Semantic Hygiene (multi-layer)
+11. Adaptive Framing
+12. Reflective Summary
+13. Action Budget
+14. Ghost-Context Removal
+15. Trusted Reuse
+
+
 # 18/06/2025 twitter links
 - Example of Computing the Expectation and Variance of an Exponential Distribution https://youtube.com/watch?v=Fz9_yqdEt-I
 - Amazon ECR enhanced scanning now surfaces image use status https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/
