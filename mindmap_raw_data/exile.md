@@ -1,3 +1,133 @@
+# 24-25/06/2025 twitter links
+- Physical Activity Correlates with Reduced Epigenetic Age Acceleration https://fightaging.org/archives/2025/06/physical-activity-correlates-with-reduced-epigenetic-age-acceleration/
+- Porting Vulkan GPU shaders to Rust GPU 30x faster with AI https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/
+- GNOME Attacks Lunduke & XLibre Dev, in Anti-Jewish, Libelous, Defamatory Way https://lunduke.substack.com/p/gnome-attacks-lunduke-and-xlibre
+- New With Confluent Platform 8.0: Stream Securely, Monitor Easily, and Scale Endlessly https://confluent.io/blog/introducing-confluent-platform-8-0/
+- Distributed Rate Limiting in Java: A Deep Dive into Bucket4j + PostgreSQL https://dzone.com/articles/distributed-rate-limiting-java-bucket4j-postgresql
+- Learn Embedded Systems Firmware Basics – A Handbook for Developers https://freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/
+- WebDev: How to Implement a Service Worker with WorkBox in a Progressive Web App https://freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/
+- Building an SQL to DataFrame Converter With ANTLR https://dzone.com/articles/building-sql-to-dataframe-converter-with-antlr
+- New AI Jailbreak Bypasses Guardrails With Ease https://securityweek.com/new-echo-chamber-jailbreak-bypasses-ai-guardrails-with-ease/
+- Debugging memory leaks in Postgres, jemalloc edition http://notes.eatonphil.com/2025-06-21-debugging-memory-leaks-postgres-jemalloc-edition.html
+- Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/
+- New: Improve Apache Iceberg query performance in Amazon S3 Tables with sort and z-order compaction https://aws.amazon.com/blogs/aws/new-improve-apache-iceberg-query-performance-in-amazon-s3-with-sort-and-z-order-compaction/
+- Capture data lineage from dbt, Apache Airflow, and Apache Spark with Amazon SageMaker https://aws.amazon.com/blogs/big-data/capture-data-lineage-from-dbt-apache-airflow-and-apache-spark-with-amazon-sagemaker/
+- An Open Source Stack for AI Compute: Kubernetes + Ray + PyTorch + vLLM https://cncf.io/blog/2025/06/24/an-open-source-stack-for-ai-compute-kubernetes-ray-pytorch-vllm/
+- Google Donates the Agent2Agent Protocol to the Linux Foundation https://thenewstack.io/google-donates-the-agent2agent-protocol-to-the-linux-foundation/
+- Kaniko Lives On: Chainguard Forks Google’s Dumped Tool https://thenewstack.io/kaniko-lives-on-chainguard-forks-googles-dumped-tool/ building Docker images inside Kubernetes clusters without privileged containers
+- How Skroutz handles real-time schema evolution in Amazon Redshift with Debezium https://aws.amazon.com/blogs/big-data/how-skroutz-handles-real-time-schema-evolution-in-amazon-redshift-with-debezium/
+- Amazon Neptune Analytics now Integrates with GraphStorm for Scalable Graph Machine Learning https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-neptune-analytics-integrates-graphstorm/
+- AWS Lambda native support for Avro and Protobuf formatted Apache Kafka events https://aws.amazon.com/blogs/compute/introducing-aws-lambda-native-support-for-avro-and-protobuf-formatted-apache-kafka-events/
+- The résumé is dying, and AI is holding the smoking gun https://arstechnica.com/ai/2025/06/the-resume-is-dying-and-ai-is-holding-the-smoking-gun/
+- Google rolls out Street View time travel to celebrate 20 years of Google Earth https://arstechnica.com/gadgets/2025/06/google-rolls-out-street-view-time-travel-to-celebrate-20-years-of-google-earth/
+- Researchers get viable mice by editing DNA from two sperm https://arstechnica.com/science/2025/06/researchers-get-viable-mice-by-editing-dna-from-two-sperm/
+- Fintech unicorn Melio on verge of being acquired in $1.5-2 billion deal https://calcalistech.com/ctechnews/article/286fevl9c
+- VSCan - Detect Malicious VSCode Extensions https://vscan.dev
+- Subsecond: A runtime hotpatching engine for Rust hot-reloading https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html
+- Analyzing a Critique of the AI 2027 Timeline Forecasts https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027
+- Fun with uv and PEP 723 inline script metadata https://cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723
+- XBOW, an autonomous penetration tester, has reached the top spot on HackerOne https://xbow.com/blog/top-1-how-xbow-did-it/
+- 4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation https://snap-research.github.io/4Real-Video-V2/
+- Breaking WebAuthn, FIDO2, and Forging Passkeys https://nullpt.rs/forging-passkeys
+- The bitter lesson is coming for tokenization https://lucalp.dev/bitter-lesson-tokenization-and-blt/
+- Timdle – Place historical events in chronological order https://timdle.com
+- Breakthrough cancer test predicts whether chemotherapy will work https://telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/
+- Marijuana is associated with higher risk of heart attack and stroke https://nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html
+- Interesting Bits of Postgres Grammar https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/
+- Real-world performance comparison of ebtree/cebtree/rbtree http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html
+- “Gender Attractiveness Gap” (GAP) https://biorxiv.org/content/10.1101/2025.05.21.655261v1 female faces rated significantly more attractive than male faces across rater genders, cultural backgrounds, and portrayed ethnicities.
+- MiniMax Releases M1: A 456B Hybrid-Attention Model for Long-Context Reasoning and Software Tasks https://infoq.com/news/2025/06/minimax-m1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Cancer-Killing Immune Cells Can Now Be Engineered in the Body—With a Vaccine-Like Shot of mRNA https://singularityhub.com/2025/06/24/cancer-killing-immune-cells-can-now-be-engineered-in-the-body-with-a-vaccine-like-shot-of-mrna/
+- China on Cusp of Seeing Over 100 DeepSeeks, Ex-Top Official Says https://slashdot.org/story/25/06/24/1536213/china-on-cusp-of-seeing-over-100-deepseeks-ex-top-official-says?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- PhD Graduates Far Exceed Academic Job Openings https://science.slashdot.org/story/25/06/23/2015258/phd-graduates-far-exceed-academic-job-openings?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Advanced Python Function Debugging with MCP Integration https://github.com/kordless/gnosis-mystic
+- Tron’s MCP: A Dark Prophecy Coming True https://youtu.be/2RW64Wpo1pA?si=oodXP0uLXjlORuEZ via @YouTube LoL, what a coincedental acronym !
+- Multispecies Metagenomic Calibration https://lesswrong.com/posts/5aoi2AgtzpfLJBiSq/multispecies-metagenomic-calibration #Bioinformatics
+- Gradient Descent on Token Input Embeddings: A ModernBERT experiment https://lesswrong.com/posts/GK2LSzxjEejzDjzDs/gradient-descent-on-token-input-embeddings-a-modernbert
+- Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/  SageMaker has such a large API surface now - need to revise this
+- Neo4j Certification: What’s the Value? https://neo4j.com/blog/developer/neo4j-certification-whats-the-value/
+- Amazon Bedrock Agents observability using Arize AI https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agents-observability-using-arize-ai/
+- Package AI/ML Projects with KitOps MCP Server https://blog.dailydoseofds.com/p/package-aiml-projects-with-kitops
+- vLLM vs. TensorRT-LLM: Which Inference Library is Best for Your LLM Needs? https://inferless.com/learn/vllm-vs-tensorrt-llm-which-inference-library-is-best-for-your-llm-needs GenAI Inference Engines: TensorRT-LLM vs vLLM vs Hugging Face TGI vs LMDeploy https://nlpcloud.com/genai-inference-engines-tensorrt-llm-vs-vllm-vs-hugging-face-tgi-vs-lmdeploy.html
+- Warp: The CLI Agent That Could Replace Claude Code https://youtube.com/watch?v=-9OvP5jc4kU
+- Improving graph neural networks through feature importance learning https://link.springer.com/article/10.1007/s10994-025-06815-z
+- Comprehensive Comparison of Algorithmic Trading Platforms https://jonathankinlay.com/2025/06/comprehensive-comparison-of-algorithmic-trading-platforms/ good resource !
+- LangChain Agents in 2025 | Full Tutorial for v0.3 https://youtu.be/Gi7nqB37WEY?si=k7ODPmrQQefjoApj via @YouTube
+- AI Agents are Neuro-Symbolic Systems https://www.aurelio.ai/learn/ai-agents
+- HuggingFace Transformers backend integration in SGLang https://huggingface.co/blog/transformers-backend-sglang
+- China unveils first parallel optical computing chip, ‘Meteor-1’ The breakthrough is that Meteor-1 shifts compute from electrons to light, hitting 2,560 TOPS at 50 GHz by running 100 tasks in parallel on one chip. on par with Nvidia’s flagship GPUs and nearing the upcoming RTX 5090’s 3,352 TOPS It sidesteps heat, power and quantum limits of silicon GPUs. Its integrated multi-wavelength comb replaces hundreds of lasers, slashing size and cost.  That makes it the first real-world optical accelerator matching top GPUs while dodging export bans and opening a new path for scaling AI compute. The light source uses a micro-cavity frequency comb over an 80nm spectrum, spanning 200 wavelengths. This chip-scale multi-wavelength source cuts hundreds of lasers into one unit, trimming size, cost and power. The optical computing chip provides over 40nm transmission bandwidth for low-latency parallel processing. Its custom driver board supports more than 256 channels for precise optical signal modulation. Meteor-1 not only sidesteps electronic bottlenecks like heat dissipation and quantum effects but also promises a cost-performance profile competitive with leading electronic chips, laying the groundwork for next-generation AI, 6G, and quantum-computing applications https://www.scmp.com/news/china/science/article/3315496/light-us-sanctions-china-unveils-first-parallel-optical-computing-chip-meteor-1
+- Top 5 Caching Strategies  https://algomaster.io/learn/system-design/caching-strategies
+  1. 𝐑𝐞𝐚𝐝 𝐓𝐡𝐫𝐨𝐮𝐠𝐡: The application first checks the cache. On a cache miss, the cache itself fetches data from the database, stores it, and returns it to the application.:point_right: Best for: Read-heavy applications like CDNs and social media feeds.
+  2. 𝐖𝐫𝐢𝐭𝐞 𝐓𝐡𝐫𝐨𝐮𝐠𝐡: Every write operation updates both the cache and the database simultaneously. Ensures that the cache always reflects the latest data.:point_right: Best for: Systems requiring strong consistency, such as financial applications.
+  3. 𝐂𝐚𝐜𝐡𝐞 𝐀𝐬𝐢𝐝𝐞 (𝐋𝐚𝐳𝐲 𝐋𝐨𝐚𝐝𝐢𝐧𝐠): The application checks the cache first. On a miss, it fetches from the database and populates the cache manually.:point_right: Best for: Read-heavy workloads where slight data staleness is acceptable.
+  4. 𝐖𝐫𝐢𝐭𝐞 𝐀𝐫𝐨𝐮𝐧𝐝: Writes are sent directly to the database, skipping the cache. The cache is updated only when the data is read.:point_right: Best for: Write-heavy systems where immediate reads are rare, such as logging or analytics platforms.
+  5. 𝐖𝐫𝐢𝐭𝐞 𝐁𝐚𝐜𝐤: Data is written to the cache first, and later asynchronously persisted to the database. Great for reducing write latency.:point_right: Best for: Write-heavy applications that require high performance.
+- Socialism is like polio, it comes back when people forget about the horrible damage it did last time.
+- NVIDIA Run:ai and Amazon SageMaker HyperPod: Working Together to Manage Complex AI Training https://developer.nvidia.com/blog/nvidia-runai-and-amazon-sagemaker-hyperpod-working-together-to-manage-complex-ai-training/
+- Introducing NVFP4 for Efficient and Accurate Low-Precision Inference https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/
+- Void Editor Is Shaping Up Well: Is it Ready to Take on Cursor and Copilot? https://news.itsfoss.com/void-editor/
+- IBM recently announced that it was donating its CBOM toolset to the Post-Quantum Cryptography Alliance (PQCA) under the Linux Foundation https://linuxsecurity.com/features/features/ibm-donates-cbom-toolset-to-linux-foundation
+- Nx Cloud Polygraph: Managing Repos Across Your Entire Organization https://youtube.com/watch?v=BA_nkErlQoE
+- Every Token Counts: Building Efficient AI Agents with GraphQL and Apollo MCP Server https://apollographql.com/blog/building-efficient-ai-agents-with-graphql-and-apollo-mcp-server
+- W3C invites implementations of MathML Core https://w3.org/news/2025/w3c-invites-implementations-of-mathml-core/
+- Three.js Project: Geometric Shapes with TSL https://youtu.be/9GTvWZMIeCc?si=JeUO9HqQk6TY8vT7 via @YouTube
+- GitHub Copilot coding agent is now available for Copilot Business users https://github.blog/changelog/2025-06-24-github-copilot-coding-agent-is-now-available-for-copilot-business-users
+- Laser Focused Kubernetes Deployments Using Argo Rollouts and Header Based Routing https://codefresh.io/blog/argo-rollouts-header-based-routing/
+- Laser weapons move to forefront of Israel’s air defense after Iran missile war https://calcalistech.com/ctechnews/article/h1rlbmkvle
+- Researchers Discover How Caffeine Could Slow Cellular Aging https://science.slashdot.org/story/25/06/25/0112252/researchers-discover-how-caffeine-could-slow-cellular-aging?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Gemini CLI: your open-source AI agent https://blog.google/technology/developers/introducing-gemini-cli/
+
+# 23/06/2025 twitter links
+- Setting up GKE Autopilot with Terraform and ArgoCD https://itnext.io/setting-up-gke-autopilot-with-terraform-and-argocd-12b3e7dd840b?source=rss----5b301f10ddcd---4
+- Dev jobs are about to get a hard reset and nobody's ready https://old.reddit.com/r/ClaudeAI/comments/1lhgdbd/dev_jobs_are_about_to_get_a_hard_reset_and/
+- TESLA Singularity 2026 https://nextbigfuture.com/2025/06/tesla-singularity-2026.html
+- Claude Code Gains Support for Remote MCP Servers Over Streamable HTTP https://infoq.com/news/2025/06/anthropic-claude-remote-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- How to write Rust in the kernel: part 1 https://lwn.net/Articles/1024202/
+- Vulkan 1.4.319 Published With New Data Graph Extension https://phoronix.com/news/Vulkan-1.4.319-Released
+- MongoDB Launches an Open Source Real-Time Secret Scanner https://news.itsfoss.com/mongodb-launches-kingfisher/
+- Azure DevOps MCP Server, Public Preview https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/ - where is AWS ?
+- Expert Generalists: first three characteristics https://martinfowler.com/articles/expert-generalist.html
+- Color Everything in CSS https://css-tricks.com/color-everything-in-css/
+- :dart: 3D-Mesh-Lib - Your Ultimate 3D Mesh Co-Pilot https://reddit.com/r/threejs/comments/1lh35lm/3dmeshlib_this_library_will_let_you_build_your/
+- Transition away from third-party cookies with the Storage Access API https://youtube.com/shorts/OINEiRDIPME and with FedCM https://youtube.com/shorts/pDVEE25kg4I
+- CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/
+- Thanks to JSON module scripts and import attributes, you can now directly import JSON in JavaScript modules. Both features are now Baseline Newly Available https://web.dev/blog/json-imports-baseline-newly-available?hl=en
+- 4 tooling updates from Google I/O 2025 https://youtube.com/shorts/NcFv8g_iCpA
+- Working with MCP servers in GitHub Copilot Agent mode https://youtube.com/watch?v=ZlrQJQV14xQ
+- Never Update Tailwind Glob Patterns Manually Again https://youtube.com/watch?v=huTmV-F8c0A
+- How to Keep Up With New CSS Features https://css-tricks.com/how-to-keep-up-with-new-css-features/ - good resource !
+- Redis to Manage Storage Replication https://redis.io/blog/redis-manage-storage-replication/
+- Why Docker Chose OCI Artifacts for AI Model Packaging https://docker.com/blog/oci-artifacts-for-ai-model-packaging/
+- GitHub Copilot Spaces: Bring the right context to every suggestion https://github.blog/ai-and-ml/github-copilot/github-copilot-spaces-bring-the-right-context-to-every-suggestion/
+- Github Copilot: Upcoming deprecation of o1, GPT-4.5, o3-mini, and GPT-4o https://github.blog/changelog/2025-06-20-upcoming-deprecation-of-o1-gpt-4-5-o3-mini-and-gpt-4o
+- Installing Cilium on EKS in ENI Mode https://cilium.io/blog/2025/06/19/eks-eni-install
+- Terraform AWS provider 6.0 now generally available https://hashicorp.com/blog/terraform-aws-provider-6-0-now-generally-available
+- 10 out of 12 people cured in Type 1 Diabetes Study https://nejm.org/doi/full/10.1056/NEJMoa2506549 Stem Cell–Derived, Fully Differentiated Islets for Type 1 Diabetes
+- :loudspeaker:  MAJOR ANTI-AGING/LONGEVITY DISCOVERY Published in nature. A lost exercise hormone, CLCF1, puts old muscles and bones back in business. Replace missing CLCF1 and the elderly mouse sprints like it is young. https://medicalxpress.com/news/2025-06-protein-revives-aging-muscles-bones.html
+- :fire: YC outlines how top AI startups prompt LLMs: prompts exceeding six pages, XML tags, meta-prompts and evaluations as their core IP. They found meta-prompting and role assignment drive consistent, agent-like behavior.:gear: Key Learning https://docs.google.com/document/d/11tBoylc5Pvy8wDp9_i2UaAfDi8x02iMNg9mhCNv65cU/edit?tab=t.0#heading=h.j5fed5h6rp7o
+    → Top AI startups use "manager-style" hyper-specific prompts—6+ pages detailing task, role, and constraints. These aren't quick hacks; they’re structured like onboarding docs for new hires.
+    → Role prompting anchors the LLM’s tone and behavior. Clear persona = better alignment with task. Example: telling the LLM it's a customer support manager calibrates its output expectations.
+    → Defining a task and laying out a plan helps break complex workflows into predictable steps. LLMs handle reasoning better when guided through each sub-task explicitly.
+    → Structuring output using markdown or XML-style tags improves consistency. Parahelp, for instance, uses tags like <manager_verify> to enforce response format.
+    → Meta-prompting means using LLMs to refine your own prompts. Feed it your prompt, outputs, and ask it to debug or improve—LLMs self-optimize well if given context.
+    → Few-shot prompting with real examples boosts accuracy. Startups like Jazzberry feed challenging bug examples to shape LLM behavior.
+    → Prompt folding lets one prompt trigger generation of deeper, more specific prompts. Helps manage workflows in multi-step AI agents.
+    → Escape hatches instruct LLMs to admit uncertainty. Prevents hallucination and improves trust.
+    → Thinking traces (model reasoning logs) and debug info expose the model’s internal logic. Essential for troubleshooting and iteration.
+    → Evals (prompt test cases) are more valuable than prompts themselves. They help benchmark prompt reliability across edge cases.
+    → Use big models for prompt crafting, then distill for production on smaller, cheaper models. Matches quality with efficiency.
+- Reinforcement-Learned Teachers (RLTs): Transforming how we teach LLMs to reason with reinforcement learning (RL)  https://sakana.ai/rlt Paper: https://arxiv.org/abs/2506.08388 Traditional RL focuses on “learning to solve” challenging problems with expensive LLMs and constitutes a key step in making student AI systems ultimately acquire reasoning capabilities via distillation and cold-starting. Enter our RLTs—a new class of models prompted with not only a problem’s question but also its solution, and directly trained to generate clear, step-by-step “explanations” to teach their students. Remarkably, an RLT with only 7B parameters produces superior results when distilling and cold-starting students in competitive and graduate-level reasoning tasks than orders-of-magnitude larger LLMs. RLTs are as effective even when distilling 32B students, much larger than the teacher itself—unlocking a new standard for efficiency in developing reasoning language models with RL. Code: https://github.com/SakanaAI/RLT
+- The world population is about 8.2 billion right now.  Only around 10 million of us are scientists—actually pushing the frontier forward. By ~2030, we’ll have billions of AI scientists (AGI/ASI), each capable of doing research thousands of times faster than even the most productive human. Let me say it one more time: 2030s won’t be a 'normal' decade. Every random week during the 2030s can bring more progress than the entire 20th century. https://x.com/Dr_Singularity/status/1936734503940096374
+- Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI https://arxiv.org/abs/2506.14364
+- Python can run Mojo now https://koaning.io/posts/giving-mojo-a-spin/
+- Polystate: Composable Finite State Machines https://github.com/sdzx-1/polystate
+- Towards AI Search Paradigm: Very detailed report on building scalable multi-agent AI search systems. Multi-agent, DAG, MCPs, RL, and much more. https://x.com/omarsar0/status/1937161765604692400
+    - Multi-agent, Modular architecture: Master analyzes queries and orchestrates the workflow. Planner builds a DAG of sub-tasks using a dynamic capability boundary informed by the query, Executor runs these sub-tasks using appropriate tools (e.g., web search, calculator), Writer composes the final answer from intermediate outputs
+    - Dynamic Capability Boundary & MCP Abstraction: To handle tool selection efficiently, the system introduces MCP servers and dynamically selects a small, semantically relevant subset of tools. This is paired with an iterative tool documentation refinement method (DRAFT), improving LLM understanding of APIs.
+    - DAG-based Task Planning and Re-action: The Planner produces DAGs of sub-tasks using structured reasoning and tool bindings, enabling multi-step execution. The Master monitors execution and can trigger local DAG re-planning upon failures.
+    - Executor Agent: The Executor aligns search results with LLM preferences (not just relevance) using RankGPT and TourRank strategies.  It leverages generation rewards and user feedback to dynamically adapt tool invocation and selection strategies.
+    - Robust Generation:  The Writer component is trained to resist noisy retrievals via adversarial tuning and uses PA-RAG. This ensures informativeness, robustness, and citation quality. The model also supports joint multi-agent optimization using PPO to harmonize agent goals with overall answer quality.
+
 # 22/06/2025 Twitter Links
 - Optimizing VJEPA-2: Tackling Latency & Context in Real-Time Video Classification Scriptshttps://learnopencv.com/optimizing-vjepa-2-in-real-time-video-classification/
 - C++26’s compile-time reflection https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/ Reflection voted into C++26: "Whole new language" -- Herb Sutter https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/
