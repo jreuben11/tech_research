@@ -1,3 +1,56 @@
+# 26/06/2025 twitter links 
+- The rise and Fall of Lisp https://youtu.be/sV7C6Ezl35A?si=biHqEg_WnV2RwLLr via @YouTube - good resource !
+- AWS Bedrock Flows https://aws.amazon.com/bedrock/flows/ link foundation models (FMs),  Prompts,  Agents, Knowledge Bases, Guardrails and other AWS services together to build and scale pre-defined generative AI workflows.
+- After ‘Vibe Coding’ Comes ‘Vibe Testing’ (Almost) https://thenewstack.io/after-vibe-coding-comes-vibe-testing-almost/
+- @grok https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790 claims the Pattern Overflow Problem makes AGI impossible because intelligence requires pattern rejection based on evolutionary grounding that cannot be simulated or bootstrapped. Critique this argument and explain why AGI is indeed possible ! https://x.com/i/grok/share/AQVNSSTxE34uWkrZ2yIFGeOMg
+- CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey https://karimsayedre.github.io/RTIOW.html
+- Ubuntu disables Intel GPU security mitigations, promises 20% performance boost https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/ mitigations built into the kernel are likely to protect against most if not all Spectre attack scenarios, which additionally have never actively been used in the wild.
+- Primitive Kolmogorov complexity is computable https://lewish.io/posts/primitive-kolmogorov-complexity-is-computable a heuristic form of Solomonoff induction ?
+- Coccinelle for Rust progress report https://collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/ automatic program matching and transformation
+- Cosmoe: New C++ toolkit for building native Wayland apps https://go.theregister.com/feed/www.theregister.com/2025/06/25/cosmoe_new_cpp_toolkit/
+- Majority of US K-12 Teachers Now Using AI for Lesson Planning, Grading https://news.slashdot.org/story/25/06/25/1648236/majority-of-us-k-12-teachers-now-using-ai-for-lesson-planning-grading?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- LM Studio is now an MCP Host https://lmstudio.ai/blog/lmstudio-v0.3.17
+- 'The Computer-Science College Degree Bubble Is Bursting' https://developers.slashdot.org/story/25/06/25/1730250/the-computer-science-bubble-is-bursting?utm_source=feedly1.0mainlinkanon&utm_medium=feed Young people are responding to a grim job outlook for entry-level coders
+- Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/
+- Hyperscalers to eat 61% of global datacenter capacity by decade's end https://go.theregister.com/feed/www.theregister.com/2025/06/25/hyperscaler_datacenter_capacity/
+- Web Embeddable Common Lisp https://turtleware.eu/static/paste/wecl-test-gl/main.html
+- Introducing Qodo Gen CLI! Build custom AI agents that review code, generate tests, automate release notes, and more. Automating high-impact dev workflows - Here is the complete guide: https://x.com/omarsar0/status/1937889072489640033
+- draft book "The Elements of Differentiable Programming". Lots of typo fixes, clarity improvements, new figures and a new section on Transformers! https://arxiv.org/abs/2403.14606
+- deepmind just released AlphaGenome. an AI model that reads 1 million bases of DNA and predicts how any mutation changes molecular function - not just in single genes but across the entire regulatory genome. https://x.com/DrDominicNg/status/1937936729555750927 DNA is code, and you are software github.com/google-deepmind/alphagenome #Bioinformatics
+- thought-provoking new paper on representation learning and the notion of 'semantic compression' by @ChenShani2 @jurafsky @ylecun @ziv_ravid Clearly, language models (and deep nets) are not *just* learning in-out mappings (input x -> output y); They learn representations or abstractions of data.  https://arxiv.org/abs/2505.17117 AlphaGenome: AI for better understanding the genome https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/ #Bioinformatics
+- Deepmind has been secretly working to solve Navier-Stokes for 3 years now ? english.elpais.com/science-tech/2025-06-24/spanish-mathematician-javier-gomez-serrano-and-google-deepmind-team-up-to-solve-the-navier-stokes-million-dollar-problem.html
+- LinkedIn Announces Northguard and Xinfra: Scaling Beyond Kafka for Log Storage and Pub/Sub https://infoq.com/news/2025/06/linkedin-northguard-xinfra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Anthropic: All the major AI models will blackmail us if pushed hard enough https://go.theregister.com/feed/www.theregister.com/2025/06/25/anthropic_ai_blackmail_study/
+- the Neo4j Data Modeling MCP Server https://neo4j.com/blog/developer/neo4j-data-modeling-mcp-server/
+- John von Neumann and the Original Vision of the Technological Singularity https://singularityweblog.com/john-von-neumann/
+- IntelliJ Spring Debugger https://blog.jetbrains.com/idea/2025/06/demystifying-spring-boot-with-spring-debugger/
+- Powering the Next Frontier of Networking for AI Platforms with NVIDIA DOCA 3.0 https://developer.nvidia.com/blog/powering-the-next-frontier-of-networking-for-ai-platforms-with-nvidia-doca-3-0/
+- How to Streamline Complex LLM Workflows Using NVIDIA NeMo-Skills https://developer.nvidia.com/blog/how-to-streamline-complex-llm-workflows-using-nvidia-nemo-skills/
+- NVIDIA Engineer Now Co-Maintainer Of "NOVA" Open-Source Rust GPU Driver https://phoronix.com/news/NOVA-Core-Co-Maintainer
+- AVX-512's Enormous Advantage For AMD EPYC 4005 Series Performance https://phoronix.com/review/amd-epyc-4005-avx512
+- Intel Preps Linux PTC "Throttling Control Interface" To Run Hotter For Better Performance https://phoronix.com/news/Intel-PTC-Throttling-Control
+- Vercel Microfrontends is now in Limited Beta https://vercel.com/changelog/vercel-microfrontends-is-now-in-limited-beta
+- Recharts https://recharts.org/en-US/examples A composable D3 charting library built on React components
+- SST Typescript abstraction over Pulumi https://sst.dev/docs/#FAQ
+  - Higher-level app framework components
+  - links infra-as-code with code
+  - unified local dev env CI/CD
+- React components for 2D, 3D, VR and AR force directed graphs https://vasturiano.github.io/react-force-graph/example/large-graph/
+- Anthropic Claude Sonnet 4 and Claude Opus 4 are now generally available in GitHub Copilot https://github.blog/changelog/2025-06-25-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-generally-available-in-github-copilot
+- From pair to peer programmer: Github Copilot vision for agentic workflows  https://github.blog/news-insights/product-news/from-pair-to-peer-programmer-our-vision-for-agentic-workflows-in-github-copilot/
+- Simplifying Network Management with Cilium’s BGP Auto-Discovery https://medium.com/@nachyu4/simplifying-network-management-with-ciliums-bgp-auto-discovery-c89e55096078
+- Normalize your data with the OCSF Common Data Model in Datadog Cloud SIEM https://datadoghq.com/blog/ocsf-common-data-model/
+- AI Evasion: The Next Frontier of Malware Techniques https://blog.checkpoint.com/artificial-intelligence/ai-evasion-the-next-frontier-of-malware-techniques/
+- VideoGameBench: Can Vision-Language Models Complete Popular Video Games? https://opencv.org/blog/videogamebench/
+- Ticket-Driven Development: The Fastest Way to Go Nowhere https://thecynical.dev/posts/ticket-driven-development/
+- Blender 5.0 Introducing HDR (High Dynamic Range) Display Support On Linux With Vulkan + Wayland https://phoronix.com/news/Blender-5.0-HDR-Linux-Wayland
+- Apptainer: Application Containers for Linux https://apptainer.org
+- How to Monitor and Optimize Node.js Performance https://dzone.com/articles/how-to-monitor-and-optimize-nodejs-performance
+- Cloudflare Expands AI Capabilities with Launch of Thirteen New MCP Servers https://infoq.com/news/2025/06/cloudflare-ai-new-mcp-servers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Nice reference sheet to AI models for proteins:  https://tamarind.bio/blog/a-comprehensive-introduction-to-ai-for-proteins #Bioinformatics
+- ProxelGen: Generating Proteins as 3D Densities :scroll:Paper: https://arxiv.org/abs/2506.19820 #Bioinformatics
+
+
 # 24-25/06/2025 twitter links
 - Physical Activity Correlates with Reduced Epigenetic Age Acceleration https://fightaging.org/archives/2025/06/physical-activity-correlates-with-reduced-epigenetic-age-acceleration/
 - Porting Vulkan GPU shaders to Rust GPU 30x faster with AI https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/
