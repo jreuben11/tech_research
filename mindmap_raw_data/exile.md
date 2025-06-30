@@ -1,3 +1,54 @@
+# 27/06/2025 Twitter Links
+- The Growing Importance of Platform Teams in the Age of AI https://thenewstack.io/the-growing-importance-of-platform-teams-in-the-age-of-ai/
+- Biomolecular shifts occur in our 40s and 60s https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html
+- Cyber unicorn Cyera acquires Otterize for tens of millions to tackle cloud identity sprawl https://calcalistech.com/ctechnews/article/hyfidhqngl
+- The time is right for a DOM templating API https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/
+- HTML-in-Canvas https://github.com/WICG/html-in-canvas
+- Microsoft is moving antivirus providers out of the Windows kernel https://osnews.com/story/142647/microsoft-is-moving-antivirus-providers-out-of-the-windows-kernel/
+- cICP in PNG, explained https://svgees.us/blog/cICP.html Coding Independent Code Points for color space identification - allows labelling of what color space is used for a given image
+- Microsoft Introduces Mu: A Lightweight On-Device Language Model for Windows Settings https://infoq.com/news/2025/06/microsoft-mu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- RSS Server Side Reader https://matklad.github.io/2025/06/26/rssssr.html
+- Salesforce CEO Says 30% of Internal Work Is Being Handled by AI https://slashdot.org/story/25/06/26/1316242/salesforce-ceo-says-30-of-internal-work-is-being-handled-by-ai?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Researchers use evolutionary algorithms to enhance AI coding skills https://spectrum.ieee.org/evolutionary-ai-coding-agents
+- Help the AI 2027 team make an online AGI wargame https://lesswrong.com/posts/TjT3RdAfmrLqgb68K/help-the-ai-2027-team-make-an-online-agi-wargame
+- Top 7 Rerankers for RAG https://analyticsvidhya.com/blog/2025/06/top-rerankers-for-rag/
+- Breaking Creative Barriers with Blender-MCP https://pub.towardsai.net/breaking-creative-barriers-with-blender-mcp-cd13f6ac9523?source=rss----98111c9905da---4
+- How AlphaFold and related models predict protein-peptide complex structures :scroll:Paper: https://biorxiv.org/content/10.1101/2025.06.18.660495v1
+１．This study benchmarks AF2, AF2-Multimer, AF3, Boltz-1, and Chai-1 on 631 experimentally resolved protein-peptide complexes to understand how these models predict interactions. AF3 performs best overall, but all models show clear biases toward known training data.
+２．A major insight: even when peptide sequences are masked, models can often predict binding sites and poses, highlighting that target MSAs alone carry strong predictive power for docking.
+３．Prediction accuracy sharply drops for novel complexes not present in training data. For example, AF3 had 39% atomically accurate predictions for known complexes but only 16% for unseen ones.
+４．Model performance correlates more strongly with structural similarity to training data than with coevolutionary information. Homologous structures in the training set guide predictions even when the actual peptide is different.
+５．MSA pairing between protein and peptide sequences had minimal effect. Shuffling the pairing reduced mutual information but did not significantly impact prediction quality, suggesting that inter-chain coevolution is not a major contributor.
+６．However, the peptide MSA still plays a role: when removed, DockQ scores often dropped, particularly for models like AF2-Multimer. The peptide MSA aids in refining both binding pose and conformational accuracy.
+７．AF2-Multimer uniquely uses unpaired MSAs with inter-chain attention in the Evoformer, enabling it to infer interaction interfaces without explicit coevolutionary signals—a previously undocumented mechanism.
+８．Template-based prediction can rescue performance in the absence of an MSA, but only when both the peptide and the target structures are accurate. Still, the target MSA consistently outperforms structural templates in guiding docking.
+９．Incorrect predictions frequently correspond to binding pockets that are over-represented in the training set, even when the native binding site is different. This reveals a tendency for models to "default" to common interfaces.
+１０．In successful novel predictions by AF3, binding interfaces often featured well-packed secondary structure motifs (β-sheets, α-helices). In some cases, mutating hydrophobic residues disrupted predictions, implying learned preferences for physical-chemical packing.
+１１．Importantly, structural conservation—not just sequence conservation—appears to guide binding site selection. However, conservation and hydrophobicity alone are not sufficient predictors of success or failure.
+１２．The authors stress the need for benchmark datasets with minimized overlap to training data, as current test sets overestimate generalization. Without careful curation, models may seem to perform better than they do on novel problems.
+１３．While AlphaFold-based tools have impressive performance, this study shows that many successes stem from memorization rather than generalization. Designing peptides for novel targets remains challenging and demands more robust modeling techniques.
+- The MCP Illustrated Guidebook https://blog.dailydoseofds.com/p/the-mcp-illustrated-guidebook
+- So Long, Image Layouts: Simplifying Vulkan Synchronization https://khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation
+- Rust 1.88.0 https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/
+  - &&-chaining let statements inside if and while conditions
+  - #[unsafe(naked)] + naked_asm!
+  - cfg(true) / cfg(false)
+  - Cargo automatic cache cleaning
+- ECMAScript 2025: What’s new? https://2ality.com/2025/06/ecmascript-2025.html
+  - Import attributes + JSON modules
+  - Iterator helper methods
+  - New Set methods
+  - RegExp.escape()
+  - Regex pattern modifiers (inline flags)
+  - Duplicate named capture groups
+  - Promise.try()
+  - float16
+- Exploring "XXt Can Be Faster" by Rybin et al. (2025)  https://www.youtube.com/watch?v=7Hy7cT-U25M&ab_channel=DeepLearningwithYacine
+- PocketVina Enables Scalable and Highly Accurate Physically Valid Docking through Multi-Pocket Conditioning https://x.com/BiologyAIDaily/status/1938208813137727813 #Bioinformatics
+- The Chan Zuckerberg Initiative released TranscriptFormer, a cross-species generative cell atlas mapping cell diversity across 1.53 billion years, enabling zero-shot biological discovery. Adding interpretability tools could further unlock insights into gene regulatory programs https://biorxiv.org/content/10.1101/2025.04.25.650731v1 #Bioinformatics
+
+
+
 # 26/06/2025 twitter links 
 - The rise and Fall of Lisp https://youtu.be/sV7C6Ezl35A?si=biHqEg_WnV2RwLLr via @YouTube - good resource !
 - AWS Bedrock Flows https://aws.amazon.com/bedrock/flows/ link foundation models (FMs),  Prompts,  Agents, Knowledge Bases, Guardrails and other AWS services together to build and scale pre-defined generative AI workflows.
