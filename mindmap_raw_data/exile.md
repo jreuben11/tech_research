@@ -1,3 +1,44 @@
+# 29/06/2025 twitter links
+- You Don’t Owe Your Adult Kids Anything https://medium.com/@erinbettymitchell/you-dont-owe-your-adult-kids-anything-f8ef58831188
+- NVidia garak, LLM vulnerability scanner https://github.com/NVIDIA/garak/ incorporated into NeMo Guardrails
+- Testing OpenAI Codex and Comparing It to Claude Code https://thenewstack.io/testing-openai-codex-and-comparing-it-to-claude-code/
+- Inside the vLLM Inference Server: From Prompt to Response https://thenewstack.io/inside-the-vllm-inference-server-from-prompt-to-response/
+- xAI Grok 3.5 Renamed Grok 4 and Has Specialized Coding Model https://nextbigfuture.com/2025/06/xai-grok-3-5-renamed-grok-4-and-has-specialized-coding-model.html
+- Universal pre-training by iterated random computation https://arxiv.org/abs/2506.20057
+- Gary Marcus on LLMs lacking a world model https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread
+- Microsoft tried dogfooding Copilot with .NET, but got only hallucinations https://news.ycombinator.com/item?id=44408325
+- In the case of schizophrenia, it can be hypothesized that certain cognitive, linguistic, or social traits increase fitness and are positively selected by evolution but lead to catastrophic consequences when expressed beyond a critical threshold.  https://psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay The model envisions a continuous, heritable trait that enhances reproductive fitness up to a point, beyond which it sharply decreases. Natural selection stabilizes the trait just below the cliff, but a small minority overshoot and suffer a dramatic fitness loss
+- Vet – A tool for safely running remote shell scripts https://getvet.sh
+- Sirius: A GPU-native SQL engine https://github.com/sirius-db/sirius
+- Cloudflare Launches Containers in Public Beta https://infoq.com/news/2025/06/cloudflare-containers-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- MCP: An (Accidentally) Universal Plugin System https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
+- Lossless LLM 3x Throughput Increase by LMCache https://github.com/LMCache/LMCache
+- 7 People Now Have Neuralink Brain Implant https://science.slashdot.org/story/25/06/27/2353222/7-people-now-have-neuralink-brain-implant?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- OWASP Launches AI Testing Guide to Address Security, Bias, and Risk in AI Systems https://infoq.com/news/2025/06/ai-testing-guide/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- bootc-image-builder: Build your entire OS from a Containerfile https://github.com/osbuild/bootc-image-builder
+- Rust in the Linux kernel: part 2 https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/
+- The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
+- Shouldiuse.dev – Software dependency health checker https://shouldiuse.dev
+- SymbolicAI: A neuro-symbolic perspective on LLMs https://github.com/ExtensityAI/symbolicai compositional differentiable programming library - interesting !
+- Android phones could soon warn you of "Stingrays" snooping on your communications https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/
+- Structuring Arrays with Algebraic Shapes https://dl.acm.org/doi/abs/10.1145/3736112.3736141
+- C++26 Draft Finalized with Static Reflection, Contracts, and Sender/Receiver Types https://infoq.com/news/2025/06/cpp-26-feature-complete/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Copilot Chat in VS Code is now open source https://github.com/microsoft/vscode-copilot-chat
+- Project Vend: Can Claude run a small shop? https://anthropic.com/research/project-vend-1
+- Tacit programming in Prolog https://github.com/mthom/scryer-prolog/discussions/2991
+- Deeper Sleep Stages Boost Problem-Solving Insights https://science.slashdot.org/story/25/06/27/0724231/deeper-sleep-stages-boost-problem-solving-insights-study-finds?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Starlink Helps Eight More Nations Pass 50% IPv6 Adoption https://tech.slashdot.org/story/25/06/27/0637210/starlink-helps-eight-more-nations-pass-50-ipv6-adoption?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Qwen VLo: From “Understanding” the World to “Depicting” It https://qwenlm.github.io/blog/qwen-vlo/
+- PILF: A IPWT-inspired continual learning experiment focus on mitigate catastrophic forgetting with Surprise-gated Mixture of Experts (MoE) model https://github.com/dmf-archive/PILF
+- The Effect of Noise on Sleep https://empirical.health/blog/effect-of-noise-on-sleep/ I started sleeping with earbuds in - feel more refreshed
+- A Python Language Server, Mypy-compatible https://zubanls.com
+- Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak
+- Building Strategic Influence as a Staff Engineer or Engineering Manager https://infoq.com/articles/strategic-influence-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- "I Switched from Flutter and Rust to Rust and Egui" https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/
+- Arm: Chiplets Can’t Deliver on TCO Without an Ecosystem https://eetimes.com/arm-chiplets-cant-deliver-on-tco-without-an-ecosystem/
+- Uv and Ray: Pain-Free Python Dependencies in Clusters https://anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters
+- AI Agents are Neuro-Symbolic Systems https://aurelio.ai/learn/ai-agents
+
 # 27/06/2025 Twitter Links
 - The Growing Importance of Platform Teams in the Age of AI https://thenewstack.io/the-growing-importance-of-platform-teams-in-the-age-of-ai/
 - Biomolecular shifts occur in our 40s and 60s https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html
