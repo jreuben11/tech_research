@@ -1,3 +1,87 @@
+# 01/07/2025 twitter links
+- Mapping the space of protein binding sites with sequence-based protein language models https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf284/8176567?rss=1 #Bioinformatics
+- NGPINT V3: a containerized orchestration Python software for discovery of next-generation protein–protein interactions https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf343/8172516?rss=1 #Bioinformatics
+- ProtMamba: a homology-aware but alignment-free protein state space model https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf348/8161314?rss=1 #Bioinformatics
+- Building Replication-Safe LSM Trees in Postgres https://paradedb.com/blog/lsm_trees_in_postgres
+- Skyrocketing HBM Will Push Micron Through $45 Billion And Beyond https://nextplatform.com/2025/06/30/skyrocketing-hbm-will-push-micron-through-10-billion-and-beyond/
+- Claude Code now supports Hooks https://docs.anthropic.com/en/docs/claude-code/hooks
+- Freelancers Using AI Tools Earn 40% More Per Hour Than Peers, Study Says https://slashdot.org/story/25/06/30/1959225/freelancers-using-ai-tools-earn-40-more-per-hour-than-peers-study-says?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Context Engineering Handbook https://github.com/davidkimai/Context-Engineering A practical, first-principles guide for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. Good resource !
+- SuperClaude https://github.com/NomenAK/SuperClaude A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies
+- KCL comparison with other tools https://kcl-lang.io/docs/user_docs/getting-started/intro/#how-to-choose
+- Comparing Kubernetes operators for PostgreSQL. Part 2: CloudNativePG https://blog.palark.com/cloudnativepg-and-other-kubernetes-operators-for-postgresql/
+- /ExtensityAI/ SymbolicAI: A framework for logic-based approaches combining generative models and solvers https://paperswithcode.com/paper/symbolicai-a-framework-for-logic-based
+- /IBM/ ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks https://paperswithcode.com/paper/itbench-evaluating-ai-agents-across-diverse
+- /oppo-personalai/ TaskCraft: Automated Generation of Agentic Tasks https://paperswithcode.com/paper/taskcraft-automated-generation-of-agentic
+- China Hosts First Fully Autonomous AI Robot Football Match https://hardware.slashdot.org/story/25/06/30/224233/china-hosts-first-fully-autonomous-ai-robot-football-match?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Windows User Base Shrinks By 400 Million In Three Years https://tech.slashdot.org/story/25/06/30/2123239/windows-user-base-shrinks-by-400-million-in-three-years?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal https://bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt
+- Best-in-Class Multimodal RAG: How the Llama 3.2 NeMo Retriever Embedding Model Boosts Pipeline Accuracy https://developer.nvidia.com/blog/best-in-class-multimodal-rag-how-the-llama-3-2-nemo-retriever-embedding-model-boosts-pipeline-accuracy/
+- :red_circle: VS Code Live: The Open Source AI Editor https://youtube.com/watch?v=ATYf63Sbns8
+- Copilot search now on GitHub Docs https://github.blog/changelog/2025-06-30-copilot-search-now-on-github-docs
+- Prolonged sitting (>8 hrs/day) is linked to a 30% higher risk of early death, even if you exercise.
+- Small Language Models Are the Future of Agentic AI - cheap, commoditized, good enough https://arxiv.org/abs/2506.02153
+- Nimtable: Open-source web UI to browse and manage Apache Iceberg tables https://github.com/nimtable/nimtable
+- Genetic Code Enables Zebrafish to Mend Damaged Organs https://caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs
+- Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI https://youtube.com/watch?v=_PioN-CpOP0
+- Cloudflare to introduce pay-per-crawl for AI bots https://blog.cloudflare.com/introducing-pay-per-crawl/
+- OpenFLOW - Isometric Diagramming Tool https://github.com/stan-smith/OpenFLOW - nice !
+- IsoFlow https://github.com/markmanx/isoflow A React component for drawing network diagrams
+- Causal inference in practice: Methodological lessons from DoWhy, Fixed Effects, and EconML https://medium.com/data-science-at-microsoft/causal-inference-in-practice-methodological-lessons-from-dowhy-fixed-effects-and-econml-f11f47129735?source=rss----a6e43238cdaf---4
+- man' - read the manual pages - Video Man Pages https://youtube.com/watch?v=1V5ewUKIM1I
+- CodeQL support for Rust now in public preview https://github.blog/changelog/2025-06-30-codeql-support-for-rust-now-in-public-preview
+- An inside look at Meta’s transition from C to Rust on mobile https://engineering.fb.com/2025/07/01/developer-tools/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/
+
+
+# 30/06/2025 Twitter Links
+- How I’m Upskilling in the Age of AI (Staying Motivated without Burning Out) https://pub.towardsai.net/how-im-upskilling-in-the-age-of-ai-staying-motivated-without-burning-out-f897754ad015?source=rss----98111c9905da---4
+- /explodinggradients/ RAGAS: Automated Evaluation of Retrieval Augmented Generation https://paperswithcode.com/paper/ragas-automated-evaluation-of-retrieval
+- /luigifreda/ pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM https://paperswithcode.com/paper/pyslam-an-open-source-modular-and-extensible
+- /NVIDIA/ An Empirical Study of Mamba-based Language Models https://paperswithcode.com/paper/an-empirical-study-of-mamba-based-language
+- /zezhishao/ Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis https://paperswithcode.com/paper/exploring-progress-in-multivariate-time
+- /Microsoft/ Quantized Training of Gradient Boosting Decision Trees https://paperswithcode.com/paper/quantized-training-of-gradient-boosting
+- /lh3/ Protein-to-genome alignment with miniprot https://paperswithcode.com/paper/protein-to-genome-alignment-with-miniprot #Bioinformatics
+- /meyerls/ CherryPicker: Semantic Skeletonization and Topological Reconstruction of Cherry Trees https://paperswithcode.com/paper/cherrypicker-semantic-skeletonization-and
+- The Invisible Architecture of Meaning: Meta-Semantic Scaffolding in Semiotic Grammar Design https://medium.com/intuitionmachine/the-invisible-architecture-of-meaning-meta-semantic-scaffolding-in-semiotic-grammar-design-b5cd0eeabe12?source=rss----d777623c68cf---4
+- Why Context Engineering Matters More Than Prompt Engineering https://pub.towardsai.net/why-context-engineering-matters-more-than-prompt-engineering-8fd01cd2d0b6?source=rss----98111c9905da---4 maybe
+- AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/
+- How The IMF Prevents Global Bitcoin Adoption (And Why They Do It) https://bitcoinmagazine.com/featured/how-the-imf-prevents-global-bitcoin-adoption-and-why-they-do-it
+- NVIDIA PhysicsNeMo https://docs.nvidia.com/deeplearning/physicsnemo/
+- How to Work with Data Exceeding VRAM in the Polars GPU Engine https://developer.nvidia.com/blog/how-to-work-with-data-exceeding-vram-in-the-polars-gpu-engine/
+- A Moveable GNOME Top Bar? This Extension Provides One https://omgubuntu.co.uk/2025/06/floating-mini-panel-gnome-extension
+- LACT 0.8: The Ultimate Open-Source GPU Management Tool for Linux http://portallinuxferramentas.blogspot.com/2025/06/lact-08-ultimate-open-source-gpu.html
+- Claudia: An Open Source GUI for Claude AI Code Development https://news.itsfoss.com/claudia/
+- "Tyr" Announced As New Rust-Written Linux Kernel Graphics Driver https://phoronix.com/news/Tyr-Rust-DRM-Graphics-Driver
+- GTK: Introducing graphics offload https://blogs.gnome.org/gtk/2023/11/15/introducing-graphics-offload/ dmabuf
+- Warp 2.0 Adds AI Agents, Smarter Terminal Tools, and Team Collaboration Features https://news.itsfoss.com/warp-terminal-2-0/
+- Broadcom is Bullying Enterprises with VMware Audits https://news.itsfoss.com/broadcom-bullying-enterprises/
+- New Linux Kernel Drama: Torvalds Drops Bcachefs Support After Clash https://news.itsfoss.com/linux-kernel-bcachefs-drop/
+- NVIDIA Blackwell Support Coming Together For NVK Vulkan In Mesa https://phoronix.com/news/NVIDIA-Blackwell-NVK-Mesa
+- Using immer for immutable state in React https://blog.elegantcode.com/2025/03/24/using-immur-for-immutable-state-in-react/
+- Transition away from third-party cookies with CHIPS https://youtube.com/shorts/UjkcjB_bsQI
+- CSS Blob Recipes https://css-tricks.com/css-blob-recipes/
+- Manifold: An open-source tool to run AI models for 90% less https://github.com/Esrbwt1/manifold
+- WorldVLA: Towards Autoregressive Action World Model https://arxiv.org/abs/2506.21539
+- Google Previews Gemini's Agent Mode in Android Studio Narwhal https://infoq.com/news/2025/06/gemini-agent-mode-android-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Deep Research AI Agents https://nextbigfuture.com/2025/06/deep-research-ai-agents.html
+- The Consciousness Gradient: When Machines Begin to Wonder https://v1tali.com/ai-consciousness
+- Implementing fast TCP fingerprinting with eBPF https://halb.it/posts/ebpf-fingerprinting-1/
+- Decart joins AI hiring frenzy with dozens of new SF roles under Kfir Aberman https://calcalistech.com/ctechnews/article/ryaxvha4ll
+- A Framework for Recognizing Emergent Consciousness in AI https://habr.com/en/articles/922894/
+- A neural brain implant provides near instantaneous speech https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/
+- AI slop security reports submitted to curl https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd
+- It's Known as 'The List'–and It's a Secret File of AI Geniuses https://wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc
+- individuals with a higher IQ make more realistic predictions, which supports better decision-making and can lead to improved life outcomes https://science.slashdot.org/story/25/06/26/2339259/new-iq-research-shows-why-smarter-people-make-better-decisions?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- A Complete Guide to Multi-Agent Systems in LangGraph: Network to Supervisor and Hierarchical Models https://pub.towardsai.net/a-complete-guide-to-multi-agent-systems-in-langgraph-network-to-supervisor-and-hierarchical-models-a0c319cff24b?source=rss----98111c9905da---4
+- Modeling Human-Agent Collaborative Workflows: Extending BPMN ? https://modeling-languages.com/modeling-human-agent-collaborative-workflows-extending-bpmn/ an old chestnut !
+- CheckSumAI - E2E test gen https://checksum.ai/#integrations
+- Ranked: Countries With the Fewest Children in 2025 https://visualcapitalist.com/ranked-countries-with-the-fewest-children-in-2025/
+- Positive link between cannabis use and 'Major Adverse Cardiovascular Events' https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429
+- Gartner Predicts over 40% of Agentic AI Projects Will Be Canceled by End of 2027 https://gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027
+- Quantum computers just beat classical ones — Exponentially and unconditionally https://sciencedaily.com/releases/2025/06/250629033459.htm
+- Build AWS architecture diagrams using Amazon Q CLI and MCP https://aws.amazon.com/blogs/machine-learning/build-aws-architecture-diagrams-using-amazon-q-cli-and-mcp/
+
+
 # 29/06/2025 twitter links
 - You Don’t Owe Your Adult Kids Anything https://medium.com/@erinbettymitchell/you-dont-owe-your-adult-kids-anything-f8ef58831188
 - NVidia garak, LLM vulnerability scanner https://github.com/NVIDIA/garak/ incorporated into NeMo Guardrails
