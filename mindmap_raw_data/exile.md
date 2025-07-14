@@ -1,3 +1,19 @@
+# 07/07/2025 twitter links
+- Centaur: a foundation model to capture and predict human cognition https://nature.com/articles/s41586-025-09215-4 trained on Psych-101 dataset from 160 previously published psychology experiments, covering more than 60,000 participants who made more than 10 million choices in total
+- Why LLMs ahould not replace therapists https://arxiv.org/abs/2504.18412 LLMs 1) express stigma toward those with mental health conditions and 2) respond inappropriately to certain common (and critical) conditions e.g., encourage clients' delusional thinking, likely due to their sycophancy
+- Building the Rust Compiler with GCC https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
+- Simple wrapper for Chrome's built-in local LLM (Gemini Nano) https://github.com/kstonekuan/simple-chromium-ai
+- Libra: Synergizing CUDA and Tensor Cores for High-Performance Sparse Matrix Multiplication https://hgpu.org/?p=30006
+- The highest-paying job in IT in 2027 will be "fix this shitty AI-generated code in my application." Putting something in production faster than competitors is the motto of 2025, and it will continue throughout the entire 2026.
+- Why Nvidia’s new mega Israeli hub may eclipse Intel’s legacy https://calcalistech.com/ctechnews/article/skf3izysll
+- Blender 5.0 Set to Bring HDR Support for Linux Wayland Users https://news.itsfoss.com/blender-5-0-linux-hdr-support/
+- Google DeepMind's Spinoff Company 'Very Close' to Human Trials for Its AI-Designed Drugs https://science.slashdot.org/story/25/07/06/2124226/google-deepminds-spinoff-company-very-close-to-human-trials-for-its-ai-designed-drugs?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- A Language Server Implementation for SystemD Unit Files https://github.com/JFryy/systemd-lsp
+- François Chollet: The Arc Prize and How We Get to AGI [video] https://youtube.com/watch?v=5QcCeSsNRks
+- Breaking the CNN Mold: YOLOv12 Brings Attention to Real-Time Object Detection https://pyimagesearch.com/2025/07/07/breaking-the-cnn-mold-yolov12-brings-attention-to-real-time-object-detection/
+- LibreOffice Begins Landing Markdown File Import Support https://phoronix.com/news/LibreOffice-Markdown-Import
+- Single-nucleus RNA sequencing confirms that neurons form in the adult brain https://rna-seqblog.com/single-nucleus-rna-sequencing-confirms-that-neurons-form-in-the-adult-brain/
+
 # 01/07/2025 twitter links
 - Mapping the space of protein binding sites with sequence-based protein language models https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf284/8176567?rss=1 #Bioinformatics
 - NGPINT V3: a containerized orchestration Python software for discovery of next-generation protein–protein interactions https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf343/8172516?rss=1 #Bioinformatics
