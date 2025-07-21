@@ -1,3 +1,265 @@
+
+
+
+
+# 15-07-2025
+- C++ Coroutines Advanced: Converting std:future to asio:awaitable https://ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/
+- New Effort To Upstream LTTng tracing toolkit In The Linux Kernel Draws Criticism From Torvalds https://phoronix.com/news/LTTng-Kernel-Modules-2025
+- Meta's Superintelligence Lab Considers Shift To Closed AI Model https://meta.slashdot.org/story/25/07/14/2048202/metas-superintelligence-lab-considers-shift-to-closed-ai-model?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Dog Walk: Blender Studio's official game project https://blenderstudio.itch.io/dogwalk
+- You can now use Grep to search any public repository on  GitHub - To search a specific repo, use http://grep.app/[owner]/[repo] https://vercel.com/changelog/search-any-public-github-repo-with-grep
+- Apple's MLX adding CUDA support https://github.com/ml-explore/mlx/pull/1983 ???
+- Ranked: The Biggest AI Funding Rounds of 2025 So Far https://visualcapitalist.com/ranked-the-biggest-ai-funding-rounds-of-2025-so-far/
+- Context Rot: How increasing input tokens impacts LLM performance https://research.trychroma.com/context-rot
+- Kubernetes Finally Solves Its Biggest Problem: Managing Databases - CloudNativePG + Atlas operators for PostgreSQL https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/
+- Enabling Fast Inference and Resilient Training with NCCL 2.27 https://developer.nvidia.com/blog/enabling-fast-inference-and-resilient-training-with-nccl-2-27/
+- Nvidia's 20-core N1X CPU leaks with 3000+ single-core Geekbench score — Arm chip could rival Intel and AMD's laptop offerings https://tomshardware.com/pc-components/cpus/nvidias-20-core-n1x-leaks-with-3000-single-core-geekbench-score-arm-chip-could-rival-intel-and-amds-laptop-offerings
+- Turn SQL into Conversation: Natural Language Database Queries With MCP https://dzone.com/articles/natural-language-sql-queries-with-mcp 25 years later, MS English Query works
+- NCCL Deep Dive: Cross Data Center Communication and Network Topology Awareness https://developer.nvidia.com/blog/nccl-deep-dive-cross-data-center-communication-and-network-topology-awareness/
+- Bitcoin Crosses $123,000 as Bernstein Predicts $200,000 by Early 2026 https://bitcoinmagazine.com/news/bitcoin-crosses-123000-as-bernstein-predicts-200000-by-early-2026
+- How Rapid7 automates vulnerability risk scores with ML pipelines using Amazon SageMaker AI https://aws.amazon.com/blogs/machine-learning/how-rapid7-automates-vulnerability-risk-scores-with-ml-pipelines-using-amazon-sagemaker-ai/
+- Cognition (Devin AI) to Acquire Windsurf https://cognition.ai/blog/windsurf
+- Build 3D Scene Graphs for Spatial AI LLMs https://medium.com/data-science-collective/build-3d-scene-graphs-for-spatial-ai-llms-from-point-cloud-python-tutorial-c5676caef801 Transform semantic point clouds into intelligent OpenUSD scene graphs with spatial relationships
+- MIT Scientist Shrinks Active Memory Footprint by 50% https://www.ainvest.com/news/mit-scientist-shrinks-active-memory-footprint-50-2507/
+- Fertility Rate in Europe https://x.com/GigaBasedDad/status/1944650569676882389
+- AlphaFlex: Accuracy Modeling Of Protein Multiple Conformations Via Predicted Flexible Residues https://x.com/BiologyAIDaily/status/1944929045801787433
+- TabM is a parameter-efficient ensemble that provides: The speed of an MLP, The accuracy of GBDT. https://x.com/akshay_pachaar/status/1944737274505335172
+- Limited-memory BFGS - Wikipedia https://share.google/5hLLmk2GXLsIt4DBR the optimization algorithm of choice for fitting log-linear (MaxEnt) models and conditional random fields with ℓ2 regularization
+- Physics-informed neural networks - Wikipedia https://share.google/v94a7akQ2V7NkdeuX integrate the governing equations of a PDE into the loss function of a neural network, effectively using the network to learn a solution that satisfies both the PDE and any given initial/boundary conditions
+- SceneScript: an AI model and method to understand and describe 3D spaces https://www.projectaria.com/scenescript/
+- RL of LLMs  https://ernestryu.com/courses/RL-LLM.html Youtube playlist: https://youtube.com/playlist?list=PLir0BWtR5vRp5dqaouyMU-oTSzaU5LK9r  https://ernestryu.com/courses/RL-LLM/chapter3.pdf
+- Solving partial derivatives of NN outputs using retain_graph = True and create_graph = True, then optimizing over both NN output and corresponding derivatives - autograd - PyTorch Forums https://share.google/LMoOhe3yKs57QIpk4
+- rotation matrices https://x.com/eylemboss0306/status/1944590889839714562
+- Report: Popular Chrome extensions spied on millions of users https://israelnationalnews.com/news/411695?utm_source=twitter&utm_medium=social&utm_campaign=share Experis Cyber revealed that dozens of well-known and Google-verified extensions turned into spying tools, including among organizational users
+- Sometimes the future seems like a dystopia. Drones are increasingly being used as new, mobile advertising spaces. https://x.com/kimmonismus/status/1944859950288928984
+- Azrieli Institute for Systems Biology | Weizmann Institute of Science https://share.google/UHGZ6Nl1sDtSQ7jZG
+- SoySim: Simulation of soybean growth and yield in near-optimal growth conditions (Systems Biology , 2010) https://share.google/cTn7CyjQvfP41ZkSY
+- An educator framework for organizing Wikipedia editathons for computational biology https://academic.oup.com/bioinformatics/article/41/Supplement_1/i12/8199389?rss=1
+- FlowDock: Geometric flow matching for generative protein–ligand docking and affinity prediction https://academic.oup.com/bioinformatics/article/41/Supplement_1/i198/8199366?rss=1
+- Efficient 3D kernels for molecular property prediction https://academic.oup.com/bioinformatics/article/41/Supplement_1/i58/8199352?rss=1
+- AlphaFold and the Future of Science https://youtube.com/watch?v=2Yguz5U-Nic
+- Getting Started With marimo Notebooks https://realpython.com/courses/getting-started-with-marimo-notebooks/
+- Sesame Workshop Regains Control of Elmo’s Hacked X Account After Antisemetic Posts https://securityweek.com/sesame-workshop-regains-control-of-elmos-hacked-x-account-after-racist-posts/
+- Threat Actors Use SVG Smuggling for Browser-Native Redirection https://securityweek.com/threat-actors-use-svg-smuggling-for-browser-native-redirection/
+- Infographic: Every Microsoft Acquisition Since 1986 https://visualcapitalist.com/infographic-every-microsoft-acquisition-since-1986/
+- AI Might Now Be as Good as Humans at Detecting Emotion, Political Leaning, and Sarcasm https://singularityhub.com/2025/07/15/ai-might-now-be-as-good-as-humans-at-detecting-emotion-political-leaning-and-sarcasm/
+- Cloudflare Starts Blocking Pirate Sites for UK Users https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/
+- Google DeepMind Announces Robotics Foundation Model Gemini Robotics On-Device https://infoq.com/news/2025/07/google-gemini-robotics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Google's Reverse Acquihire of Windsurf and the Future of AI Developer Tools https://qodo.ai/blog/googles-reverse-acquihire-of-windsurf-a-glimpse-into-the-future-of-ai-developer-tools/
+- Heka raises $14M Series A to tackle AI-fueled fraud epidemic https://calcalistech.com/ctechnews/article/skf0zyxleg
+- Cogency – Cognitive Architecture for AI Agents https://github.com/iteebz/cogency
+- Former Google DeepMind engineer says other AI agents are doing it wrong https://go.theregister.com/feed/www.theregister.com/2025/07/15/simular_ai_agent_reinforcement/
+- Code highlighting with Cursor AI used for $500k theft https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/
+- Growing Challenge of Radar Interference in Autonomous Vehicles https://eetimes.com/growing-challenge-of-radar-interference-in-autonomous-vehicles/
+- Leaked Grok 4 Prompts Reveal How AI Companies Build Ideology Engines https://pub.towardsai.net/leaked-grok-4-prompts-reveal-how-ai-companies-build-ideology-engines-d5d32f97d312?source=rss----98111c9905da---4
+- Supercharge generative AI workflows with NVIDIA DGX Cloud on AWS and Amazon Bedrock Custom Model Import https://aws.amazon.com/blogs/machine-learning/supercharge-generative-ai-workflows-with-nvidia-dgx-cloud-on-aws-and-amazon-bedrock-custom-model-import/
+- Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/
+- The Impact of Prompt Bloat on LLM Output Quality https://mlops.community/the-impact-of-prompt-bloat-on-llm-output-quality/
+- Why Are Employees Leaving? Predict Employee Attrition with Explainable AI (SHAP) https://analyticsvidhya.com/blog/2025/07/predict-employee-attrition-with-shap/
+- Accelerate AI Model Orchestration with NVIDIA Run:ai on AWS https://developer.nvidia.com/blog/accelerate-ai-model-orchestration-with-nvidia-runai-on-aws/
+- GTK3 Port Of The Kernel's gconfig Utility Appears Ready For Linux 6.17 https://phoronix.com/news/Linux-6.17-gconfig-GTK3
+- Modelling biological systems - Wikipedia https://share.google/850LYPvBQLbHZrOnh
+- Biological data visualization - Wikipedia https://share.google/fucWC6t8sqt8YykKA
+
+
+# 14-07-2025 twitter links
+- Clustering of Pointclouds into Supervoxels  https://share.google/gLKL6zhDWclHBHfpx
+- FFmpeg in plain English – LLM-assisted FFmpeg in the browser https://vidmix.app/ffmpeg-in-plain-english/
+- kubriX: Internal Developer Platform  for K8s - integrates Argo CD (GitOps), Kargo, and Backstage to deliver a fully functional IDP out of the box https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1?source=rss----5b301f10ddcd---4
+- Point Transformer V3 - foundation model for point cloud segmentation https://share.google/mfeZ43syy6D7HYYYc
+- You pay for the prompt: Claude 24,000 tokens of hidden behavioral programming versus Kimi-2 20 lines of simple principles https://pub.towardsai.net/the-ai-control-wars-why-claude4-needs-24-000-tokens-to-say-hello-059e6909f301
+- Getting started with AWS MCPs and putting them to work as a solutions architect https://pub.towardsai.net/getting-started-with-aws-mcps-and-putting-them-to-work-as-a-solutions-architect-ebeaa8678b74?source=rss----98111c9905da---4
+- How to scale RL to 10^26 FLOPs https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops next token prediction on the web
+- Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms https://hgpu.org/?p=30035
+- ML4W Dotfiles for Hyprland - new Dotfiles Installer https://youtube.com/watch?v=cuqe5Hs00Go
+- DeepXDE https://deepxde.readthedocs.io/en/latest/ library for scientific machine learning and physics-informed learning. algorithms: PINN, DeepONet, MFNN
+- Langium https://langium.org/docs open source language engineering tool with first-class support for the Language Server Protocol, written in TypeScript and running in Node.js.
+- TOP 5 Time Series Forecasting Libraries in 2025 for Python (with Pros and GitHub Stars)  https://medium.com/@ibtissam.makdoun/top-5-time-series-forecasting-libraries-in-2025-for-python-a6963d1b6ece
+- AWS Region Latency Matrix  https://cloudping.co
+- AWS previews Kiro IDE for developers who are over vibe coding https://go.theregister.com/feed/www.theregister.com/2025/07/14/aws_kiro_agentic_ide/ Kiro Is AWS’s Specs-Centric Answer to Windsurf and Cursor https://thenewstack.io/kiro-is-awss-specs-centric-answer-to-windsurf-and-cursor/
+- Google is tracking you even when you use DuckDuckGo https://simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go
+- New Hands-On Video Course: Conan 2 Essentials https://blog.conan.io/2025/07/14/New-conan2-training-series.html
+- Blender Studio Releases Free New Game 'Dogwalk' to Showcase Its Open Source Godot Game Engine https://games.slashdot.org/story/25/07/14/0513223/blender-studio-releases-free-new-game-dogwalk-to-showcase-its-open-source-godot-game-engine?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Docker Expands Compose for Agent Development and Ties in Cloud Offload Support https://infoq.com/news/2025/07/docker-compose-agent-gpu-offload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Rio is a Fast, WebGPU-Powered Terminal for Ubuntu https://omgubuntu.co.uk/2025/07/rio-terminal-emulator-ubuntu
+- Google’s Android head confirms Chrome OS and Android are merging https://arstechnica.com/gadgets/2025/07/googles-android-head-confirms-chrome-os-and-android-are-merging/
+- Start and track GitHub Copilot coding agent sessions from Visual Studio Code https://github.blog/changelog/2025-07-14-start-and-track-github-copilot-coding-agent-sessions-from-visual-studio-code
+
+
+# 13-07-2025 twiiter links
+- Chrome's hidden X-Browser-Validation header reverse engineered https://github.com/dsekz/chrome-x-browser-validation-header
+- Light exposure at night predicts incidence of cardiovascular diseases https://medrxiv.org/content/10.1101/2025.06.20.25329961v1
+- r3f-template - A CLI tool to scaffold React Three Fiber projects with or without physics (Rapier). Quickly bootstrap your 3D web applications with modern tooling and best practices https://npmjs.com/package/r3f-template
+- Apache Fluss https://github.com/apache/fluss streaming storage built for real-time analytics which can serve as the real-time data layer for Lakehouse architectures
+- How to Run a Jupyter Notebook with uv – Python Developer Tooling Handbook https://share.google/uP3ZseYzg1LXNfOkZ
+- Nb Mypy is a facility to automatically run mypy on Jupyter notebook cells as they are executed, whilst retaining information about the execution history https://share.google/cIgnyNWI9b8aN6wll
+- Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport https://github.com/aeron-io/aeron
+- SiteAF3, a novel method utilizing conditional diffusion within the AlphaFold3 framework, consistently demonstrates improved accuracy in predicting complex structures, particularly for orphan proteins and allosteric ligands. It addresses existing challenges in AlphaFold3, offering a significant advancement for understanding biological processes and accelerating drug discovery. Accurate Site-specific Folding via Conditional Diffusion Based on Alphafold3 Code: https://github.com/HaCTang/SiteAF3 Paper: https://biorxiv.org/content/10.1101/2025.07.06.663385v1 #Bioinformatics
+- An update for AlphaFold3 versus experimental structures: assessing the precision of small molecule binding in GPCRS https://x.com/BiologyAIDaily/status/1944026203863888193
+- Hill Space: Neural nets that do perfect arithmetic (to 10⁻¹⁶ precision) https://hillspace.justindujardin.com "The constraint topology that transforms discrete selection from optimization-dependent exploration into systematic mathematical cartography"
+
+
+
+# 12-0702025 twitter links
+- The woke "brain" https://x.com/jreuben1/status/1943866172383908276
+- THE 0.1x engineer https://youtube.com/watch?v=i7aQig-wjYA
+- Visualizing the Top Emerging Technologies of 2025 https://visualcapitalist.com/top-emerging-technologies-of-2025/
+- Anthropic Is Bleeding Out https://wheresyoured.at/anthropic-is-bleeding-out/
+- Vibe Kanban – Kanban board to manage your AI coding agents https://github.com/BloopAI/vibe-kanban
+- Construction of Kolmogorov-Arnold networks using the Newton-Kaczmarz method https://link.springer.com/article/10.1007/s10994-025-06800-6
+- New AI system uncovers hidden cell subtypes, boosts precision medicine https://news.mit.edu/2025/ai-system-uncovers-hidden-cell-subtypes-boosts-precision-medicine-0711
+- The Perils of Optimizing Learned Reward Functions https://lesswrong.com/posts/KLNkJPYH4yj9uRAPv/the-perils-of-optimizing-learned-reward-functions
+- Grok 4 vs Claude 4 https://analyticsvidhya.com/blog/2025/07/grok-4-vs-claude-4/#h-grok-4-vs-claude-4-performance-based-comparison
+- Wine 10.12 Brings Optional EGL Backend https://linuxiac.com/wine-10-12-brings-optional-egl-backend/
+- [$] SFrame-based stack unwinding for the kernel https://lwn.net/Articles/1029189/
+- Some Video Generation Prompt guides:
+  - Veo 3 https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide
+  - Gen 3 Alpha https://help.runwayml.com/hc/en-us/articles/30586818553107-Gen-3-Alpha-Prompting-Guide
+- Refresher: Parametric equations - Wikipedia https://share.google/lbOYMVN6typ66pIuD
+- OpenAI attempted to acquire Windsurf to compete with Anthropic.  Anthropic knee-capped the company by denying access to its API.   The acquisition had conflict of interest issues with Microsoft's CoPilot.  Google swoops in to clean up all the chaos.  Now, OpenAI remains an outsider in the game of AI programming dominance.  It's now a 2 person race between Google and Anthropic.   Cursor is about to be knee-capped by Anthropic. https://x.com/IntuitMachine/status/1944018080226558365
+- The appeal of GNOME https://thenewstack.io/what-makes-gnome-so-appealing/
+- Warp Goes Agentic: A Developer Walk-Through of Warp 2.0 https://thenewstack.io/warp-goes-agentic-a-developer-walk-through-of-warp-2-0/
+- Gemini CLI vs Codex CLI https://analyticsvidhya.com/blog/2025/07/gemini-cli-vs-codex-cli/
+- XAI seeks up to $200B valuation in next fundraising https://ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68
+- Hono Shows the Way for Microframeworks in a Post-React World https://thenewstack.io/hono-shows-the-way-for-microframeworks-in-a-post-react-world/
+- No Code Is Dead, while Vibe Coding over Low Code has gone Agentic https://thenewstack.io/no-code-is-dead/
+- Labwc 0.9 Wayland Compositor Released with wlroots 0.19 Support https://linuxiac.com/labwc-0-9-wayland-compositor-released-with-wlroots-0-19-support/
+- Grok-4 Falls to a Jailbreak Two days After Its Release https://securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/
+- Kimi K2 is basically DeepSeek V3 but with fewer heads and more experts: https://x.com/rasbt/status/1944056316424577525
+
+
+# 11-07-2025
+- Pangolin – Open source alternative to Cloudflare Tunnels   https://github.com/fosrl/pangolin
+- Optimizing AI Agents with the NVIDIA NeMo Agent Toolkit Profiler https://youtube.com/shorts/xojqN11vuOE
+- Yamlfmt: An extensible command line tool or library to format YAML files https://github.com/google/yamlfmt
+- Amazon SageMaker HyperPod introduces CLI and SDK for AI Workflows https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-cli-sdk-ai-workflows
+- Postgres LISTEN/NOTIFY does not scale https://recall.ai/blog/postgres-listen-notify-does-not-scale
+- eBPF: Connecting with Container Runtimes https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/
+- Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow https://netflixtechblog.com/netflix-tudum-architecture-from-cqrs-with-kafka-to-cqrs-with-raw-hollow-86d141b72e52?source=rss----2615bd06b42e---4
+- Amazon SageMaker Studio now supports remote connections from Visual Studio Code https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/
+- Storybook v9: Vitest integration, flatter dependency structure  https://infoq.com/news/2025/07/storybook-v9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- China is Building 74% of All Current Solar and Wind Projects https://news.slashdot.org/story/25/07/10/1614230/china-is-building-74-of-all-current-solar-and-wind-projects?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- asyncmcp – Run MCP over async transport via AWS SNS+SQS https://github.com/bh-rat/asyncmcp
+- Rudy: A Toolchain for Rust Debuginfo https://samjs.io/blog/rudy
+- Google Research: Graph foundation models for relational data https://research.google/blog/graph-foundation-models-for-relational-data/
+- DeepMind GenAI Processors lib for Gemini applications https://developers.googleblog.com/en/genai-processors/
+- graclus: A greedy clustering algorithm for graph coursening https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.pool.graclus.html
+  - from “Weighted Graph Cuts without Eigenvectors: A Multilevel Approach” paper: pick an unmarked vertex and match it with one of its unmarked neighbors (that maximizes its edge weight).
+  - The GPU algorithm is adapted from the “A GPU Algorithm for Greedy Graph Matching” paper
+- PyG: Scaling Up GNNs via Remote Backendshttps://pytorch-geometric.readthedocs.io/en/2.6.1/advanced/remote.html
+- PyTorch Geometric vs Deep Graph Library https://exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library
+- BioEmu from Microsoft Research AI for Science. This generative deep learning method emulates protein equilibrium ensembles – key for understanding protein function at scale. https://msft.it/6010S7T8n #Bioinformatics
+- SymPy: Internals of the Polynomial Manipulation Module https://docs.sympy.org/latest/modules/polys/internals.html 4 levels:
+  - L0: core polynomial manipulation functionality with C-like, low-level interfaces
+  - L1: OOP data structure wrapper
+  - L2, L3: python API
+- Claude Code is Killing My Neovim Addiction https://levelup.gitconnected.com/claude-code-is-killing-my-neovim-addiction-8d2c4768a6a0
+- PyGraphistry: Leverage the power of graphs & GPUs to visualize, analyze, and scale your data https://pygraphistry.readthedocs.io/en/latest/
+- Why is Fertility so Low in High Income Countries ? https://nber.org/papers/w33989 evidence points to a broad reordering of adult priorities with parenthood occupying a diminished role. For people without kids & grandkids:
+  - why save for the future, when there isnt one ?
+  - what is your existential meaning as you age ?
+  - who will care for you in your lonely twilight years ?
+- Rowhammer Attack Demonstrated Against Nvidia GPU https://securityweek.com/rowhammer-attack-demonstrated-against-nvidia-gpu/
+- Cactus – Ollama for Smartphones https://github.com/cactus-compute/cactus
+- Psilocybin Treatment Extends Cellular Lifespan, Improves Survival of Aged Mice https://science.slashdot.org/story/25/07/11/0354259/psilocybin-treatment-extends-cellular-lifespan-improves-survival-of-aged-mice?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Robbery rates in Europe https://x.com/visegrad24/status/1943615676238725167
+
+
+# 10-07-2025 twitter links
+- Vim Fugitive - a Git wrapper for Vim https://dzx.fr/blog/introduction-to-vim-fugitive/
+- Fully managed MLflow 3.0 now available on Amazon SageMaker AI https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai
+- MCP server for searching and downloading documents from Anna's Archive https://github.com/iosifache/annas-mcp
+- Delegate tasks to Copilot coding agent from the GitHub MCP server https://github.blog/changelog/2025-07-09-delegate-tasks-to-copilot-coding-agent-from-the-github-mcp-server
+- Breaking Free from ZooKeeper: Why Kafka’s KRaft Mode Matters https://dzone.com/articles/kafka-kraft-vs-zookeeper
+- Reinforcement Learning with NVIDIA NeMo-RL: Reproducing a DeepScaleR Recipe Using GRPO https://developer.nvidia.com/blog/reinforcement-learning-with-nvidia-nemo-rl-reproducing-a-deepscaler-recipe-using-grpo/
+- Delivering the Missing Building Blocks for NVIDIA CUDA Kernel Fusion in Python https://developer.nvidia.com/blog/delivering-the-missing-building-blocks-for-nvidia-cuda-kernel-fusion-in-python/
+- CCCL Python libs - Pythonic interfaces to CUDA Core Compute Libraries https://nvidia.github.io/cccl/python/
+- Copilot coding agent now supports remote MCP servers https://github.blog/changelog/2025-07-09-copilot-coding-agent-now-supports-remote-mcp-servers
+- OpenAI To Release AI Web Browser in Challenge To Chrome https://tech.slashdot.org/story/25/07/09/1818249/openai-to-release-ai-web-browser-in-challenge-to-chrome?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- SWE-ReX https://swe-rex.com/latest/ runtime interface for interacting with sandboxed shell environments, in order to facilitate AI agents to run any command on any isolated environment.
+- Shift Left with eBPF: Using Tetragon in Your CI/CD Pipeline https://medium.com/careerbytecode/building-a-professional-grade-devsecops-pipeline-with-tetragon-ebpf-security-monitoring-on-azure-6a36b863ee37
+- XAI Grok 4 is the Top AI Model https://nextbigfuture.com/2025/07/xai-grok-4-launch-soon-about-45-60-minutes-late.html
+- but actually, if we kind of accept that "an AI Agent is basically a for loop", then what's the lispy version of this? > an AI Agent is a foldL where the accumulator is a context window, and the reducer is an LLM DetermineNextStep + a switch statement on how to handle it https://x.com/dexhorthy/status/1876041009630728469
+- Mapping Israel’s cybersecurity ecosystem: Funding doubles despite global headwinds https://calcalistech.com/ctechnews/article/rjupzmarel
+- Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP https://contextgeneric.dev/blog/extensible-datatypes-part-2/
+- From C to Rust: Inside Meta’s Developer-Led Messaging Migration https://infoq.com/news/2025/07/meta-rust-dx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Hugging Face MCP Server - design decisions https://huggingface.co/blog/building-hf-mcp
+- The Birth-Rate Crisis Isn't as Bad as You've Heard–It's Worse https://theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/
+- Use K8sGPT and Amazon Bedrock for simplified Kubernetes cluster maintenance https://aws.amazon.com/blogs/machine-learning/use-k8sgpt-and-amazon-bedrock-for-simplified-kubernetes-cluster-maintenance/
+- Python 3.14 will officially support free-threading https://docs.python.org/3.14/whatsnew/3.14.html#pep-779-free-threaded-python-is-officially-supported
+- Gemini can now turn your photos into video with Veo 3 https://arstechnica.com/ai/2025/07/google-adds-photo-to-video-generation-with-veo-3-to-the-gemini-app/
+
+
+# 09-07-2025 twitter links
+- CSGL: chemical synthesis graph learning for molecule representation https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btaf355/8169329?rss=1
+- Agentic Benchmark Checklist (ABC): Establishing Best Practices for Building Rigorous Agentic Benchmarks https://share.google/Q1cD6E95uBtEGIYkE
+- Meta Invests $3.5 Billion in World's Largest Eye-Wear Maker in AI Glasses Push https://meta.slashdot.org/story/25/07/08/2147252/meta-invests-35-billion-in-worlds-largest-eye-wear-maker-in-ai-glasses-push?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- OpenAPI Mock Server https://beeceptor.com/openapi-mock-server/
+- what’s new in TypeScript 5.9 https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta/
+  - Minimal and Updated tsc --init
+  - Support for import defer
+  - Support for --module node20
+  - Summary Descriptions in DOM APIs
+  - Expandable Hovers (Preview)
+  - Configurable Maximum Hover Length
+  - Optimizations
+- How to Measure the ROI of AI Coding Assistants https://thenewstack.io/how-to-measure-the-roi-of-ai-coding-assistants/
+- Skia Graphite: Chrome's rasterization backend for the future http://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html uses Chrome's WebGPU implementation, Dawn, as the abstraction layer for platform native graphics APIs like Metal, Vulkan and D3D
+- An Opinionated Guide to Using Anki Correctly https://lesswrong.com/posts/7Q7DPSk4iGFJd8DRk/an-opinionated-guide-to-using-anki-correctly
+- Preventing Reentrancy Bugs From Creeping Back In: Linking TLA+ Models to Rust Code https://medium.com/dfinity/preventing-reentrancy-bugs-from-creeping-back-in-linking-tla-models-to-rust-code-c7854eb9458d
+- Creating Metaverse Worlds with GenAI Scripting https://youtube.com/watch?v=iwgj2tuUEzw
+- NVIDIA NIM on GKE http://developers.google.com/community/nvidia#new_tab
+- Amazon CloudWatch and Application Signals MCP servers for AI-assisted troubleshooting https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-application-signals-mcp-servers-for-ai-assisted-troubleshooting
+- Neural Relational Inference for Interacting Systems (2018) https://paperswithcode.com/paper/neural-relational-inference-for-interacting
+- Peter Jackson Backs Long Shot De-Extinction Plan, Starring New Zealand's Lost Moa https://science.slashdot.org/story/25/07/08/2232217/peter-jackson-backs-long-shot-de-extinction-plan-starring-new-zealands-lost-moa?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Gumbel-Softmax:  a differentiable approximation to sampling discrete data https://medium.com/data-science/what-is-gumbel-softmax-7f6d9cdcb90e
+- 𝐕𝐢𝐛𝐞 𝐜𝐨𝐝𝐢𝐧𝐠 𝐢𝐧 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐰𝐢𝐭𝐡 𝐌𝐢𝐭𝐨-AI https://medium.com/@amarharolikar/-17eb31061e5b
+- Generate 3D meshes based on SDFs (signed distance functions) in Python https://github.com/fogleman/sdf
+- NeuroNURBS: Learning Efficient Surface Representations for 3D Solids https://share.google/X5RYHU3ccF2qhxuzq
+- pynurbs  https://share.google/3BQcUb8VtVnSHTVkr
+- GraalVM is now at the point where it can compile `javac` to a (10MB) WasmGC binary, and you can compile Java code on the web. Soon, you'll be able to program web apps as $DEITY intended again: using Java applets. (:link::arrow_down:) graalvm.github.io/graalvm-demos/native-image/wasm-javac/
+- Nvidia Becomes First Company to Reach $4T Market Cap https://cnbc.com/2025/07/09/nvidia-4-trillion.html
+- Systemd has been a complete, utter, unmitigated success https://blog.tjll.net/the-systemd-revolution-has-been-a-success/
+- Hugging Face just launched a $299 robot that could disrupt the robotics industry https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/
+- Figma's $300,000 Daily AWS Bill Highlights Cloud Dependency Risks https://infoq.com/news/2025/07/figma-aws-300k-daily-bill/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- Apple quietly acquires Israeli 3D avatar startup TrueMeeting https://calcalistech.com/ctechnews/article/hkb0cyirxx
+- Helm local code execution via a malicious chart https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm
+- Introducing Microsoft AI Economy Institute https://youtube.com/watch?v=4-RXCeTJHI8
+- Khronos Announces Vulkan Video Encode Intra-refresh Extension https://khronos.org/blog/khronos-announces-vulkan-video-encode-intra-refresh-extension
+- Docker MCP Gateway: Open Source, Secure Infrastructure for Agentic AI https://docker.com/blog/docker-mcp-gateway-secure-infrastructure-for-agentic-ai/
+
+
+# 08/07/2025 twitter links
+- AI-powered scam Hits investors, deepfakes and fake stocks fuel major losses https://share.google/76RGTfIVyO9P2Uk38 scam used fake ads, impersonated public figures and exploited Meta’s ad tools to build trust, inflate a real NASDAQ stockb and crash it in a coordinated digital fraud campaign
+- NVIDIA cuQuantum Adds Dynamic Gradients, DMRG, and Simulation Speedup https://developer.nvidia.com/blog/nvidia-cuquantum-adds-dynamic-gradients-dmrg-and-simulation-speedup/
+- BIG-IP for Kubernetes (BINK) powered by BlueField-3 DPUs to address major Kubernetes networking and security challenges for AI clouds https://developer.nvidia.com/blog/turbocharging-ai-factories-with-dpu-accelerated-service-proxy-for-kubernetes/
+- Decart pledges millions to Technion in strategic AI push https://calcalistech.com/ctechnews/article/sjca2dfrll
+- LLM Inference Benchmarking: Performance Tuning with TensorRT-LLM https://developer.nvidia.com/blog/llm-inference-benchmarking-performance-tuning-with-tensorrt-llm/
+- Engineering Leadership in the GenAI era https://oreilly.com/radar/the-future-of-engineering-leadership/
+- Humans live at 10 bits per second. The brain takes in ~11 million bits per second of sensory data, yet the inner conscious workspace is massively compressed. Most people speak at ~40 b/s. How can we speak faster than we can think? It's all about error correction: https://x.com/lauriewired/status/1942348441537110490
+- Temporal Graphs and Dynamic Networks | Nature Research Intelligence https://share.google/VJxqDRrZlLdqqPgro
+- TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting https://share.google/YtGbxb1NH5i0Vzcml
+- Integral linearity - Wikipedia https://share.google/w2VwhkMnEMEzXGOSG
+- Riemann-integrable vs Lebesgue-integrable - Mathematics Stack Exchange https://share.google/Ux4FMOOMwJyZj4xa0
+- Neighborhood Analysis, KD-Trees, and Octrees for Meshes and Point Clouds in Python https://medium.com/data-science/neighborhood-analysis-kd-trees-and-octrees-for-meshes-and-point-clouds-in-python-19fa96527b77
+- Adaptive RANSAC and extended region-growing algorithm for object recognition https://share.google/gTFcPd23gNzvP8T8a
+- LLM visualization tool https://bbycroft.net/llm?s=09
+- W3C First Public Working Draft of CSS Positioned Layout Module Level 4
+  - CSS coordinate-based positioning and offsetting schemes: relative / sticky / absolute / fixed positioning
+  - painting/rendering model of CSS https://w3.org/news/2025/first-public-working-draft-css-positioned-layout-module-level-4/
+- A new Rust Book: design patterns for context-generic programming (CGP) - programming paradigm for Rust that allows strongly-typed components to be implemented and composed in a modular, generic, and type-safe way https://patterns.contextgeneric.dev
+- Massive Study Detects AI Fingerprints In Millions of Scientific Papers https://science.slashdot.org/story/25/07/07/231226/massive-study-detects-ai-fingerprints-in-millions-of-scientific-papers?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Rust # [derive(Clone)] Is Broken https://rgbcu.be/blog/derive-broken/
+- SIMD.info – Reference tool for C intrinsics of all major SIMD engines https://simd.info
+- Introducing Docker Hub MCP Server: A New Way to Discover, Inspect, and Manage Container Images https://docker.com/blog/introducing-docker-hub-mcp-server/
+- Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly https://fidget-spinner.github.io/posts/jit-reflections.html
+- 10 NumPy One-Liners to Simplify Feature Engineering https://machinelearningmastery.com/10-numpy-one-liners-to-simplify-feature-engineering/
+- cuTile reveal at Scipy 2025 https://cfp.scipy.org/scipy2025/talk/PBLESZ/
+- Google Cloud Vertex AI Agent Engine Memory Bank https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview/
+- Despite medical advances, life expectancy gains are slowing - https://today.uic.edu/despite-medical-advances-life-expectancy-gains-are-slowing/
+- IQ correlates with total brain volume, glucose metabolic rate and reaction time, so it has a strong biological basis. https://x.com/Hitchslap1/status/1942562665114788015
+- React Still Feels Insane And No One Is Talking About It https://mbrizic.com/blog/react-is-insane/
+
 # 07/07/2025 twitter links
 - Centaur: a foundation model to capture and predict human cognition https://nature.com/articles/s41586-025-09215-4 trained on Psych-101 dataset from 160 previously published psychology experiments, covering more than 60,000 participants who made more than 10 million choices in total
 - Why LLMs ahould not replace therapists https://arxiv.org/abs/2504.18412 LLMs 1) express stigma toward those with mental health conditions and 2) respond inappropriately to certain common (and critical) conditions e.g., encourage clients' delusional thinking, likely due to their sycophancy
