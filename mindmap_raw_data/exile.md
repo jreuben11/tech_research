@@ -1,5 +1,32 @@
-
-
+# 17-07-2025 twitter links
+- Caffeine May Slow Cellular Aging by Activating a Protective Stress Response | The Epoch Times https://share.google/n6L4fJvDzSJO1F1gr
+- MIT study maps the roadblocks to autonomous software engineering https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716
+- MCP Server for Amazon MSK https://aws.amazon.com/about-aws/whats-new/2025/07/mcp-server-amazon-msk
+- Claude Code User Base Grows as Anthropic Launches Enterprise Analytics Dashboard https://thenewstack.io/claude-code-user-base-grows-300-as-anthropic-launches-enterprise-analytics-dashboard/
+- Amazon Redshift announces support for cascading refresh of nested materialized views https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-redshift-cascading-refresh-nested-materialized-views/
+- Why Hosted Apache Kafka Leaves You Holding the Bag https://confluent.io/blog/hosted-apache-kafka-vs-fully-managed/
+- Yann LeCun on architectures that could lead to AGI https://x.com/rohanpaul_ai/status/1945167783865532641
+    - Abandon generative models in favor joint-embedding architectures
+    - Abandon probabilistic model in favor of energy-based models
+    - Abandon contrastive methods in favor of regularized methods
+    - Abandon Reinforcement Learning in favor of model-predictive control
+    - Use RL only when planning doesn’t yield the predicted outcome, to adjust the world model or the critic.
+- Securing Kubernetes 1.33 Pods: The Impact of User Namespace Isolation https://cncf.io/blog/2025/07/16/securing-kubernetes-1-33-pods-the-impact-of-user-namespace-isolation/
+- Coding agent in VS Code https://youtube.com/shorts/mVuzgpqHvzA ms has an army of devs that will rapidly cherrypick from the petri dish of its IDE forks
+- AWS Knowledge MCP Server enables agents to context-ground in AWS docs for guidance and best practices https://aws.amazon.com/about-aws/whats-new/2025/07/aws-knowledge-mcp-server-available-preview
+- MIT CodeSteer https://news.mit.edu/2025/smart-coach-helps-llms-switch-between-text-and-code-0717 guides an LLM to switch between code and text generation until it correctly answers a query. smaller LLM reviews a larger LLM's current & previous outputs, and generates prompts to iteratively steer it
+- A bionic knee integrated into tissue can restore natural movement https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710
+- MCP Dev Summit  https://infoq.com/news/2025/07/mcp-summit-ai-future/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- WebGPU Lands in Firefox 141 on Windows, Eyes Linux and macOS Next https://linuxiac.com/webgpu-lands-in-firefox-141-on-windows-eyes-linux-and-macos-next/
+- Mapping Israel’s $20B GenAI boom: 342 startups and counting https://calcalistech.com/ctechnews/article/s1yl6mlulx
+- Cancer Death Rates Fall One-Third in US Since 1990s as Prevention Efforts Take Hold https://science.slashdot.org/story/25/07/17/1455213/cancer-death-rates-fall-one-third-in-us-since-1990s-as-prevention-efforts-take-hold?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- Evaluating AI Agents on Predicting Future Events https://huggingface.co/blog/futurebench
+- Google Continues Working On "Magma" For Mesa Cross-Platform System Call Interface https://phoronix.com/news/Mesa-Magma-Cross-Platform
+- Broadcom Tries To Kill InfiniBand And NVSwitch With One Ethernet Stone https://nextplatform.com/2025/07/17/broadcom-tries-to-kill-infiniband-and-nvswitch-with-one-ethernet-stone/
+- Five Big Improvements to Gradio MCP Servers https://huggingface.co/blog/gradio-mcp-updates
+- Rapid AWS Prototyping With LocalStack: A Developer’s Guide to Building AWS PoCs Locally https://dzone.com/articles/build-serverless-poc-using-localstack
+- How the brain wakes up from sleep — and produces that morning feeling https://nature.com/articles/d41586-025-02225-2 certain patterns of brain activity during awakening correlate with a lower likelihood of the bleary-eyed state called ‘sleep inertia
+- How Rust’s Debut in the Linux Kernel is Shoring Up System Stability https://linuxjournal.com/content/how-rusts-debut-linux-kernel-shoring-system-stability
 
 
 # 15-07-2025
