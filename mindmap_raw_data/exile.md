@@ -1,3 +1,16 @@
+# 22-07-2025 twitter links
+- AI-Designed Drugs Can Now Target Previously ‘Undruggable’ Proteins in Cancer and Alzheimer’s https://singularityhub.com/2025/07/21/ai-designed-drugs-can-now-target-previously-undruggable-proteins-in-cancer-and-alzheimers/
+- MCP Jetpack – The easiest way to get started with MCP in Cursor https://mcpjetpack.com
+- Nvidia extends CUDA support to RISC-V just in time for next wave of Chinese CPUs https://go.theregister.com/feed/www.theregister.com/2025/07/21/nvidia_cuda_riscv/
+- Work-Life Balance Slows Careers (E9 Engineer, ex-Meta). Working harder DOES get you there faster — at a cost. https://pathtostaff.com/p/work-life-balance-slows-careers-e9
+- Palo Alto Networks mulls buying Israeli co SentinelOne https://en.globes.co.il/en/article-1001516657#utm_source=RSS
+- Peak Population: When It’ll Hit the World’s 40 Largest Countries https://visualcapitalist.com/peak-population-40-largest-countries/
+- Jqfmt formatter for jq https://github.com/noperator/jqfmt
+- Bare-Metal Kubernetes: The Performance Advantage Is Almost Gone https://thenewstack.io/bare-metal-kubernetes-the-performance-advantage-is-almost-gone/
+- DeepModeling https://share.google/nrKaNM6SNd2TqwITK using neural nets to approximate electron density functionals ?
+- 5.2 Kohn-Sham Density Functional Theory‣ Chapter 5 Density Functional Theory ‣ Q-Chem 5.2 User’s Manual https://share.google/YTOrsNBBYWXfU7At6
+- MuonClip: Fixing Attention Score Explosions in Transformer Training https://fireworks.ai/blog/muonclip
+
 # 21-07-2025 twitter links
 - The Godot Shaders Bible https://jettelly.com/store/the-godot-shaders-bible
 - I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks https://itsfoss.com/kitty-customization/
