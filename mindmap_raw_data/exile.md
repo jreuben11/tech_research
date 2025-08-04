@@ -1,3 +1,30 @@
+
+# 18-07-2025 
+- AWS Lambda announces low latency processing for Kafka events https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-low-latency-processing-kafka-events
+- Ranked: The Most Important Job Skills in 2025 https://visualcapitalist.com/ranked-the-most-important-job-skills-in-2025/
+- Anthropic tightens usage limits for Claude Code – without telling users https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/ via @techcrunch
+- Robinhood CEO Says Majority of Company's New Code Written by AI https://developers.slashdot.org/story/25/07/17/1918220/robinhood-ceo-says-majority-of-companys-new-code-written-by-ai?utm_source=feedly1.0mainlinkanon&utm_medium=feed
+- My experience with Claude Code after two weeks of adventures https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
+- Decart launches real-time AI tool for live video transformation https://calcalistech.com/ctechnews/article/bjakbtuiee
+- Chrome's SSL Bypass Cheatcode https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode
+- Molecule produced by gut bacteria causes atherosclerosis https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html
+- A Hands-on Guide to Agent Communication Protocol https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication nothing mind-blowing
+- /Zhangwenyao1/ DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge https://paperswithcode.com/paper/dreamvla-a-vision-language-action-model
+- NVIDIA NeMo Agent Toolkit https://developer.nvidia.com/blog/hackathon-winners-bring-agentic-ai-to-life-with-the-nvidia-nemo-agent-toolkit/
+- Too many agent SDKs - they all do the same thing. Not finding a compelling reason to switch from LangGraph
+- Universal MIG with NVIDIA Virtual GPU https://youtube.com/watch?v=9Epzi8c_C9I
+- New FFmpeg AVX-512 Optimizations Hit Up To 36x The Performance Of Plain C Code https://phoronix.com/news/FFmpeg-July-2025-AVX-512
+- Command GitHub's Coding Agent from VS Code https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent
+- Grep a million GitHub repositories via MCP https://vercel.com/blog/grep-a-million-github-repositories-via-mcp
+- Oxford Chemistry Primers - Oxford University Press https://share.google/nWRQ1NKA5iemD4Eh2
+- Block (periodic table) - Wikipedia https://share.google/vtimQ0o1xLCvDrWZG Each block is named after its characteristic orbital: s-block, p-block, d-block, f-block and g-block.
+- Calculus of variations - Wikipedia https://share.google/U9k75R7PxDEJY8KGg  uses variations (small changes in functions and functionals) to find maxima and minima of functionals (definite integral mappings from a set of functions to real numbers)
+- Protein-Ligand Docking - an overview | ScienceDirect Topics https://share.google/DgpX0J0XykzQUi6E3
+- Protein Misfolding is Pervasive in the Aging Brain https://fightaging.org/archives/2025/07/protein-misfolding-is-pervasive-in-the-aging-brain/
+- Intel and Weizmann researchers unveil breakthrough to make AI models run faster https://calcalistech.com/ctechnews/article/h1z7pydlex New speculative decoding technique promises up to 2.8x faster language model performance.
+- Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking https://securityweek.com/critical-nvidia-toolkit-flaw-exposes-ai-cloud-services-to-hacking/ Wiz researchers discovered NVIDIAScape, an Nvidia Container Toolkit flaw that can be exploited for full control of the host machine.
+- Wine, Women, and Wisdom: The Symposia of Ancient Greece https://nationalgeographic.com/history/history-magazine/article/ancient-greece-symposium-dinner-party via  @NatGeo
+
 # 17-07-2025 twitter links
 - Caffeine May Slow Cellular Aging by Activating a Protective Stress Response | The Epoch Times https://share.google/n6L4fJvDzSJO1F1gr
 - MIT study maps the roadblocks to autonomous software engineering https://news.mit.edu/2025/can-ai-really-code-study-maps-roadblocks-to-autonomous-software-engineering-0716
