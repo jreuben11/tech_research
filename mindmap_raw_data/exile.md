@@ -1,3 +1,20 @@
+# 20-07-2025 twitter links 
+- 'Universal cancer vaccine' trains the immune system to kill any tumor - we have been hearing this promise for decades. This promising research is still in pre-clinical trials  https://newatlas.com/cancer/universal-cancer-vaccine/
+- YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception https://sh-tsang.medium.com/brief-review-yolov13-real-time-object-detection-with-hypergraph-enhanced-adaptive-visual-a93200963687?source=rss-aff72a0c1243------2
+- Experiential Chain of Thought (E-CoT): A Framework for Self-Improving Reasoning via Segmented Experience Memory https://pub.towardsai.net/experiential-chain-of-thought-e-cot-a-framework-for-self-improving-reasoning-via-segmented-f83e5014eb85
+- Basis set (quantum chemistry) - Wikipedia https://share.google/usv5yXIGThtnBSJOp use gaussians to aproximate slater functions to aproximate a wave function
+- The Tragedy of Reinforcement Learning https://x.com/jsuarez5341/status/1946622588891107565
+- biological trigger for sleep: stress inside mitochondria (the energy producing structures within brain cells). when mitochondria in specialized sleep regulating neurons become overloaded, they leak electrons, producing reactive oxygen species that can damage cells. This leakage acts as a signal to initiate sleep, allowing the brain to reset before damage accumulates. https://x.com/Dr_Singularity/status/1946700707945746938
+- Qodo Merge automates code reviews based on specific guidelines—such as adding extra instructions to code suggestions, customizing labels, and defining best practices.https://x.com/QodoAI/status/1944664044432159004
+- Basis Set Exchange (BSE) https://share.google/RpHrtCjovDEp08SwH Theres a python lib for that !  https://share.google/9wLwzxiBo0hWJi23e
+- SFrame Support Beginning To Materialize For LLVM/Clang - SFrame is the lightweight stack trace format that can overcome some of the performance obstacles for tracing ELF files compared to frame pointers https://phoronix.com/news/SFrame-LLVM-Coming-Together
+- Pulumi Enables Direct Consumption of Terraform Modules https://infoq.com/news/2025/07/pulumi-terraform-module-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+- MCP server for Blender that builds 3D scenes via natural language https://blender-mcp-psi.vercel.app
+- PEP 798: Unpacking in Comprehensions https://peps.python.org/pep-0798/
+- NVIDIA Bringing CUDA To RISC-V https://phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V
+- "Generate in Parts"   http://app.scenario.com/ :fire:
+- Kevin: Multi-Turn RL for Generating CUDA Kernels https://hgpu.org/?p=30055
+- Using Deep Reinforcement Learning for Automatic Code Optimization in the MLIR Compiler https://hgpu.org/?p=30054
 
 # 18-07-2025 
 - AWS Lambda announces low latency processing for Kafka events https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-low-latency-processing-kafka-events
