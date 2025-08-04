@@ -1,3 +1,18 @@
+# 21-07-2025 twitter links
+- The Godot Shaders Bible https://jettelly.com/store/the-godot-shaders-bible
+- I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks https://itsfoss.com/kitty-customization/
+- mkcert: Make Locally-Trusted Development Certificates on Linux https://tecmint.com/mkcert-create-ssl-certs-for-local-development/
+- finite element method (FEM) vs finite difference method (FDM) vs finite volume method (FVM) https://machinedesign.com/additive-3d-printing/fea-and-simulation/article/21832072/whats-the-difference-between-fem-fdm-and-fvm
+- What techniques and tools can convert 3D meshes into a NURBS patches with control points ? Describe challenges, latest research, algorithms, deep learning models, and tools https://github.com/copilot/c/bccf2bee-aa85-4e1b-81cb-58975085778b
+- SceneScript: an AI model and method to understand and describe 3D spaces https://projectaria.com/scenescript/
+- Morphology-adaptive locomotion https://github.com/juniorrojas/morphology-adaptive
+- SuperClaude: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. http://superclaude-org.github.io/SuperClaude
+- Democratizing AI Model Training on Kubernetes: Introducing Kubeflow Trainer V2 https://blog.kubeflow.org/trainer/intro/
+- Cloud Architect in 2025 https://youtube.com/shorts/6aLNarwotwQ lol !
+- /cmriat/ L0: Reinforcement Learning to Become General Agents https://paperswithcode.com/paper/l0-reinforcement-learning-to-become-general-1
+- XSLT: A Precision Tool for the Future of Structured Transformation https://xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/
+- Around 8% Of Debian Source Packages Are Building Against Rust Libraries https://phoronix.com/news/Rust-Debian-2025
+
 # 20-07-2025 twitter links 
 - 'Universal cancer vaccine' trains the immune system to kill any tumor - we have been hearing this promise for decades. This promising research is still in pre-clinical trials  https://newatlas.com/cancer/universal-cancer-vaccine/
 - YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception https://sh-tsang.medium.com/brief-review-yolov13-real-time-object-detection-with-hypergraph-enhanced-adaptive-visual-a93200963687?source=rss-aff72a0c1243------2
