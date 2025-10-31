@@ -260,3 +260,17 @@ WebDev HTML has changed: https://developer.mozilla.org/en-US/docs/Web/HTML/Refer
 -  learning center https://learn-code.wix.com/en/ 
   
 
+
+## Additional Resources from Remote
+-  Chrome DevTools https://developer.chrome.com/docs/devtools/ 
+-  Create T3 App https://create.t3.gg/en/introduction 
+-  CSSModules
+-  Electron
+-  Gatsby https://www.gatsbyjs.org/docs/ 
+-  https://medium.com/@polite_feldgrau_woodchuck_70/why-is-everyone-using-prisma-zod-and-trpc-in-next-js-bfac913efcc8 
+-  Prisma https://www.prisma.io/docs/ ORM
+-  ReactFlow https://reactflow.dev/docs/quickstart/   react lib for dataflow designer UIs
+-  Rome (not baked yet)
+-  - storybook https://storybook.js.org/docs 
+-  Tanstack https://tanstack.com/ 
+-  TRPC https://trpc.io/ e2e typesafe APIs 

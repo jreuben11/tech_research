@@ -442,3 +442,57 @@
 -  Book: Intelligent Mobile projects with TF (400 pages)
 -  TensorFlow RL (110 pages) – Dopamine, TF-Agents, Deepmind TRFL, TensorForce, OpenAI Baselines, Keras-RL - **33%**
 -  TensorFlow DeepMind Sonnet (180 pages)
+## Additional Resources from Remote
+-  - Advanced Statistical Computing https://bookdown.org/rdpeng/advstatcomp/ 
+-  also https://pythonbiellagroup.it/it/ 
+-  Apache Jena (semantic web) https://jena.apache.org/       
+-  Book: Graph Neural Nets in Action (125 pages)
+-  Book: Python Geometric Deep Learning https://geometricdeeplearning.com/book/ 
+-  - Cloud Functions API ref https://docs.api.nvidia.com/cloud-functions/reference (curl / python / node)
+-  ComfyUI https://docs.comfy.org/essentials/custom_node_walkthrough   stable diffusion GUI and backend 
+-  - Data Science at the Command Line https://jeroenjanssens.com/dsatcl/  
+-  Diffusion
+-  Dspy (25 pages) https://dspy-docs.vercel.app/docs/intro 
+-  - foundation model API ref https://docs.api.nvidia.com/nim/reference/
+-  - Fundamentals of Data Visualization https://clauswilke.com/dataviz/ 
+-  GPT Index (Llama) (190 pages) https://gpt-index.readthedocs.io/en/latest/ 
+-  GraphBLAS
+-  High dimensional probability course + book https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html 
+-  https://comfyanonymous.github.io/ComfyUI_examples/ 
+-  https://github.com/stanfordnlp/dspy
+-  https://packaging.python.org/en/latest/ 
+-  https://pcl.readthedocs.io/projects/tutorials/en/master/ 
+-  https://realpython.com/tutorials/advanced/
+-  https://www.louisbouchard.ai/ 
+-  huggingface blogs
+-  HuggingFace Docs
+-  Hypermodern python cookie-cutter  
+-  Jupyter-AI https://jupyter-ai.readthedocs.io/en/latest/
+-  mcpyrate https://github.com/Technologicat/mcpyrate/blob/master/doc/main.md 
+-  Microsoft DeepSpeed (130 pages) https://www.deepspeed.ai/tutorials/ - LLM training
+-  - more-itertools https://more-itertools.readthedocs.io/en/stable/ 
+-  Neo4j GraphRAG https://neo4j.com/docs/neo4j-graphrag-python/current/index.html
+-  - Pipe https://github.com/JulienPalard/Pipe 
+-  Program Synthesis
+-  - PyFunctional https://pyfunctional.pedro.ai 
+-  Pyodine python wasm (70 pages)                            https://pyodide.org/en/stable/
+-  Pyomo https://pyomo.readthedocs.io/en/stable/ python optimization package
+-  PyPy https://doc.pypy.org/en/latest/introduction.html 
+-  Python ASTs (22 pages)
+-  Python einops https://einops.rocks/ - tensor ops
+-  Python FP returns https://returns.readthedocs.io/en/latest/
+-  Python HuggingFace SafeTensors
+-  Python Inverse RL reward learning https://imitation.readthedocs.io/en/latest/index.html 
+-  Python ipyparallel
+-  Python Manim https://docs.manim.community/ 
+-  Python MinGrammer https://diagrams.mingrammer.com/docs 
+-  Python mingrammer https://diagrams.mingrammer.com/docs/getting-started/examples diagrams as code
+-  Python ND Pyomo Cookbook https://jckantor.github.io/ND-Pyomo-Cookbook/README.html
+-  Python Nvidia NIM
+-  Python OwlReady2 https://owlready2.readthedocs.io/ 
+-  Python Unsloth SFT https://docs.unsloth.ai/ 
+-  - Returns https://returns.readthedocs.io/en/latest/
+-  RPython https://rpython.readthedocs.io/en/latest/index.html 
+-  SystemML https://apache.github.io/incubator-systemml/algorithms-reference.html 
+-  Tensorly http://tensorly.org/stable/index.html  Deep Tensorized Neural Networks 
+-  - textgen https://github.com/oobabooga/text-generation-webui 

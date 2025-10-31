@@ -375,3 +375,19 @@
 - Rust Kotlin FFI https://mozilla.github.io/uniffi-rs/latest/ 
 - Rust bezier-rs https://keavon.github.io/Bezier-rs/ nice!
 
+
+## Additional Resources from Remote
+-  Async with too many web servers https://ibraheem.ca/posts/too-many-web-servers/ 
+-  Embassy https://embassy.dev/book/dev/index.html 
+-  https://component-model.bytecodealliance.org/
+-  https://docs.wasmtime.dev/ 
+-  https://github.com/bytecodealliance/wasi-virt 
+-  https://github.com/bytecodealliance/wasm-tools 
+-  https://github.com/bytecodealliance/wit-deps 
+-  https://github.com/fede1024/rust-rdkafka/tree/master 
+-  https://github.com/Jet-Engine/callysto 
+-  https://github.com/TimelyDataflow/timely-dataflow 
+-  https://wasmcloud.com/docs/intro 
+-  HuggingFace Candle https://github.com/huggingface/candle   
+-  HuggingFace Candle https://huggingface.github.io/candle/index.html 
+-  Rust Serde (50 pages)                                                         https://serde.rs/ 

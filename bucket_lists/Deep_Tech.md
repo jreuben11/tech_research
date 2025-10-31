@@ -422,3 +422,6 @@
 -  http://msdn.microsoft.com/library/ms680573(VS.85).aspx 
 -  CLR Unmanaged API reference - http://msdn.microsoft.com/en-us/library/ch59zxfc.aspx
 -  Book: GDB (60 pages)
+
+## Additional Resources from Remote
+-  C++ UB 11 part blog series  https://pvs-studio.com/en/blog/posts/cpp/ 
