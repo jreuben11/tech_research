@@ -106,3 +106,29 @@
 -  Nvidia-Ingest: Multi-modal data extraction https://github.com/NVIDIA/nv-ingest 
 -  Kvpress https://github.com/NVIDIA/kvpress for attention
 -  Nvidia Shader lib http://developer.download.nvidia.com/shaderlibrary/webpages/shader_library.html 
+-  
+- Nvidia Nemo-Skills https://nvidia.github.io/NeMo-Skills/ 
+- NVidia RAPIDS KvikIO High Performance File IO https://docs.rapids.ai/api/kvikio/stable/  C++ / Python cuFile bindings
+- NVIDIA nvCOMP lib https://docs.nvidia.com/cuda/nvcomp/index.html
+- NVidia GDS cuFile API https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html 
+- Zarr-Python Quickstart: https://zarr.readthedocs.io   
+- NVIDIA Cloud Native Stack https://github.com/NVIDIA/cloud-native-stack 
+- NVIDIA RTX Kit https://developer.nvidia.com/rtx-kit/?sortBy=developer_learning_library%2Fsort%2Ftitle%3Aasc#section-learning-library 
+- NVIDIA Dynamo  https://github.com/ai-dynamo/dynamo 
+- https://docs.nvidia.com/dynamo/latest/index.html 
+- https://github.com/ai-dynamo/dynamo/blob/main/docs/architecture.md 
+- NVIDIA WARP https://nvidia.github.io/warp/ 
+- NVDIA NVFlare https://nvflare.readthedocs.io/en/main/index.html 
+- Nvidia CCCL https://nvidia.github.io/cccl/python/ 
+- Nvidia NIM foundation model API ref https://docs.api.nvidia.com/nim/reference/
+- Cloud Functions API ref https://docs.api.nvidia.com/cloud-functions/reference (curl / python / node)
+- Nvidia Tilus https://nvidia.github.io/tilus/index.html
+- CUDA PTX https://philipfabianek.com/posts/cuda-ptx-introduction/
+- Nvidia Training Labs https://www.nvidia.com/en-us/on-demand/playlist/playList-108242b0-35ac-4765-9796-d6961cb026c4/?nvid=nv-int-tblg-244656#new_tab 
+- Nvidia ResearchLabs https://github.com/NVlabs
+-  NVIDIA cuPQC https://docs.nvidia.com/cuda/cupqc/index.html   
+- NVIDIA Brev https://docs.nvidia.com/brev/latest/getting-started.html  cloud GPU development platform
+- Nvidia NVMath-Python https://docs.nvidia.com/cuda/nvmath-python/latest/index.html 
+- Triton Lang https://triton-lang.org/main/getting-started/tutorials/index.html + Gluon https://github.com/triton-lang/triton/tree/main/python/tutorials/gluon 
+- 
+

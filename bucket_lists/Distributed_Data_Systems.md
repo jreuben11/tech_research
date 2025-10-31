@@ -1,5 +1,16 @@
 # Back End
 
+- Book: PostgreSQL 17 (300 pages)
+- Book: PostgreSQL query tuning (200 pages)
+- PgDog https://docs.pgdog.dev/  a sharder, connection pooler and load balancer for PostgreSQL
+- psycoppg https://www.psycopg.org/psycopg3/docs/ 
+- Redis academy https://university.redis.io/academy 
+- Kafka Academy https://developer.confluent.io/courses/ 
+- Konductor Kafka Academy https://learn.conduktor.io/kafka/kafka-advanced-concepts/ 
+- Neo4j GenAI Ecosystem	https://neo4j.com/labs/genai-ecosystem/ 
+- Neo4j GDS https://neo4j.com/docs/graph-data-science/current/introduction/ 
+
+
 ## data engineering
 -  BufStream https://buf.build/docs/ - Kafka alternative
 -  data-engineer-handbook https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook 

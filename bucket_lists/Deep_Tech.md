@@ -15,6 +15,8 @@
 -  - StableHLO spec https://github.com/openxla/stablehlo/blob/main/docs/spec.md…
 -  - OpenAI Triton DSL https://triton-lang.org/main/programming-guide/chapter-1/introduction.html…
 -  - NVIDIA GPU Compiler + Runtime https://github.com/openxla/openxla-nvgpuz
+-  C++ compiler 5 part blog series https://fabiensanglard.net/dc/ 
+
 
 ## Build Tools
 -  Revise Make + AutoTools (250 pages)
@@ -61,7 +63,19 @@
 - Khronos Anari https://registry.khronos.org/ANARI/specs/1.0/ANARI-1.0.html 3D render engine
 -  C++ Ray Tracing in One Weekend Book Series https://github.com/RayTracing/raytracing.github.io 
 -  The book of shaders https://thebookofshaders.com/ - INCOMPLETE !
+-  C RayLib
+-  
+-  Vulkan https://vulkan-tutorial.com/Introduction 
+-  Vulkan Guide -  https://github.com/KhronosGroup/Vulkan-Guide 
+-  Vulkan LunarG docs - https://vulkan.lunarg.com/doc/sdk/1.3.290.0/windows/layer_configuration.html 
 
+
+## microsoft
+- C++/WinRT https://learn.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/ 
+- COM https://learn.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal 
+- COM+ https://learn.microsoft.com/en-us/windows/win32/cossdk/component-services-portal 
+- DLLs https://learn.microsoft.com/en-us/windows/win32/dlls/dynamic-link-libraries 
+- MS C++ https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170 
 
 ## code analysis
 -  Logical Verification book https://browncs1951x.github.io/static/files/hitchhikersguide.pdf 
@@ -75,13 +89,11 @@
 -  Linux: The Wayland Book https://wayland-book.com 
 -  Gallium https://nir.readthedocs.io FOSS GPU driver
 -  Linux Kernel GPU Drivers dev guide: DRM Internals https://kernel.org/doc/html/latest/gpu/introduction.html 
--  Vulkan https://vulkan-tutorial.com/Introduction 
+
 -  Spacedrive https://www.spacedrive.com/docs/product/getting-started/introduction file manager
 -  Linux Image-magick https://imagemagick.org/script/command-line-tools.php
 -  Linux Bpfman https://bpfman.io/main/ 
 -  Libc – the GNU C library   https://sourceware.org/glibc/manual/html_mono/libc.html 
--  Vulkan Guide -  https://github.com/KhronosGroup/Vulkan-Guide 
--  Vulkan LunarG docs - https://vulkan.lunarg.com/doc/sdk/1.3.290.0/windows/layer_configuration.html 
 -  https://github.com/g-truc/glm/blob/master/manual.md 
 -  Linux Mesa3D https://docs.mesa3d.org/index.html
 -  Nixos https://nix.dev/tutorials/first-steps/
@@ -96,6 +108,7 @@
 -  Book: Vim book
 -  Victor Eijkhout's Art of HPC books https://github.com/VictorEijkhout/TheArtofHPC_pdfs/tree/main 
 -  Open3d https://www.open3d.org/docs/release/ 
+-  varlink https://varlink.org/  - d-bus replacement. vali, a C library for Varlink https://emersion.fr/blog/2025/announcing-vali/   
 
 ## Hyprland
 -  https://www.youtube.com/playlist?list=PLZhEtW7iLbnB0Qa0kp9ICLViOp6ty4Rkk  – hyprlnd, pywal, waybar, swww, thunar, rofi, waylock https://gitlab.com/stephan-raabe 
@@ -110,12 +123,7 @@
 -  https://wiki.hyprland.org/Getting-Started/Master-Tutorial/ 
 -  Advanced Hyprland installation. CONFIGURATION with waybar, pywal, swww, thunar https://youtu.be/EujO_5KvCCo?si=HeOo757jFikHCRqi 
 -  https://www.youtube.com/watch?v=SVh4osULjP4&ab_channel=DanielLaera 
--  https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0 
--  https://dev.to/therubberduckiee/how-to-configure-starship-to-look-exactly-like-p10k-zsh-warp-h9h 
--  https://www.youtube.com/@BrodieRobertson 
--  Htop explained  https://peteris.rocks/blog/htop/#htop-on-ubuntu-server-16-04-x64 
--  pure bash bible https://github.com/dylanaraps/pure-bash-bible?tab=readme-ov-file 
--  full bash guide https://mywiki.wooledge.org/FullBashGuide 
+
 -  
 ## Android / Embedded
 -  Android Embedded https://source.android.com/docs/setup 
@@ -130,10 +138,14 @@
 -  Lazygit https://github.com/jesseduffield/lazygit
 -  Zsh Shell Tricks https://itnext.io/the-zsh-shell-tricks-i-wish-id-known-earlier-ae99e91c53c2 
 -  https://zsh-manual.netlify.app/the-z-shell-manual
--  
+-  https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0 
+-  https://dev.to/therubberduckiee/how-to-configure-starship-to-look-exactly-like-p10k-zsh-warp-h9h 
+-  https://www.youtube.com/@BrodieRobertson 
+-  Htop explained  https://peteris.rocks/blog/htop/#htop-on-ubuntu-server-16-04-x64 
+-  pure bash bible https://github.com/dylanaraps/pure-bash-bible?tab=readme-ov-file 
+-  full bash guide https://mywiki.wooledge.org/FullBashGuide 
 
--  C++ compiler 5 part blog series https://fabiensanglard.net/dc/ 
--  C++ UB 11 part blog series  https://pvs-studio.com/en/blog/posts/cpp/ 
+
 -  Ubuntu 24.04 Tiling https://itsfoss.com/ubuntu-tiling-windows/ 
 -  Opinionated ubuntu setup https://manual.omakub.org/1/read 
 -  Warp https://docs.warp.dev/

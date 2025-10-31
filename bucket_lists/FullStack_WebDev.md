@@ -1,10 +1,94 @@
+- WebDev Tailwind (440 pages)
+- WebDev Convex (280 pages)  https://docs.convex.dev/home
+- WebDev Lightning https://lightningcss.dev/docs.html 
+WebDev PostCSS (30 pages)  https://postcss.org/docs/ 
+WebDev Mutative (25 pages)
+WebDev Zod (35 pages)
+WebDev Axios https://axios-http.com/docs/intro 
+WebDev Vite + Rollup + Nitro + h3 (265 pages)
+WebDev Nitro v3 https://v3.nitro.build/docs 
+WebDev Bun (375 pages) https://bun.com/docs
+WebDev WorkOS https://workos.com/docs/authkit/react/nodejs 
+WebDev Clerk https://clerk.com/docs
+WebDev Elysia https://elysiajs.com/at-glance.html 
+WebDev Hono https://hono.dev/docs/ 
+WebDev HTML has changed: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference 
+
+
+
+
+- WebDev Motion https://motion.dev/docs/react 
+- WebDev T3 Stack (40 pages)
+- WebDev tRPC (135 pages)
+- React useHooks https://usehooks.com/ 
+- WebDev esbuild
+
+- WebDev npm workspaces
+- WebDev Biome https://biomejs.dev/guides/getting-started/ 
+- WebDev Prettier
+- WebDev ESLint
+- WebDev Axios
+- WebDev NestJs https://docs.nestjs.com/ - blech ...
+- WebDev Prisma (645 pages) https://www.prisma.io/docs/getting-started 
+- WebDev Vitest https://vitest.dev/guide/why.html 
+- WebContainers https://webcontainers.io/guides/introduction  
+- WebDev Chart.Js
+- WebDev Leaflet + OpenStreetMap
+- WebDev Tc39 https://github.com/tc39 
+- core-js https://github.com/zloirock/core-js 
+- babel https://babeljs.io/docs/ 
+- WebDev ReactFlow (75 pages) https://reactflow.dev/learn
+- WebDev TsEffect https://effect.website/docs 
+- WebDev EventKit – Typescript Declerative Streaming https://hntrl.github.io/eventkit/guide/what-is-eventkit 
+- WebDev Redux - refresh
+- WebTUI https://webtui.ironclad.sh/ TUI style in browser !
+- Vercel https://vercel.com/docs 
+- Biome https://biomejs.dev/guides/getting-started/ 
+- SWC https://swc.rs/docs/getting-started 
+- CSS modules https://github.com/css-modules/css-modules
+- 
+- Vite PWA Guide https://vite-pwa-org.netlify.app/guide/ 
+- ByteDance RStack
+- Modern.js https://modernjs.dev/guides/get-started/introduction.html 
+- RSPack https://rspack.dev/ 
+- RSBuild https://rsbuild.dev/ 
+- V8 https://v8.dev/docs 
+- https://caniuse.com/ciu/news 
+- WebDev Puppeteer https://pptr.dev/guides/what-is-puppeteer 
+- WebDev Vercel Vinxi https://vinxi.vercel.app/guide/getting-started.html 
+- WebDev Tc39 https://github.com/tc39 
+- core-js https://github.com/zloirock/core-js 
+- babel https://babeljs.io/docs/ 
+- WebDev ReactFlow (75 pages) https://reactflow.dev/learn
+- WebDev TsEffect https://effect.website/docsWebDev 
+- EventKit – Typescript Declerative Streaming https://hntrl.github.io/eventkit/guide/what-is-eventkit 
+- WebDev Redux - refresh
+- WebDev ElectricSQL Postgres sync engine https://electric-sql.com/docs/intro 
+- PGlite https://pglite.dev/docs/about 
+- Datastar https://data-star.dev/guide/getting_started  HTMX alternative with SSE instead of AJAX
+- WebDev Radix UI https://www.radix-ui.com/primitives/docs/overview/introduction 
+
+
+
+# Chrome Docs https://developer.chrome.com/docs
+- extensions https://developer.chrome.com/docs/extensions/develop
+- lighthouse https://developer.chrome.com/docs/lighthouse/overview 
+- AI https://developer.chrome.com/docs/ai
+- capabilities (project Fugu) https://developer.chrome.com/docs/capabilities/status
+- webGPU https://developer.chrome.com/docs/web-platform/webgpu
+- webPlatform https://developer.chrome.com/docs/web-platform 
+- web on android https://developer.chrome.com/docs/android 
+- workbox service workers https://developer.chrome.com/docs/workbox 
+- crux user experience report https://developer.chrome.com/docs/crux 
+
+
+
 # Front End
 
 ## Code Quality
 -  TsEffect https://effect.website/docs/getting-started/introduction/ - effect driven dev
 -  Microsoft TypeSpec https://typespec.io/ - typescript payload validation, emit OpenAPI
 -  Zod https://zod.dev/ TypeScript-first schema validation with static type inference
--  TRPC https://trpc.io/ e2e typesafe APIs 
 -  NativeScript http://docs.nativescript.org/  typescipt platform APIs ?
 -  Typescript-eslint (37 pages)
 -  Babel (TC39 polyfills) https://babeljs.io/docs/en/
@@ -16,19 +100,15 @@
 -  - picard.js https://picard.js.org/guide/ 
 -  - playlist https://www.youtube.com/playlist?list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU 
 -  - Piral https://docs.piral.io/
--  - storybook https://storybook.js.org/docs 
 -  https://microfrontend.dev/ - MEH
 
 ## scafolding 
--  Create T3 App https://create.t3.gg/en/introduction 
--  https://medium.com/@polite_feldgrau_woodchuck_70/why-is-everyone-using-prisma-zod-and-trpc-in-next-js-bfac913efcc8 
--  Tanstack https://tanstack.com/ 
+- zod + trpc https://medium.com/@polite_feldgrau_woodchuck_70/why-is-everyone-using-prisma-zod-and-trpc-in-next-js-bfac913efcc8 
 - Yeoman
 
 
 # React visual tools
 - Puck https://puckeditor.com/docs visual editor for react
--  ReactFlow https://reactflow.dev/docs/quickstart/   react lib for dataflow designer UIs
 -  ChartDB https://chartdb.io/ ER diagrams from DBs
 -  React Spectrum Components https://react-spectrum.adobe.com/react-aria/components.html 
 
@@ -54,7 +134,7 @@
 -  Dynamic ES module loader https://github.com/systemjs/systemjs 
 -  Esbuild (65 pages)
 -  Turbopack https://turbo.build/pack/docs 
--  Rome (not baked yet)
+-  Rome (dead)
 
 ## non-react alternative
 -  SvelteFlow https://svelteflow.dev/
@@ -68,7 +148,6 @@
 -  Foundation responsive frontend framework https://get.foundation/ 
 -  
 ## Styling
--  CSSModules
 -  React-bootstrap (135 pages)
 -  React Styled-Components (45 pages)
 -  Book: Web Components with TypeScript (150 pages)
@@ -107,10 +186,8 @@
 -  
 ## Browser extensions / chrome
 -  MDN Browser Extensions (140 pages) 
--  Chrome DevTools https://developer.chrome.com/docs/devtools/ 
 -  ChromeOS dev https://chromeos.dev/en 
 -  http://www.ghacks.net/2012/09/04/list-of-chrome-urls-and-their-purpose/ chrome URLs
--  Electron
 -  Spidermonkey https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey 
 
 ## Chromium
@@ -156,7 +233,6 @@
 -  MDN DOM + Jquery refresher (125 pages)
 
 ## server-side
--  Prisma https://www.prisma.io/docs/ ORM
 -  WebRTC https://webrtc.github.io/samples/ ,  http://www.webrtc.org/web-apis
 -  http://hapijs.com/  Hapi node framework
 -  http://loopback.io Loopback NodeJs
@@ -173,7 +249,6 @@
 
 ## SSE frameworks
 -  NextJs https://nextjs.org/docs 
--  Gatsby https://www.gatsbyjs.org/docs/ 
 -  ReasonML https://reasonml.github.io/reason-react/docs
 -  Vercel https://vercel.com/docs
 

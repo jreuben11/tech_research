@@ -26,11 +26,11 @@
 -  gray-scott https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/
 -  https://gitlab.in2p3.fr/grasland/grayscott-with-rust 
 -  simd perf https://rust-lang.github.io/packed_simd/perf-guide/introduction.html - incomplete
+-  Book: Rust Atomics and Locks (125 pages)
 
 
 -  Servo Book https://book.servo.org/title-page.html  
 
--  COSMIC Toolkit docs https://pop-os.github.io/libcosmic-book/introduction.html 
 
 ## C++ FFI 
 -  Rust Cxx (40 pages) 
@@ -40,38 +40,39 @@
 -  https://github.com/google/crubit 
 -  Uniffi for react native -  https://jhugman.github.io/uniffi-bindgen-react-native/ 
 -  https://mozilla.github.io/uniffi-rs/next/ 
+-  Rust C++ Interop https://hackmd.io/@rust-lang-team/rJvv36hq1e 
+-  Rust Guide to porting C++ https://github.com/locka99/cpp-to-rust-book
+-  Calling Parallel Rust from C++ https://parallel-rust-cpp.github.io/introduction.html
+-  Zngur: A C++/Rust interop tool https://hkalbasi.github.io/zngur/    
+
+
+## Qt / GTK
+-  CXX-Qt   https://kdab.github.io/cxx-qt/book/ 
+-  Rust GTK https://gtk-rs.org/gtk4-rs/stable/latest/book/ 
+
+
 -  
 ## FFI
 -  Duchess https://duchess-rs.github.io/duchess/  java interop
+-  UniFFI  https://mozilla.github.io/uniffi-rs/latest/  a multi-language bindings  
+-  Book: Py03 Rust for Python (185 pages)
+
 
 ## Distributed computing
 -  arroyo https://doc.arroyo.dev/introduction 
 -  elfo https://actoromicon.rs/ch01-00-introduction.html  
--  Redox OS https://doc.redox-os.org/book/
 -  Ractor  https://slawlor.github.io/ractor/  A pure-Rust actor framework
 - Hydro https://hydro.run/docs/hydro/
+- Async with too many web servers https://ibraheem.ca/posts/too-many-web-servers/ 
+
 -  
 
--  Rust anthology https://brson.github.io/rust-anthology/1/intro.html
--  Rust async Raft https://async-raft.github.io/async-raft/ 
--  Calling Parallel Rust from C++ https://parallel-rust-cpp.github.io/introduction.html
--  MmtK  memory management toolkit  https://docs.mmtk.io/tutorial/prefix.html
--  High-Assurance Rust https://highassurance.rs/ 
--  Secure rust guidelines https://anssi-fr.github.io/rust-guide/ 
--  Create Your Own Programming Language with Rust https://createlang.rs/ 
--  The dyner crate https://dyner.netlify.app/ 
--  Error Handling in Rust https://nrc.github.io/error-docs/ 
--  Rust intuitions https://quinedot.github.io/rust-learning/index.html 
--  Linked lists in rust (220 pages)
--  Book: Rust Concurrency (300 pages)
--  Rust nalgebra https://nalgebra.org/docs/ 
--  rinja https://rinja.readthedocs.io templating engine 
--  Book: Py03 Rust for Python (185 pages)
+
 -  
 ## Kafka + Streaming Engines
--  https://github.com/fede1024/rust-rdkafka/tree/master 
--  https://github.com/Jet-Engine/callysto 
--  https://github.com/TimelyDataflow/timely-dataflow 
+- rdkafka https://github.com/fede1024/rust-rdkafka/tree/master 
+- callysto https://github.com/Jet-Engine/callysto 
+- timely dataflow https://github.com/TimelyDataflow/timely-dataflow 
 -  SWIM https://www.swimos.org/server/rust/developer-guide/ 
 
 ## WASM
@@ -86,14 +87,18 @@
 -  WASM K8s
 -  Rust Golem https://learn.golem.cloud/docs/intro
 -  ByteCodeAlliance
--  https://component-model.bytecodealliance.org/
--  https://docs.wasmtime.dev/ 
--  https://github.com/bytecodealliance/wasm-tools 
--  https://github.com/bytecodealliance/wit-deps 
--  https://github.com/bytecodealliance/wasi-virt 
--  https://wasmcloud.com/docs/intro 
--  
-## systems programming
+   -  https://component-model.bytecodealliance.org/
+   -  https://docs.wasmtime.dev/ 
+   -  https://github.com/bytecodealliance/wasm-tools 
+   -  https://github.com/bytecodealliance/wit-deps 
+   -  https://github.com/bytecodealliance/wasi-virt 
+   -  https://wasmcloud.com/docs/intro 
+   -  
+## systems programming 
+-  Redox OS https://doc.redox-os.org/book/
+-  Blog Series: Writing an OS in Rust https://os.phil-opp.com/
+-  COSMIC Toolkit docs https://pop-os.github.io/libcosmic-book/introduction.html 
+
 -  Operating System development tutorials in Rust on the Raspberry Pi https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials 
 -  
 ## data structures and algorithms
@@ -112,10 +117,16 @@
 ## AI 
 -  Rust Burn https://burn.dev/book 
 -  Luis soaras blog https://medium.com/@luishrsoares 
+-  HuggingFace Candle https://github.com/huggingface/candle     https://huggingface.github.io/candle/index.html 
+
+
 
 ## WebDev backend
 -  Nodejs rust https://napi.rs/docs/introduction/getting-started 
 -  NAPI-RS node plugins https://napi.rs/docs/introduction/getting-started 
+-  
+## WebDev frontend
+
 -  
 ## DBs
 -  pgrx https://github.com/pgcentralfoundation/pgrx?tab=readme-ov-file  PostgreSQL extensions
@@ -125,14 +136,40 @@
 -  REVM https://bluealloy.github.io/revm/  Rust implementation of the Ethereum Virtual Machine
 -  CosmWasm + Sylvia books https://book.cosmwasm.com/ + https://cosmwasm.github.io/sylvia-book/index.html – secure smart contracts in Rust
 -  Fuel blockchain SDK https://rust.fuel.network/ 
+-  Stellar / soroban blockchain https://developers.stellar.org/docs/learn/fundamentals
+
 
 ## mobile
 -  flutter_rust_bridge v2 https://cjycode.com/flutter_rust_bridge/   
 -  Crux https://redbadger.github.io/crux/ cross-platform mobile
 -  
+## popular libs
+-  Rust Serde (50 pages)  https://serde.rs/ 
+-  
+-  Blessed Rust crate recommendations https://blessed.rs/crates 
 
--  Async with too many web servers https://ibraheem.ca/posts/too-many-web-servers/ 
--  Rust Serde (50 pages)                                                         https://serde.rs/ 
+-  
+## cloud
+-  AWS SDK for Rust (300 pages) https://aws.amazon.com/sdk-for-rust/ 
+-  Building AWS Lambda functions with Rust https://docs.aws.amazon.com/lambda/latest/dg/lambda-rust.html 
+-  
+
+
+-  gpui electron alternative https://www.gpui.rs/#examples
+-  Rust anthology https://brson.github.io/rust-anthology/1/intro.html
+-  Rust async Raft https://async-raft.github.io/async-raft/ 
+-  MmtK  memory management toolkit  https://docs.mmtk.io/tutorial/prefix.html
+-  High-Assurance Rust https://highassurance.rs/ 
+-  Secure rust guidelines https://anssi-fr.github.io/rust-guide/ 
+-  Create Your Own Programming Language with Rust https://createlang.rs/ 
+-  The dyner crate https://dyner.netlify.app/ 
+-  Error Handling in Rust https://nrc.github.io/error-docs/ 
+-  Rust intuitions https://quinedot.github.io/rust-learning/index.html 
+-  Linked lists in rust (220 pages)
+-  Book: Rust Concurrency (300 pages)
+-  Rust nalgebra https://nalgebra.org/docs/ 
+-  rinja https://rinja.readthedocs.io templating engine 
+
 -  https://skyzh.github.io/mini-lsm/ Log Structured Merge Tree
 -  Cargo generate https://cargo-generate.github.io/cargo-generate/index.html 
 -  Graphql juniper https://graphql-rust.github.io/juniper/ 
@@ -140,15 +177,10 @@
 -  Rust performance book (20 pages)                    https://nnethercote.github.io/perf-book/title-page.html 
 -  Microsoft OpenVMM https://openvmm.dev/index.html 
 -  Rust WebGPU book (365 pages)
--  Blog Series: Writing an OS in Rust https://os.phil-opp.com/
--  AWS SDK for Rust (300 pages) https://aws.amazon.com/sdk-for-rust/ 
--  Building AWS Lambda functions with Rust https://docs.aws.amazon.com/lambda/latest/dg/lambda-rust.html 
 -  spin https://developer.fermyon.com/spin/v3/ WASM microservice framework
 -  Iggy – QUIC persistent message streaming https://docs.iggy.rs/ 
--  UniFFI  https://mozilla.github.io/uniffi-rs/latest/  a multi-language bindings  
 -  https://lang-team.rust-lang.org/roadmaps/roadmap-2024.html 
--  Embassy https://embassy.dev/book/dev/index.html 
--  Book: Rust Atomics and Locks (125 pages)
+-  Embassy https://embassy.dev/book/dev/index.html async embedded
 -  Rust Functional Programming https://github.com/JasonShin/fp-core.rs/blob/master/README.md 
 -  Rust on Nails https://rust-on-nails.com/ 
 -  faer https://faer-rs.github.io/  rust linear algebra crate 
@@ -158,12 +190,10 @@
 -  https://rust-lang.github.io/async-fundamentals-initiative/index.html 
 -  Writing an interpreter in rust https://rust-hosted-langs.github.io/book/introduction.html 
 -  Zcash https://zebra.zfnd.org/ 
--  Rust GTK https://gtk-rs.org/gtk4-rs/stable/latest/book/ 
 -  Napi-rs https://napi.rs/docs/introduction/getting-started 
 -  https://www.shuttle.rs/blog/tags/all 
 -  24 days of Rust https://zsiciarz.github.io/24daysofrust/index.html 
 -  Verus https://verus-lang.github.io/verus/guide/ 
--  Blessed Rust crate recommendations https://blessed.rs/crates 
 -  DAPR Rust SDK https://github.com/dapr/rust-sdk 
 -  Neo4rs https://docs.rs/neo4rs/latest/neo4rs/ 
 -  🦜️🔗LangChain for Rust https://github.com/Abraxas-365/langchain-rust 
@@ -173,7 +203,6 @@
 -  cargo-nextest https://nexte.st/ 
 -  Memory Thinking for Rust https://leanpub.com/rustmemory 
 -  Criterion microbenchmarking https://bheisler.github.io/criterion.rs/book/index.html 
--  Zngur: A C++/Rust interop tool https://hkalbasi.github.io/zngur/    
 -  Cloudflare Pingora https://github.com/cloudflare/pingora 
 -  Scylla Rust Driver Book https://rust-driver.docs.scylladb.com/stable/ 
 -  Embedded https://doc.rust-lang.org/beta/embedded-book/intro/index.html 
@@ -190,9 +219,7 @@
 -  Prusti https://viperproject.github.io/prusti-dev/user-guide/intro.html verifier
 -  Rust Vulkan https://kylemayes.github.io/vulkanalia/ 
 -  Vulkano https://vulkano.rs/guide/introduction
--  HuggingFace Candle https://github.com/huggingface/candle   
 -  https://guides.neon-bindings.com/  develop Node modules in Rust
--  Stellar / soroban blockchain https://developers.stellar.org/docs/learn/fundamentals
 -  Rust Loco (60 pages) https://loco.rs/docs/getting-started/ rust on rails
 -  Rust Macros (205 pages)
 -  - https://veykril.github.io/tlborm/ 
@@ -226,7 +253,6 @@
 -  Rust in Kernel Development - howto setup https://medium.com/@alessandrozanni.dev/rust-in-kernel-development-1aea34e5c4b0 
 -  RUST-CUDA- back from the dead ?  https://rust-gpu.github.io/ 
 -  knurling sessions https://session20q4.ferrous-systems.com/ embedded
--  HuggingFace Candle https://huggingface.github.io/candle/index.html 
 -  LLM-chain https://docs.llm-chain.xyz/docs/introduction
 -  see also https://github.com/Abraxas-365/langchain-rust 
 -  Rust GATs https://rust-lang.github.io/generic-associated-types-initiative/index.html 
@@ -250,7 +276,6 @@
 -  Actix WebDev https://actix.rs/docs/
 -  Relm GUI https://relm4.org/book/stable/ 
 -  Neo4j Neo4rs https://docs.rs/neo4rs/latest/neo4rs/ 
--  CXX-Qt   https://kdab.github.io/cxx-qt/book/ 
 -  Rust UEFI Book https://rust-osdev.github.io/uefi-rs/index.html 
 -  ROS https://github.com/ros2-rust 
 -  Rust for Linux https://rust-for-linux.com/ 
@@ -315,10 +340,38 @@
 -  cargo-mobile2 https://github.com/tauri-apps/cargo-mobile2  used by Tauri for Rust on Mobile
 -  Awesome rust https://github.com/rust-unofficial/awesome-rust 
 -  Comprehensive Rust course from Android https://google.github.io/comprehensive-rust/ 
--  Rust Guide to porting C++ https://github.com/locka99/cpp-to-rust-book
 -  Rust FFI  - from Qt https://michael-f-bryan.github.io/rust-ffi-guide/
 -  Rust WebDev Learning Roadmap https://github.com/anshulrgoyal/rust-web-developer-roadmap 
 -  Rust by Practice https://practice.rs/why-exercise.html 
 -  Time series https://docs.augu.rs/ 
 -  https://panopticon.re/  Rust dissasembler
 -  Rama proxy framework https://ramaproxy.org/book/why_rama 
+- Rust Tuono https://tuono.dev/ react
+- Rust ecosystem docs https://www.harudagondi.space/blog/rust-documentation-ecosystem-review 
+- Rust Relm4 https://relm4.org/book/stable/introduction.html for GTK
+- Rust Embassy Book https://embassy.dev/book/ for embedded dev
+- Charybdis https://github.com/nodecosmos/charybdis  ORM layer on top of ScyllaDB Rust Driver 
+- RinF: Rust in Flutter https://rinf.cunarist.com/tutorial/  Rust <> Dart FFI
+- Rust DataFusion Comet https://datafusion.apache.org/comet/user-guide/overview.html 
+- Rust Hyperlight https://github.com/hyperlight-dev/hyperlight VM manager
+- Rust Monioi https://github.com/bytedance/monoio/tree/master/docs/en io_uring runtime
+- Rust Facet https://github.com/facet-rs/facet reflection
+- Rust defmt logging book https://defmt.ferrous-systems.com/introduction  
+- Rust Axum book https://axum.code-maven.com/ 
+- rust cross-rs https://github.com/cross-rs/cross/wiki simplified cross-compilation 
+- Rust ArkFlow https://arkflow-rs.com/docs/intro stream processing
+- PL/Rust - write PostgreSQL functions in Rust https://plrust.io/plrust.html 
+- pgrx https://github.com/pgcentralfoundation/pgrx Build Postgres Extensions with Rust! 
+- Rust Crabtime https://docs.rs/crabtime/latest/crabtime/ macros
+- Rust ForkUnion https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/
+- Google Cloud Rust https://cloud.google.com/rust/overview 
+- awesome-embedded-rust: https://github.com/rust-embedded/awesome-embedded-rust    
+- Rust libcosmic book https://pop-os.github.io/libcosmic-book/introduction.html 
+- Rust Hypervisors Book https://tandasat.github.io/Hypervisor-101-in-Rust/
+- Neon-rs Rust Node https://neon-rs.dev/docs/introduction
+- Rust context-generic programming patterns https://patterns.contextgeneric.dev/
+- Rust 2024 Edition changes (30 pages)
+- facet https://facet.rs   Rust reflection
+- Rust Kotlin FFI https://mozilla.github.io/uniffi-rs/latest/ 
+- Rust bezier-rs https://keavon.github.io/Bezier-rs/ nice!
+

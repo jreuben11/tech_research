@@ -1,3 +1,9 @@
+- ArgoCD
+- Pulumi (350 pages)
+- K8s Karpenter (80 pages) https://karpenter.sh/docs/
+- K8s Argo-Rollouts (130 pages) https://argoproj.github.io/argo-rollouts/
+
+
 ## K8s
 -  K8s API ref single page https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.25/
 -  Kubernetes Spec Explorer https://kubespec.dev/ 
