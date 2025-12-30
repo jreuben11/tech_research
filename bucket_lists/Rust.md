@@ -155,6 +155,8 @@
 -  
 
 
+- Crux: Cross-platform app dev https://redbadger.github.io/crux/
+- Crossfire  https://github.com/frostyplanet/crossfire-rs 
 -  gpui electron alternative https://www.gpui.rs/#examples
 -  Rust anthology https://brson.github.io/rust-anthology/1/intro.html
 -  Rust async Raft https://async-raft.github.io/async-raft/ 

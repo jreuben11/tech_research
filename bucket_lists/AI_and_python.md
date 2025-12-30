@@ -225,6 +225,7 @@
 -  Transformers Survey (30 pages)
 -  https://lilianweng.github.io/ ML blog
 -  Bin Yang https://arxiv.org/search/cs?searchtype=author&query=Yang%2C+B 
+-  alchemist notes https://notes.kvfrans.com/index.html 
 
 ## Theory - Machine Learning
 -  ML Systems ebook https://mlsysbook.ai/ - good resource

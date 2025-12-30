@@ -107,7 +107,6 @@
 -  https://www.youtube.com/playlist?list=PLXJ0on0Dau77THnZeQLqK1hV6s2udsaAm 
 -  Book: Vim book
 -  Victor Eijkhout's Art of HPC books https://github.com/VictorEijkhout/TheArtofHPC_pdfs/tree/main 
--  Open3d https://www.open3d.org/docs/release/ 
 -  varlink https://varlink.org/  - d-bus replacement. vali, a C library for Varlink https://emersion.fr/blog/2025/announcing-vali/   
 
 ## Hyprland

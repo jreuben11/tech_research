@@ -6,6 +6,11 @@
 -  Nvidia NGC https://docs.nvidia.com/ngc/ 
 -  Nvidia FasterTransformer https://github.com/NVIDIA/FasterTransformer/tree/main/docs 
 -  GPU Glossary https://modal.com/gpu-glossary  - good resource !
+-  CUDA Binary Utilities https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html
+   - cuobjdump: extract device cubin + host standard ELF file info
+   - nvdisasm: extract more detailed cubin file info
+   - cu++filt: demangles symbols
+   - nvprune: prune host obj /so files to only contain device code for specified targets
 -  GPU for Deep Learning
 -  Nvidia cuTENSOR (70 pages) https://docs.nvidia.com/cuda/cutensor/latest/index.html 
 -  Nvidia CuPy (35 pages)  https://cupy.dev/ - 3rd party Numpy

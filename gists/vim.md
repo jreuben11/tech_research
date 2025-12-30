@@ -13,7 +13,7 @@
 - `x` delete char `2x` delete 2 chars
 - `dw` delete word until start of next `de` delete word until until end of word `d$` delete to end of line
 - `dd` delete line `10dd` delete 10 lines
-- d   number   motion - eg `d2w` delete 2 words
+- d number motion - eg `d2w` delete 2 words
 - `.` repeat last command `@:` repeat last Ex command `&` repeat `:substitute`command
 - `u` undo. `Ctrl r` redo `U` undo all changes on line(DIDNT WORK) `Ctrl u` undo in edit mode.
 
@@ -24,7 +24,7 @@
 - `S` change line - delete line and enter insert mode
 - `ce` change until end of word - delete until end of word and enter insert mode
 - `c$` change rest of line - delete until end of line and enter insert mode
-- `o` - create new line and enter insert mode on next line  `O` - create new line and enter insert mode on previous line
+- `o` - create new line and enter insert mode on next line `O` - create new line and enter insert mode on previous line
 
 - `w` goto 1st char of next word `3w` of 3 words forward
 - `e` goto last char of next word
@@ -38,10 +38,10 @@
 - `/` search `n` next `N` previous `\c` ignore case for a search
 - `:set ic` set ignore case for search `:set noic` disable
 - `:set hlsearch` highlight all matching phrases `:set nohlsearch`
-- `:set incsearch`       show partial matches for a search phrase
+- `:set incsearch` show partial matches for a search phrase
 - `Ctrl-O` goto previous position `Ctrl-I` goto next position
 - `%` goto matching parenthesis
-- `:s/old/new/g`  substitute 'new' for 'old' globally in line, `:#,#s/old/new/g` between line numbers, `:%s/old/new/gc` percentage is globally in file, `c` is prompt on each
+- `:s/old/new/g` substitute 'new' for 'old' globally in line, `:#,#s/old/new/g` between line numbers, `:%s/old/new/gc` percentage is globally in file, `c` is prompt on each
 - `*` search for next occurence of word under cursor
 - `:!ls` execute external command
 - `:w filename` write to file
@@ -49,15 +49,15 @@
 - `:e filename` open a file for editing eg `:e ~/.vimrc`
 - `Ctrl-D` command completion
 - `Ctrl-W Ctrl-W` switch window - eg to help window
-- 
+-
 - `:help nvim` tutor
 - `:checkhealth` to optimize
 - `:help`
 - `:x` other way to exit
 - `:set number` display line numbers
-- 
+-
 - `Ctrl k` , `Ctrl j` - zoom in / out [DIDNT WORK]
-- 
+-
 - `vim -u NONE -N` - `-u NONE` dont source `~/.vimrc` on startup `-N` dont revert to vi compat mode
 - `>G` increace indentation
 
@@ -71,7 +71,8 @@
 - `:close` – close current window
 
 ## Cursor Movements
-- 
+
+-
 - h – move cursor left
 - j – move cursor down
 - k – move cursor up
@@ -90,8 +91,8 @@
 - `$` – jump to the end of the line
 - `g_` – jump to the last non-blank character of the line
 - gg – go to the first line of the document
-- G  – go to the last line of the document
-- 
+- G – go to the last line of the document
+-
 - `5G` – go to line 5
 - f{char} – jump to next occurrence of character x
 - t{char} – jump to before next occurrence of character x
@@ -209,7 +210,7 @@
 - Search in Multiple Files
 - :vimgrep /pattern/ {file} – search for pattern in multiple files
 - e.g.
-- :vimgrep /foo/ **/*
+- :vimgrep /foo/ \*_/_
 - :cn – jump to the next match
 - :cp – jump to the previous match
 - :copen – open a window containing the list of matches
@@ -243,19 +244,21 @@
 - :tabclose or :tabc – close the current tab and all its windows
 - :tabonly or :tabo – close all tabs except for the current one
 - :tabdo command – run the command on all tabs (e.g. :tabdo q – closes all opened tabs)
+
 ## Even More
+
 - If you're looking for even more help with vim, then check out the Vim Masterclass course. <https://courses.linuxtrainingacademy.com/course/vim-masterclass/>
 
 # vim udemy
 
 - `i, :, esc` - change modes
-- `:wq`  - write + quit
+- `:wq` - write + quit
 
 ## 3a. motion (nav.txt)
 
-- `j,k`   - move down / up
-- `h,l`   - move left / right
-- `ctrl+f, ctrl+b` -move  page forward / back
+- `j,k` - move down / up
+- `h,l` - move left / right
+- `ctrl+f, ctrl+b` -move page forward / back
 - `w,b` - move word forward / back (by space or punctuation)
 - `W,B` - move word forward / back ignoring puctuation
 - `z+enter` - scroll to cursor
@@ -278,7 +281,7 @@
 - `dl, dh` - delete char / previous char
 - `x` - delete current char (shortcut for `dl`)
 - `X` - delete previous char (shortcut for `dh`)
-- `dh, dj, dk, dl, dw, db` delete current line to end / beggining,  down / up line, previous / next word -> `d5j` - delete multiple
+- `dh, dj, dk, dl, dw, db` delete current line to end / beggining, down / up line, previous / next word -> `d5j` - delete multiple
 - `d^, d$` - delete to the beginning / end of the line
 - `D` shortcut for `d$`
 - `dd` delete current line -> `3dd` delete 3 lines
@@ -316,11 +319,10 @@
 - `Ctrl-r r`- access register "r
 
 - ## 4 read only registers
-
   - `".` - The last inserted text is stored
   - `"%` - the current file path
-  - `":` -  the most recently executed command
-  - `"#` -  the name of the alternate file
+  - `":` - the most recently executed command
+  - `"#` - the name of the alternate file
 
 ## 6A. transforming and substituting text
 
@@ -347,7 +349,7 @@
 
 ## 6B. search, find and replace
 
-- `f{char}` - find  next occurance of char on line (case sensitive)
+- `f{char}` - find next occurance of char on line (case sensitive)
 - `F{char}` - find next occurance of char in reverse direction
 - `;` - go to next occurance
 - `,` - go to previous occurance
@@ -490,8 +492,7 @@ map <F3> i<ul><CR><Space><Space><li>blah</li><CR><ESC>0i</ul><Esc>kcit
 - `:b Ctrl-d` - shows list
 - `:bn` cycle to next (short for `:bnext`), `:bp` cycle to previous, `:bf` first, `:bl` last
 - buffer symbols: `%` current, `a` active, `h` hidden (loaded but not currently displayed), `#` previous buffer, `+` modified but not saved. can switch back using `:b#`
-- `:qall`, close all `:wall` write all
--`:badd` open a file without switching to it
+- `:qall`, close all `:wall` write all -`:badd` open a file without switching to it
 - `:bd3` - delete buffer 3 (close file - unloads buffer from memory). can delete a range of buffers `:1,3bd`, delete all `:%bd`
 - `:bufdo set nu` turn on line numbers for all buffers
 - `:E` open file explorer ! use `j,k` motions to select file and press enter to open
@@ -531,3 +532,121 @@ map <F3> i<ul><CR><Space><Space><li>blah</li><CR><ESC>0i</ul><Esc>kcit
 - `:term`
 - `i` - enter edit mode
 - `Ctrl \ Ctrl n` - escape edit mode
+
+# misc
+
+- `vimdiff b1.hex b2.hex`
+- automatically return to normal mode when idle <https://vi.stackexchange.com/questions/17609/how-do-i-get-neovim-to-automatically-return-to-normal-mode-when-idle> `:autocmd CursorHoldI * stopinsert`
+- `:set rnu!` toggle relative line numbers in LazyVim
+
+## luarocks install
+
+<https://luarocks.org/>
+
+```bash
+sudo apt install lua5.4 liblua5.4-dev
+wget https://luarocks.org/releases/luarocks-3.11.1.tar.gz
+tar zxpf luarocks-3.11.1.tar.gz
+cd luarocks-3.11.1
+./configure && make && sudo make install
+sudo luarocks install luasocket
+lua
+```
+
+- display keymaps `:Telescope keymaps`
+
+## nvim todo
+
+- line wrapping
+- show error window
+- `Ctl-o` is inconsistent
+- `[` rust commands sometimes dissapear
+- move lines up / down
+
+# Typecraft - From 0 to IDE in NEOVIM from scratch | FREE COURSE
+
+1. <https://youtu.be/zHTeCSVAFNY?si=3mcuUmzJkHTHOE3K> via @YouTube
+
+- color scheme <https://github.com/catppuccin/nvim>
+- finder: <https://github.com/nvim-telescope/telescope.nvim>
+- treesitter <https://github.com/nvim-treesitter/nvim-treesitter/wiki/Installation>
+
+2. <https://www.youtube.com/watch?v=4zyZ3sw_ulc&ab_channel=typecraft>
+
+- neotree <https://github.com/nvim-neo-tree/neo-tree.nvim>
+- <https://github.com/nvim-lualine/lualine.nvim>
+
+3. <https://www.youtube.com/watch?v=S-xzYgTLVJE&ab_channel=typecraft>
+
+- LSP <https://github.com/williamboman/mason.nvim>
+- <https://github.com/williamboman/mason-lspconfig.nvim>
+- <https://github.com/neovim/nvim-lspconfig>
+- <https://github.com/kylechui/nvim-surround>
+- <https://github.com/nvim-telescope/telescope-ui-select.nvim>
+
+4. <https://www.youtube.com/watch?v=SxuwQJ0JHMU&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn&index=4&ab_channel=typecraft>
+
+- <https://github.com/nvimtools/none-ls.nvim>
+- <https://github.com/goolord/alpha-nvim>
+- <https://medium.com/@shaikzahid0713/alpha-start-up-screen-8e4a6e95804d>
+
+5. <https://www.youtube.com/watch?v=iXIwm4mCpuc&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn&index=5&ab_channel=typecraft>
+
+- <https://github.com/hrsh7th/nvim-cmp>
+- <https://github.com/L3MON4D3/LuaSnip>
+- <https://github.com/saadparwaiz1/cmp_luasnip>
+- <https://github.com/rafamadriz/friendly-snippets>
+- <https://github.com/hrsh7th/cmp-nvim-lsp>
+
+6. <https://www.youtube.com/watch?v=oYzZxi3SSnM&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn&index=6&ab_channel=typecraft>
+
+- <https://github.com/mfussenegger/nvim-dap>
+- <https://github.com/rcarriga/nvim-dap-ui>
+- <https://github.com/nvim-neotest/nvim-nio>
+
+## neovim explorations
+
+<https://github.com/akinsho/toggleterm.nvim>
+<https://github.com/mrcjkb/rustaceanvim>
+<https://github.com/kdheepak/lazygit.nvim>
+
+# LazyVim for ambitions devs notes:
+
+## 1. intro and install
+
+- ed -> sed, ex
+
+### 1.8 install
+
+- set an alternat path:`NVIM_APPNAME=`
+- folders
+
+```bash
+~/.config/nvim
+~/.local/share/nvim
+~/.local/state/nvim
+~/.cache/nvim
+```
+
+- Starter
+
+```bash
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+```
+
+### 1.9 dashboard (gone)
+
+- `f` - find file
+- `n` - new file
+- `r` - recent files
+- `g` - find text
+- `c` - config
+- `x` - Lazy extras
+- `l` - lazy
+- `q`
+
+### 1.10. Lazy.nvim Plugin Manager
+
+- `:Lazy`
+- `S` - sync: install, clean, update all in one
