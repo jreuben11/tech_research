@@ -4,3 +4,5 @@
 -  Book: Management
 -  Revise MBA book 
 -  Book: 100 tricks to appear smart in meetings (hilarious, but true !)
+-  A reference manual for people who design and build software https://www.makingsoftware.com/
+-  design https://www.canva.com/designschool/

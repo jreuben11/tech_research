@@ -1,17 +1,36 @@
 
-
-
-
+- JQL https://support.atlassian.com/jira-software-cloud/docs/use-advanced-search-with-jira-query-language-jql/
+- Google SWE book https://abseil.io/resources/swe-book/html/toc.html
+- X API (50 pages) https://docs.x.com/x-api/introduction
   
 
 
-
+# VSCode
+- VSCode User Guide
+- VSCode Languages
+- VSCode Terminal
+- VSCode SourceControl
+- VSCode Python
+- VSCode Github Copilot
+- VSCode NodeJs Javascript Typescript
+- VSCode C#
+- VSCode C++
+- VSCode Java
+- VSCode Docker
+- VSCode DataScience
+- VSCode DevContainers
+- VSCode Remote
 
 
 # Code Analysis 
 -  SonarQube https://docs.sonarqube.org/latest/
+-  SonarQube Cloud (work) https://docs.sonarsource.com/sonarqube-cloud/
 -  Soufflé: A Datalog Synthesis Tool for Static Analysis https://souffle-lang.github.io/index.html
 -  ab https://httpd.apache.org/docs/2.4/programs/ab.html Apache Benchmark
+-  TLA+ https://learntla.com/ , https://www.youtube.com/@tlavideocourse8540 
+-  Book: Language Server Protocol (110 pages)
+-  Awesome Code Reviews https://www.awesomecodereviews.com/
+
 -  
 # MISC - old stuff
 - Google JigSaw opensource misc projects https://github.com/Jigsaw-Code 

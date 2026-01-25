@@ -9,6 +9,7 @@
 - Konductor Kafka Academy https://learn.conduktor.io/kafka/kafka-advanced-concepts/ 
 - Neo4j GenAI Ecosystem	https://neo4j.com/labs/genai-ecosystem/ 
 - Neo4j GDS https://neo4j.com/docs/graph-data-science/current/introduction/ 
+- Spark 4.0 https://spark.apache.org/docs/latest/index.html
 
 
 ## data engineering
@@ -20,8 +21,8 @@
 -  Avro (40 pages)
 -  Avro Schema Registry (150 pages)
 -  Apache Xtable https://xtable.apache.org/docs/ metadata interop for iceberg, hudi
--  
--  
+-  NATS https://docs.nats.io/
+-  SnowFlake  https://docs.snowflake.com/en/guides https://www.youtube.com/@snowflakedevelopers/playlists 
 -  
 -  
 ## Networking 
@@ -43,6 +44,8 @@
 -  SparQL revise
 -  Cloud-Init https://cloudinit.readthedocs.io/en/latest/ python 
 -  https://github.com/Netflix/ 
+-  .NET Aspire https://learn.microsoft.com/en-us/dotnet/aspire/ 
+
 
 ## Graph DBs
 -  Neo4j Cypher https://neo4j.com/docs/cypher-manual/current/introduction/ 
@@ -76,3 +79,6 @@
 -  - PostgresML https://postgresml.org/ 
 -  - https://github.com/sfackler/rust-postgres 
 -  Postgres Internals https://www.interdb.jp/pg/ 
+-  Gel https://docs.geldata.com/ graph on postgreSQL
+- Apache AGE https://age.apache.org/age-manual/master/intro/overview.html
+- 

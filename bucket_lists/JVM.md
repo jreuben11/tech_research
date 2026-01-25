@@ -1,4 +1,14 @@
+# Android
+- Android Game Dev https://developer.android.com/games/guides 
+- Android AI dev https://developer.android.com/ai/overview 
+- Android XR https://developer.android.com/develop/xr/get-started
+- Android https://source.android.com/docs/core
+- Android dev https://developer.android.com/ml 
+- Modern Android App Architecture Course https://developer.android.com/courses/pathways/android-architecture 
+- Android Jetpack Compose   https://developer.android.com/jetpack/compose/documentation 
+
 # JVM
+- TornadoVM https://tornadovm.readthedocs.io/en/latest/index.html
 -  Aeron https://aeron.io/docs/aeron/overview/ UDP / multicast, + IPC message transport
 -  https://github.com/real-logic/Aeron 
 -  Java tools https://docs.oracle.com/en/java/javase/16/index.html 
@@ -6,8 +16,7 @@
 -  Maven
 -  Tomcat https://tomcat.apache.org/tomcat-10.1-doc/index.html 
 -  Gradle
--  Android dev https://developer.android.com/ml 
--  Modern Android App Architecture Course https://developer.android.com/courses/pathways/android-architecture 
+
 -  LibGDX https://github.com/libgdx/libgdx Java OpenGL game engine
 -  Google Auto https://github.com/google/auto (java)
 -  Java Ecosystem (200 pages)
@@ -81,8 +90,6 @@
 -  Java CLUs (500 pages)
 -  Jboss Tools (380 pages)
 -  Kotlin (380 pages)
--  Android Jetpack Compose   https://developer.android.com/jetpack/compose/documentation 
--  Android Game Dev Kit https://developer.android.com/games/guides 
 -  Jclarity censum 
 -  JavaAssist, cglib
 -  JS compat table http://kangax.github.io/compat-table/ 

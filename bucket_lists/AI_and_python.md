@@ -1,9 +1,13 @@
 # AI / Python
+- Cookiecutter: Better Project Templates https://cookiecutter.readthedocs.io/en/stable/
 
 ## Jupyter
 -  Jupyter solara https://solara.dev/documentation dashboards
 -  Jupyter Hex  https://learn.hex.tech/docs – BI dashboards
 -  Marimo (jupyter replacement) https://docs.marimo.io/ 
+-  Jupyter-AI https://jupyter-ai.readthedocs.io/en/latest/
+-  GenAI NotebookLM (12 pages) https://notebooklm.google.com/notebook/f7607d7a-584c-4f35-96fc-f6815c573a6c 
+
 
 ## Graph ML  
 -  Python NetworkX
@@ -27,7 +31,7 @@
 -  Book: 3D Deep Learning with Python (130 pages)
 -  Python Kitware Trame https://kitware.github.io/trame/guide/ 3D data visualization 
 -  3D Shape Analysis Books x2
--  Geometric deep learning https://geometricdeeplearning.com/blogs/ 
+-  Geometric deep learning blogs https://geometricdeeplearning.com/blogs/ 
 -  Meta Spark AR https://sparkar.facebook.com/ar-studio/learn/ 
 
 
@@ -107,31 +111,8 @@
 -  OpenWebUI https://docs.openwebui.com  front end for Ollama
 -  LM Studio https://lmstudio.ai  Discover, download, and run local LLMs
 -  textgen https://github.com/oobabooga/text-generation-webui UI for local LLMs
--  
-## GenAI - Agents
--  mem0 https://docs.mem0.ai/open-source/quickstart  memory layer for GenAI apps
--  Composio agents https://docs.composio.dev/introduction/intro/overview 
--  llamaindex https://developers.llamaindex.ai/python/framework/
--  Python CrewAI https://docs.crewai.com/ Agents
-- fast-agent https://fast-agent.ai/
--  LangChain 2024 (350 pages)
--  LLM-Based Agents for Software Engineering: A Survey https://arxiv.org/html/2409.02977v1#S1
--  Unity3D Sentis AI https://docs.unity3d.com/Packages/com.unity.sentis@1.3/manual/index.html 
--  OpenAI API https://beta.openai.com/docs/introduction/overview  
-- N8N
+-  LiteLLM https://docs.litellm.ai/docs/
 
-## GenAI - Structured Prompting
--  Python Grammar guided prompts https://github.com/outlines-dev/outlines 
--  Python LMQL https://lmql.ai/docs/  - programming language for LLMs
--  Python Promptfoo https://www.promptfoo.dev/docs/intro/ 
--  Microsoft Generative AI Scripting https://microsoft.github.io/genaiscript/
--  Microsoft GitHub Spark https://next.github.com/projects/github-spark/ SDLC micro-apps
--  Microsoft Semantic Kernel for AI Agents https://learn.microsoft.com/en-us/semantic-kernel/overview/
--  Microsoft AutoGen https://microsoft.github.io/autogen/docs/Getting-Started AI Agents
--  Microsoft TinyTroup https://github.com/microsoft/TinyTroupe 
--  Microsoft Sammo https://microsoft.github.io/sammo/  run and optimize LLM prompts
--  IBM Prompt Declaration Language (PDL) https://ibm.github.io/prompt-declaration-language/ 
--  Python Outlines (structured prompting) https://dottxt-ai.github.io/outlines/latest/ 
 
 
 ## JAX
@@ -160,7 +141,7 @@
 -  OCW: GOFAI course https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/ 
 -  Neuro-Symbolic AI Summer School 2023 https://www.youtube.com/playlist?list=PLt-aI0fLbqH_7jn1FM3G4GfhcR6zK2_Oq 
 -  NeuroSymbolic Programming Survey
-
+- Abstract Meaning Representation (AMR)   https://github.com/amrisi/amr-guidelines/blob/master/amr.md
 
 
 ## OWL / RDF / Wikidata
@@ -174,22 +155,7 @@
 -  Wikidata:Embedding Project https://www.wikidata.org/wiki/Wikidata:Embedding_Project?ref=news.itsfoss.com
 -  Apache Jena (semantic web) https://jena.apache.org/    
 
-## GenAI - Coding LLMs
-- crush https://github.com/charmbracelet/crush 
--  Devin https://docs.devin.ai/get-started/devin-intro 
--  SourceGraph Cody https://docs.sourcegraph.com/  
--  Townie https://www.val.town/townie/signup ?
--  Python GPT-Engineer https://gpt-engineer.readthedocs.io/en/latest/ LLM as programmer
--  Sweep: AI-powered junior dev https://docs.sweep.dev/
--  Python Marvin https://www.askmarvin.ai/guide/introduction/overview/
--  Qodo https://docs.qodo.ai/ GenAI coding 
--  Codeium Windsurf – Agentic IDE https://codeium.com/windsurf/ 
--  Cursor https://docs.cursor.com/get-started/migrate-from-vscode 
--  Code2Prompt https://github.com/mufeedvh/code2prompt   
--  AutoDev https://ide.unitmesh.cc/
--  https://github.com/unit-mesh/auto-dev
--  https://vscode.unitmesh.cc/ 
--  Open hands https://docs.all-hands.dev/modules/usage/getting-started
+
 -  
 
 ## Theory - Reinforcement Learning 
@@ -265,11 +231,6 @@
 
 -  
 
-## GenAI Image gen
--  - stable diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui 
--  https://lilianweng.github.io/ ai blog
--  ComfyUI https://docs.comfy.org/essentials/custom_node_walkthrough   stable diffusion GUI and backend https://comfyanonymous.github.io/ComfyUI_examples/ 
--  Midjourney https://docs.midjourney.com/docs/quick-start 
 
 
  
@@ -306,6 +267,8 @@
 
 ## mech interp
 -  Llama 3.2 Interpretability with Sparse Autoencoders https://github.com/PaulPauls/llama3_interpretability_sae   
+-  InterpretML https://interpret.ml/docs/
+-  TokenSHAP https://github.com/ronigold/TokenSHAP
 -  
 ## MLOps
 -  Kubeflow Spark Operator  https://github.com/kubeflow/spark-operator/blob/master/docs/user-guide.md  
@@ -359,6 +322,12 @@
   - TorchMetrics: metrics
   - Thunder: optimizing compiler
 
+## training frameworks
+- unsloth 
+- FastAI https://docs.fast.ai/ training framework
+- Fast-LLM https://servicenow.github.io/Fast-LLM/ training lib
+- TransformerLab https://transformerlab.ai/docs/intro/
+
 ## Tensorflow 
 -  Tensorflow-transformers https://legacyai.github.io/tf-transformers/build/html/introduction_docs/quicktour.html 
 -  Ptorch Xformers https://facebookresearch.github.io/xformers/ 
@@ -398,7 +367,7 @@
 -  TypeORM https://typeorm.io/
 -  Python tqdm https://tqdm.github.io/ 
 -  Python Rich TUIs (27 pages)
-
+- FastRTC https://fastrtc.org/  python WebRTC
 
 ## AI edge computing 
 -  LiteRT https://ai.google.dev/edge/litert 
@@ -431,8 +400,19 @@
 -  Pyxll (Python in Excel) https://www.pyxll.com/docs/index.html 
 -  Python DSP (60 pages)
 -  Splash https://zhangyuc.github.io/splash/ stochastic learning algos
+-  
+## conda
 -  Conda dev guide https://docs.conda.io/projects/conda/en/latest/dev-guide/index.html
+- Github Models https://docs.github.com/en/github-models/about-github-models
+- Pixi package manager https://pixi.sh/latest/# based on conda ...
 
+
+## computer vision
+- SLAM Handbook https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/main.pdf 
+
+## robotics
+- CRISP - Compliant ROS2 Controllers for Learning-Based Manipulation Policies https://utiasdsl.github.io/crisp_controllers/ 
+- - Robot Learning Tutorial https://huggingface.co/spaces/lerobot/robot-learning-tutorial 
 
 
 ## old
@@ -443,6 +423,110 @@
 -  Book: Intelligent Mobile projects with TF (400 pages)
 -  TensorFlow RL (110 pages) – Dopamine, TF-Agents, Deepmind TRFL, TensorForce, OpenAI Baselines, Keras-RL - **33%**
 -  TensorFlow DeepMind Sonnet (180 pages)
+-  
+
+## GenAI - Agents
+- AWS Bedrock Agent Core (work)
+- GenAI Google ADK https://google.github.io/adk-docs/ (Agent dev kit)
+- GenAI Grok https://docs.x.ai/docs/overview
+-  mem0 https://docs.mem0.ai/open-source/quickstart  memory layer for GenAI apps
+-  Composio agents https://docs.composio.dev/introduction/intro/overview 
+-  llamaindex https://developers.llamaindex.ai/python/framework/
+-  Python CrewAI https://docs.crewai.com/ Agents
+- fast-agent https://fast-agent.ai/
+-  LangChain 2024 (350 pages)
+-  LLM-Based Agents for Software Engineering: A Survey https://arxiv.org/html/2409.02977v1#S1
+-  Unity3D Sentis AI https://docs.unity3d.com/Packages/com.unity.sentis@1.3/manual/index.html 
+-  OpenAI API https://beta.openai.com/docs/introduction/overview  
+- N8N
+- GenAI Ragas https://docs.ragas.io/ - LLM evaluation
+- OpenPipe LLM evaluation https://docs.openpipe.ai/introduction 
+- GenAI continue https://docs.continue.dev/ mission control for agents
+- GenAI AutoRAG https://github.com/Marker-Inc-Korea/AutoRAG AutoML for RAG
+- GenAI Pipelex https://docs.pipelex.com/ DSL
+- LLM Reasoners https://github.com/maitrix-org/llm-reasoners
+- GenAI MS UFO https://microsoft.github.io/UFO/ mult-agent windows system
+- GenAI ReStack https://docs.restack.io/introduction#features
+
+## GenAI - in Browser
+- GenAI Chrome Prompt API https://developer.chrome.com/docs/ai/prompt-api  wrapper https://github.com/kstonekuan/simple-chromium-ai
+- GenAI Android Gemini Nano https://developer.android.com/ai/gemini-nano 
+- GenAI HashBrown https://hashbrown.dev/docs/react/start/intro  in-browser agentic framework
+- WebMCP https://github.com/webmachinelearning/webmcp 
+- WebNN API https://webnn.io/en/learn/ 
+- GenAI OpenWebUI (130 pages)
+- GenAI Browser-Use https://docs.browser-use.com/introduction 
+
+## GenAI Image gen
+-  - stable diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui 
+-  https://lilianweng.github.io/ ai blog
+-  ComfyUI https://docs.comfy.org/essentials/custom_node_walkthrough   stable diffusion GUI and backend https://comfyanonymous.github.io/ComfyUI_examples/ 
+-  Midjourney https://docs.midjourney.com/docs/quick-start 
+- https://diffusion.csail.mit.edu/
+
+## GenAI MCP + other protocols
+- Github MCP Server (10 pages)
+- GenAI FastMCP https://gofastmcp.com/getting-started/welcome 
+- GenAI Agent Client Protocol (ACP) https://agentclientprotocol.com/overview/introduction 
+- GenAI AG-UI Protocol https://docs.ag-ui.com/introduction 
+- GenAI mcp-use https://docs.mcp-use.io/introduction
+- AG-UI https://docs.ag-ui.com/introduction 
+- ACP https://www.agenticcommerce.dev/ 
+- ACP https://agentcommunicationprotocol.dev/introduction/welcome 
+- ANP https://agent-network-protocol.com/ 
+- GenAI MCP-UI https://mcpui.dev/guide/introduction
+
+
+## GenAI - Structured Prompting
+- GenAI BAML https://docs.boundaryml.com/guide/introduction/what-is-baml prompts as functions
+-  GenAI PromptOptimizer https://promptoptimizer.readthedocs.io/en/latest/
+-  Python Grammar guided prompts https://github.com/outlines-dev/outlines 
+-  Python LMQL https://lmql.ai/docs/  - programming language for LLMs
+-  Python Promptfoo https://www.promptfoo.dev/docs/intro/ 
+-  Microsoft Generative AI Scripting https://microsoft.github.io/genaiscript/
+-  Microsoft GitHub Spark https://next.github.com/projects/github-spark/ SDLC micro-apps
+-  Microsoft Semantic Kernel for AI Agents https://learn.microsoft.com/en-us/semantic-kernel/overview/
+-  Microsoft AutoGen https://microsoft.github.io/autogen/docs/Getting-Started AI Agents
+-  Microsoft TinyTroup https://github.com/microsoft/TinyTroupe 
+-  Microsoft Sammo https://microsoft.github.io/sammo/  run and optimize LLM prompts
+-  IBM Prompt Declaration Language (PDL) https://ibm.github.io/prompt-declaration-language/ 
+-  Python Outlines (structured prompting) https://dottxt-ai.github.io/outlines/latest/ 
+-  GenAI LLMLingua https://github.com/microsoft/LLMLingua prompt compression
+-  Video Generation Prompt guides:
+   - Veo 3 https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide 
+   - Gen 3 Alpha https://help.runwayml.com/hc/en-us/articles/30586818553107-Gen-3-Alpha-Prompting-Guide 
+   - GenAI AutoPrompt https://github.com/Eladlev/AutoPrompt prompt optimization
+
+
+## GenAI - Coding LLMs
+- crush https://github.com/charmbracelet/crush 
+-  Devin https://docs.devin.ai/get-started/devin-intro 
+-  SourceGraph Cody https://docs.sourcegraph.com/  
+-  Townie https://www.val.town/townie/signup ?
+-  Python GPT-Engineer https://gpt-engineer.readthedocs.io/en/latest/ LLM as programmer
+-  Sweep: AI-powered junior dev https://docs.sweep.dev/
+-  Python Marvin https://www.askmarvin.ai/guide/introduction/overview/
+-  Qodo https://docs.qodo.ai/ GenAI coding 
+-  Codeium Windsurf – Agentic IDE https://codeium.com/windsurf/ 
+-  Cursor https://docs.cursor.com/get-started/migrate-from-vscode 
+-  Code2Prompt https://github.com/mufeedvh/code2prompt   
+-  AutoDev https://ide.unitmesh.cc/
+-  https://github.com/unit-mesh/auto-dev
+-  https://vscode.unitmesh.cc/ 
+-  Open hands https://docs.all-hands.dev/modules/usage/getting-started
+-  GenAI Qodo https://docs.qodo.ai/qodo-documentation 
+- GenAI CopilotKit https://docs.copilotkit.ai/ 
+- Cursor https://docs.cursor.com/ 
+- tips https://www.youtube.com/watch?v=gYLNxUxVomY&ab_channel=DavidOndrej 
+
+## GenAI - misc
+- GenAI GPTResearcher https://docs.gptr.dev/docs/welcome 
+- Docling https://docling-project.github.io/docling/ document parsers
+- MS GenAI for beginners course https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file 
+- GenAI Tavily https://docs.tavily.com/docs/welcome
+- GenAI Qase https://docs.qase.io/ 
+
+
 ## Additional Resources from Remote
 -  - Advanced Statistical Computing https://bookdown.org/rdpeng/advstatcomp/ 
 -  also https://pythonbiellagroup.it/it/ 
@@ -468,7 +552,6 @@
 -  huggingface blogs
 -  HuggingFace Docs
 -  Hypermodern python cookie-cutter  
--  Jupyter-AI https://jupyter-ai.readthedocs.io/en/latest/
 -  mcpyrate https://github.com/Technologicat/mcpyrate/blob/master/doc/main.md 
 -  Microsoft DeepSpeed (130 pages) https://www.deepspeed.ai/tutorials/ - LLM training
 -  - more-itertools https://more-itertools.readthedocs.io/en/stable/ 
@@ -478,6 +561,8 @@
 -  - PyFunctional https://pyfunctional.pedro.ai 
 -  Pyodine python wasm (70 pages)                            https://pyodide.org/en/stable/
 -  Pyomo https://pyomo.readthedocs.io/en/stable/ python optimization package
+-  
+
 -  PyPy https://doc.pypy.org/en/latest/introduction.html 
 -  Python ASTs (22 pages)
 -  Python einops https://einops.rocks/ - tensor ops
@@ -486,8 +571,7 @@
 -  Python Inverse RL reward learning https://imitation.readthedocs.io/en/latest/index.html 
 -  Python ipyparallel
 -  Python Manim https://docs.manim.community/ 
--  Python MinGrammer https://diagrams.mingrammer.com/docs 
--  Python mingrammer https://diagrams.mingrammer.com/docs/getting-started/examples diagrams as code
+-  Python MinGrammer https://diagrams.mingrammer.com/docs diagrams as code
 -  Python ND Pyomo Cookbook https://jckantor.github.io/ND-Pyomo-Cookbook/README.html
 -  Python Nvidia NIM
 -  Python OwlReady2 https://owlready2.readthedocs.io/ 
@@ -497,3 +581,6 @@
 -  SystemML https://apache.github.io/incubator-systemml/algorithms-reference.html 
 -  Tensorly http://tensorly.org/stable/index.html  Deep Tensorized Neural Networks 
 -  - textgen https://github.com/oobabooga/text-generation-webui 
+- SGLang https://docs.sglang.ai/start/ LLM serving
+- Ray AnyScale https://docs.anyscale.com/overview
+

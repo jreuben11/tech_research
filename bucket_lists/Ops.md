@@ -1,7 +1,28 @@
+
+- Revise git
+- Revise docker
+- Revise K8s
+-  https://github.com/containers 
+- K8s Otel book (95 pages)
+- KCL https://www.kcl-lang.io/docs/user_docs/getting-started/
+- Crossplane https://docs.crossplane.io/latest/ 
+
+- JSONata https://docs.jsonata.org/overview.html  JSON Xpath query
+- superglue https://docs.superglue.cloud/introduction  API connector 
+- Cedar JSON DSL https://docs.cedarpolicy.com/overview/patterns.html   
+
 - ArgoCD
 - Pulumi (350 pages)
 - K8s Karpenter (80 pages) https://karpenter.sh/docs/
 - K8s Argo-Rollouts (130 pages) https://argoproj.github.io/argo-rollouts/
+- KubeMQ https://docs.kubemq.io/ 
+- Argo Kargo https://docs.kargo.io/ 
+- K8s CNI https://www.cni.dev/docs/spec/ 
+- K8s kro | Kube Resource Orchestrator https://kro.run/docs/overview  
+- DataDog https://docs.datadoghq.com/getting_started/  https://www.youtube.com/@DatadogHQ/playlists 
+- K8s Keda https://keda.sh/docs/
+- K8s Perses (35 pages) https://perses.dev/perses/docs/overview/ 
+- Revise: prometheus ? https://prometheus.io/docs 
 
 
 ## K8s
@@ -65,9 +86,15 @@
 -  OpenShift DevSpaces https://developers.redhat.com/products/openshift-dev-spaces/overview 
 -  BuildPack (80 pages) https://buildpacks.io/
 -  Serf www.serfdom.io , ~Vagrant
--  
+-  bootc project https://bootc-dev.github.io/bootc/ OS updates using containers
+-  GrepTime https://docs.greptime.com/ prometheus alternative
+-  LocalStack (95 pages) https://docs.localstack.cloud/overview/ 
+- K8s Volcano: for HPC workloads https://volcano.sh/en/docs/ 
+
+
 ## Git
 -  Git revise
+-  octokit.js https://github.com/octokit/octokit.js    https://octokitnet.readthedocs.io/en/latest/ github client
 -  Gitbook https://docs.gitbook.com/ 
 -  Github GraphQL API https://docs.github.com/en/graphql
 -  Github changes
@@ -81,3 +108,4 @@
 -  Github Packages https://docs.github.com/en/packages 
 -  Github Billing https://docs.github.com/en/billing 
 -  Github Developers https://docs.github.com/en/developers 
+

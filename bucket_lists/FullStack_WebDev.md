@@ -13,7 +13,7 @@ WebDev Clerk https://clerk.com/docs
 WebDev Elysia https://elysiajs.com/at-glance.html 
 WebDev Hono https://hono.dev/docs/ 
 WebDev HTML has changed: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference 
-
+- https://react.gg/visualized
 
 
 
@@ -67,7 +67,7 @@ WebDev HTML has changed: https://developer.mozilla.org/en-US/docs/Web/HTML/Refer
 - PGlite https://pglite.dev/docs/about 
 - Datastar https://data-star.dev/guide/getting_started  HTMX alternative with SSE instead of AJAX
 - WebDev Radix UI https://www.radix-ui.com/primitives/docs/overview/introduction 
-
+- https://react.gg/visualized
 
 
 # Chrome Docs https://developer.chrome.com/docs
@@ -274,3 +274,4 @@ WebDev HTML has changed: https://developer.mozilla.org/en-US/docs/Web/HTML/Refer
 -  - storybook https://storybook.js.org/docs 
 -  Tanstack https://tanstack.com/ 
 -  TRPC https://trpc.io/ e2e typesafe APIs 
+- Jstack https://jstack.app/docs webdev scaffolding

@@ -1,6 +1,7 @@
 # Esoteric PLs
 -  Unison (77 pages)
 -  Darklang https://docs.darklang.com/introduction low-code DSL for web backends
+-  GlyphLang https://glyphlang.dev/docs for LLMs
 -  ANTLR https://github.com/antlr/antlr4/blob/master/doc/index.md
 -  Swift: https://docs.swift.org/swift-book 
 -  Swift metaprogramming Sourcery https://cdn.rawgit.com/krzysztofzablocki/Sourcery/master/docs/index.html 
@@ -12,3 +13,4 @@
 -  Book: Concurrent Haskell
 -  Book: Idris
 -  Phoenix https://github.com/phoenixframework/phoenix/blob/master/README.md  elixir framework
+-  Tau PL for software synthesis https://github.com/IDNI/tau-lang?tab=readme-ov-file 

@@ -1,5 +1,4 @@
 # Security
--  Book: security – rootkits and bootkits (250 pages)
 -  Book: security – pentesting with shellcode (270 pages)
 -  Book: security - Mastering Metasploit (300 pages)
 -  Book: Mastering TLS (120 pages)
@@ -30,6 +29,8 @@
 -  Wireshark user guide https://www.wireshark.org/docs/wsug_html/ 
 -  http://www.wireshark.org/docs/wsdg_html_chunked/ wireshark dev guide
 -  http://wiki.xplico.org/doku.php  Network Forensic Analysis Tool (NFAT)
+-  Sliver https://sliver.sh/tutorials 
+
 
 # utils
 - file, strip, nm, ldd, xdd, hexedit, nm, strace, ltrace, strings
@@ -63,3 +64,12 @@
 - SAT/SMT by example https://lnkd.in/daEAszz7
 - libelf by example https://lnkd.in/dA_VUUCn
 - Triton https://lnkd.in/dJ8TSRmy dynamic binary analysis lib
+
+# Rootkits and Bootkits
+-  Book: security – rootkits and bootkits (250 pages)
+- https://itnext.io/building-a-basic-x64-linux-rootkit-4f8d931b688f
+- https://www.first.org/resources/papers/amsterdam25/FIRST_Amsterdam_2025_Linux_Rootkits.pdf 
+- https://www.youtube.com/watch?v=oa2i7JsGOHo 
+- https://github.com/milabs/awesome-linux-rootkits 
+- https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development 
+

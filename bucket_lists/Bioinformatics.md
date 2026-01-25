@@ -17,3 +17,5 @@
 -  RDKit
 -  cheminformatics https://www.youtube.com/tmpchem 
 -  Book: Computational Chemistry (120 pages)
+-  Reaction prediction models https://cheminf20.org/2025/04/10/reaction-prediction-models-chapter-0/
+-  General chemistry: 36 hours https://www.youtube.com/watch?v=6OV3tmt9uhs&ab_channel=freeCodeCamp.org 

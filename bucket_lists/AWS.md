@@ -1,4 +1,16 @@
 # AWS
+- AWS Q
+    - business user guide https://docs.aws.amazon.com/amazonq/latest/business-use-dg/what-is.html
+    - dev user guide https://docs.aws.amazon.com/amazonq/latest/aws-builder-use-ug/what-is.html 
+    - Api ref https://docs.aws.amazon.com/amazonq/latest/api-reference/Welcome.html
+    - detector lib https://docs.aws.amazon.com/amazonq/detector-library/index.html 
+- AWS Bedrock
+  - user guide https://docs.aws.amazon.com/bedrock/latest/userguide 
+  - studio user guide https://docs.aws.amazon.com/bedrock/latest/studio-ug/index.html
+  - API ref https://docs.aws.amazon.com/bedrock/latest/APIReference/ 
+- AWS VPC Route Server https://docs.aws.amazon.com/vpc/latest/userguide/dynamic-routing-route-server.html  
+
+- AWS RedShift (600 pages)https://docs.aws.amazon.com/redshift/
 -  Glue (170 pages) https://docs.aws.amazon.com/glue/latest/dg/ 
 -  Glue DataBrew https://docs.aws.amazon.com/databrew/latest/dg/ 
 -  Lake Formation https://docs.aws.amazon.com/lake-formation/ 
@@ -59,3 +71,23 @@
 -  https://aws.amazon.com/developer/tools/ 
 -  SageMaker Python SDK https://sagemaker.readthedocs.io/en/stable/overview.html 
 -  CloudMap https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html 
+- AWS Deadline Cloud https://docs.aws.amazon.com/deadline-cloud/latest/userguide  
+- AWS Verified Permissions https://docs.aws.amazon.com/verifiedpermissions/latest/userguide/what-is-avp.html
+- AWS IoT SiteWise https://docs.aws.amazon.com/iot-sitewise/latest/userguide  
+- AWS Gamelift https://docs.aws.amazon.com/gamelift/ 
+- AWS Bracket - cloud quantum computing https://docs.aws.amazon.com/braket/latest/developerguide/what-is-braket.html
+
+## Exams
+AWS Certified Cloud Practitioner (15 hours)
+AWS Certified AI Practitioner (10 hours) 
+AWS Certified Cloud Practitioner Practice Exams
+AWS Certified AI Practitioner Practice Exams
+AWS Certified Solutions Architect Associate Practice Exams
+AWS Certified Developer Associate Practice Exams
+AWS Certified SysOps Administrator Associate Practice Exams
+AWS Certified Data Engineer Associate Practice Exams
+AWS Certified Machine Learning Engineer Associate Practice Exams
+AWS Certified Solutions Architect Professional Practice Exams
+AWS Certified DevOps Engineer Professional Practice Exams
+AWS Certified Security Specialty Practice Exams
+AWS Certified Advanced Networking Specialty Practice Exams

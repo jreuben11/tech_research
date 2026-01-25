@@ -14,13 +14,31 @@
 ## Tools
 -  Rust-Analyzer (60 pages)
 -  Rust and Neovim https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/ 
+
+
+## metaprogramming
+-  Rust Macros (205 pages)
+-  - https://veykril.github.io/tlborm/ 
+-  - Latam: procedural macros workshop https://github.com/dtolnay/proc-macro-workshop 
+-  - MacroKata https://tfpk.github.io/macrokata/  a set of exercises to learn macros in Rust.
+-  Nom (30 pages)             https://tfpk.github.io/nominomicon/ 
+-  https://github.com/rust-bakery/nom/tree/main/doc
+-  https://github.com/rust-bakery/nom/blob/main/doc/choosing_a_combinator.md 
+-  tree sitter https://tree-sitter.github.io/tree-sitter/ 
 -  
+
 ## ebpf
 -  Rust Aya ebpf (30 pages) https://aya-rs.dev/book/
 -  https://github.com/qmonnet/rbpf/
 -  https://github.com/libbpf/libbpf-rs?tab=readme-ov-file 
 -  https://www.infoq.com/articles/benchmark-profile-ebpf-code/
--  
+
+
+## 3D
+- Rust bezier-rs https://keavon.github.io/Bezier-rs/ nice!
+-  Rust Vulkan https://kylemayes.github.io/vulkanalia/ 
+-  Vulkano https://vulkano.rs/guide/introduction
+
 ## HPC
 -  Rust HPC book (120 pages)
 -  gray-scott https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/
@@ -51,7 +69,11 @@
 -  Rust GTK https://gtk-rs.org/gtk4-rs/stable/latest/book/ 
 
 
--  
+## GPU
+- CUST https://docs.rs/cust/latest/cust/
+-  RUST-CUDA- back from the dead ?  https://rust-gpu.github.io/ 
+
+
 ## FFI
 -  Duchess https://duchess-rs.github.io/duchess/  java interop
 -  UniFFI  https://mozilla.github.io/uniffi-rs/latest/  a multi-language bindings  
@@ -65,7 +87,9 @@
 - Hydro https://hydro.run/docs/hydro/
 - Async with too many web servers https://ibraheem.ca/posts/too-many-web-servers/ 
 
--  
+## K8s
+-  Spin https://developer.fermyon.com/spin/v2/ 
+-  SpinKube https://www.spinkube.dev/docs/overview/  
 
 
 -  
@@ -110,8 +134,7 @@
 -  https://leptos-use.rs/introduction.html 
 -  
 
--  Spin https://developer.fermyon.com/spin/v2/ 
--  SpinKube https://www.spinkube.dev/docs/overview/ 
+
 -  High level rust https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e 
 -  
 ## AI 
@@ -154,7 +177,10 @@
 -  Building AWS Lambda functions with Rust https://docs.aws.amazon.com/lambda/latest/dg/lambda-rust.html 
 -  
 
-
+- Rust rapid-rs https://crates.io/crates/rapid-rs 
+- Cargo, RustC
+- Rust Delta-Lake https://delta-io.github.io/delta-rs/ 
+- Liquid rust https://github.com/cobalt-org/liquid-rust templating
 - Crux: Cross-platform app dev https://redbadger.github.io/crux/
 - Crossfire  https://github.com/frostyplanet/crossfire-rs 
 -  gpui electron alternative https://www.gpui.rs/#examples
@@ -219,18 +245,10 @@
 -  Book: black hat rust (210 pages)                        https://kerkour.com/black-hat-rust 
 -  Chalk – Rust trait system  https://rust-lang.github.io/chalk/book/what_is_chalk.html 
 -  Prusti https://viperproject.github.io/prusti-dev/user-guide/intro.html verifier
--  Rust Vulkan https://kylemayes.github.io/vulkanalia/ 
--  Vulkano https://vulkano.rs/guide/introduction
+
 -  https://guides.neon-bindings.com/  develop Node modules in Rust
 -  Rust Loco (60 pages) https://loco.rs/docs/getting-started/ rust on rails
--  Rust Macros (205 pages)
--  - https://veykril.github.io/tlborm/ 
--  - Latam: procedural macros workshop https://github.com/dtolnay/proc-macro-workshop 
--  - MacroKata https://tfpk.github.io/macrokata/  a set of exercises to learn macros in Rust.
--  Nom (30 pages)             https://tfpk.github.io/nominomicon/ 
--  https://github.com/rust-bakery/nom/tree/main/doc
--  https://github.com/rust-bakery/nom/blob/main/doc/choosing_a_combinator.md 
--  tree sitter https://tree-sitter.github.io/tree-sitter/ 
+
 -  Rust learning https://book.gist.rs/hello/mod.html 
 -  Miri IR interpreter https://github.com/rust-lang/miri/ 
 -  https://analysis-tools.dev/tag/rust 
@@ -247,13 +265,12 @@
 -  Rust spir-v https://docs.rs/rspirv/latest/rspirv/ 
 -  https://way-cooler.org/book/wayland_introduction.html rust wayland
 -  https://mozilla.github.io/uniffi-rs/ 
--  Krustlet (K8s - dead) https://docs.krustlet.dev/ 
+-  Krustlet (K8s - DEAD) https://docs.krustlet.dev/ 
 -  Godot https://godot-rust.github.io/book/ 
 -  rust-vmm project https://github.com/rust-vmm 
 -  Websockets https://github.com/sdroege/async-tungstenite 
 -  Flume https://github.com/zesterer/flume?tab=readme-ov-file 
 -  Rust in Kernel Development - howto setup https://medium.com/@alessandrozanni.dev/rust-in-kernel-development-1aea34e5c4b0 
--  RUST-CUDA- back from the dead ?  https://rust-gpu.github.io/ 
 -  knurling sessions https://session20q4.ferrous-systems.com/ embedded
 -  LLM-chain https://docs.llm-chain.xyz/docs/introduction
 -  see also https://github.com/Abraxas-365/langchain-rust 
@@ -375,8 +392,8 @@
 - Rust 2024 Edition changes (30 pages)
 - facet https://facet.rs   Rust reflection
 - Rust Kotlin FFI https://mozilla.github.io/uniffi-rs/latest/ 
-- Rust bezier-rs https://keavon.github.io/Bezier-rs/ nice!
 
+- Fluvio https://www.fluvio.io/docs/fluvio/overview stream processing
 
 ## Additional Resources from Remote
 -  Async with too many web servers https://ibraheem.ca/posts/too-many-web-servers/ 
