@@ -14,3 +14,4 @@
 -  Book: Idris
 -  Phoenix https://github.com/phoenixframework/phoenix/blob/master/README.md  elixir framework
 -  Tau PL for software synthesis https://github.com/IDNI/tau-lang?tab=readme-ov-file 
+-  Tomo http://tomo.bruce-hill.com/ a safe C  transcompiler
